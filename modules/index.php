@@ -99,15 +99,10 @@
                  <div class="sub-title border-bot-light">CUANDO INTERIOR Y EXTERIOR SE FUNDEN EN UNO</div>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title"><span></span> Titulo 1</div>
+                 <div class="section-title"><span></span> ForView</div>
                  <p>
-                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde ipsam doloribus, obcaecati voluptate
-                     dolores quae expedita eos velit et rem.
-                 </p>
-                 <p>
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit pariatur ipsum ex at rem!
-                     Deserunt ipsum atque molestias illo ipsam, consectetur quasi hic numquam maiores, totam inventore
-                     ipsa dolorem quo?
+                     Una parte fundamental para dar continuidad al paisaje, integrando visión al concepto
+                     arquitectónico, exaltando la transición del entorno, garantizando seguridad.
                  </p><br>
                  <div class="row">
                      <div class="col col-md-4">
@@ -143,13 +138,13 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30">
-                     <h2 style="font-size: 3rem;" class="sub-title border-bot-dark">Titulo 2</h2>
+                     <h2 style="font-size: 3rem;" class="sub-title border-bot-dark">Empresa</h2>
                      <p>
-                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque a, itaque consectetur distinctio
-                         enim cupiditate asperiores possimus. Officiis non eveniet, iste voluptatem voluptas quos
-                         blanditiis quod culpa nam consectetur a minus nulla ipsum? Cupiditate cum praesentium quos
-                         placeat soluta, illo repellendus? Quis soluta cumque animi non accusantium asperiores,
-                         repellendus esse.
+                         ForView es una empresa orgullosamente mexicana, generada por un proceso de Spin-off que ha
+                         visto Humberto Armenta, ya Director Técnico de la empresa de familia, independizarse creando
+                         una propia línea de cancelería de lujo para las residencias que se encuentran en la costas
+                         Pacífica de México y Estados Unidos.
+
                      </p>
                  </div>
                  <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
@@ -260,20 +255,17 @@
      <div class="container">
          <div class="row mb-5">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <h2 class="sub-title border-bot-light">Lorem ipsum dolor</h2>
+                 <h2 class="sub-title border-bot-light">CONSTISTENCIA ELEGANCIA PRECISION </h2>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title"><span>Titulo</span> 4</div>
+                 <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>
                  <p>
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam ea dicta incidunt quisquam
-                     mollitia impedit, perspiciatis voluptatibus pariatur et, animi at similique. Voluptates nesciunt
-                     libero assumenda? Esse, voluptas! Eligendi rerum mollitia impedit ad suscipit accusamus, libero
-                     delectus illo. Dolores, amet?
+                     ¡SOMOS JÓVENES, CAPACITADOS EN LAS NUEVAS TECNOLOGIAS Y CON MUCHA EXPERIENCIA!
+                     Además de la Calidad, de la Tecnología, de los Sevicios costumerizados que nos caracterizan somos
+                     un equipo FUERTEMENTE COMPROMETIDOS con los resultados de la empresa. <br>
+                     “ForvIew es algo mas de una empresa, es una familia, con sus valores, principios y estándares, pero
+                     somos orgullos de hacer parte de ella” Humberto.
                      <br><br>
-                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum ratione, atque perspiciatis odit
-                     architecto autem id iusto ab veniam omnis veritatis ducimus maiores possimus? Illum, quo eum ea
-                     itaque ad incidunt eveniet doloribus laboriosam esse, quibusdam ratione officia neque, porro
-                     explicabo error sapiente corrupti doloremque quae nulla? Suscipit, impedit possimus!
                  </p>
              </div>
          </div>
@@ -293,8 +285,11 @@
                      <div class="cont">
                          <h2>Titulo</h2>
                          <p>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia sapiente quae natus assumenda voluptas adipisci minima consectetur sunt exercitationem hic cumque odio nostrum voluptatum suscipit, fugiat qui rerum eos commodi. Aliquid eligendi quisquam repudiandae voluptate quaerat eaque asperiores id cum?
-                            <br><br>
+                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia sapiente quae natus
+                             assumenda voluptas adipisci minima consectetur sunt exercitationem hic cumque odio nostrum
+                             voluptatum suscipit, fugiat qui rerum eos commodi. Aliquid eligendi quisquam repudiandae
+                             voluptate quaerat eaque asperiores id cum?
+                             <br><br>
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
                          <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>

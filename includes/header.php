@@ -44,7 +44,7 @@
                     </li>
                     <li><a href="galeria.php">Galería</a></li>
                     <li><a href="empresa.php">Empresa</a></li>
-                    <li><a href="distribuidor.php">Distribuidor</a></li>
+                    <!-- <li><a href="distribuidor.php">Distribuidor</a></li> -->
                     <li><a href="descarga.php">Descarga</a></li>
                     <!-- <li><a href="#">Projects</a>
                         <ul>
