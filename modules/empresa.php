@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-overlay-dark="4" data-background="images/slider/3.jpg">
+<div class="banner-header valign bg-img bg-fixed"  data-background="images/slider/3.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
@@ -126,6 +126,57 @@
                     una recompensa del esfuerzo hecho, por todo el equipo de ForView.
 
                 </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Testiominals -->
+<section class="testimonials">
+    <div class="background bg-img bg-fixed section-padding" data-background="images/slider/6.jpg" data-overlay-dark="3" >
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-30">
+                    <h3 class="sub-title border-bot-dark">Testiominals</h3>
+                </div>
+                <div class="col-md-8">
+                    <div class="section-title">What Client's Say?</div>
+                    <div class="wrap">
+                        <div class="owl-carousel owl-theme">
+                            <div class="item"> <span class="quote"><img src="images/quot.png" alt=""></span>
+                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
+                                <div class="info">
+                                    <div class="author-img"> <img src="images/team/1.jpg" alt=""> </div>
+                                    <div class="cont">
+                                        <h6>Jason Brown</h6> <span>Crowne Plaza Owner</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item"> <span class="quote">
+                                    <img src="images/quot.png" alt="">
+                                </span>
+                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
+                                <div class="info">
+                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="cont">
+                                        <h6>Emily White</h6> <span>Armada Owner</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item"> <span class="quote">
+                                    <img src="images/quot.png" alt="">
+                                </span>
+                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
+                                <div class="info">
+                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="cont">
+                                        <h6>Jesica Smith</h6> <span>Alsa Manager</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

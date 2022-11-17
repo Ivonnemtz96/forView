@@ -3644,6 +3644,10 @@ input[type="checkbox"] {
 /* [data-overlay-dark]:before {
   background: #000;
 } */
+
+[data-overlay-dark]:before {
+  background: #000;
+}
 [data-overlay-light]:before {
   background: #fff;
 }
