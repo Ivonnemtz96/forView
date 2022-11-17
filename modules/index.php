@@ -138,7 +138,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30">
-                     <h2 style="font-size: 3rem;" class="sub-title border-bot-dark">Empresa</h2>
+                     <h2 style="font-size: 3rem;" class="sub-title border-bot-dark">ForView</h2>
                      <p>
                          ForView es una empresa orgullosamente mexicana, generada por un proceso de Spin-off que ha
                          visto Humberto Armenta, ya Director Técnico de la empresa de familia, independizarse creando
@@ -259,14 +259,7 @@
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>
-                 <p>
-                     ¡SOMOS JÓVENES, CAPACITADOS EN LAS NUEVAS TECNOLOGIAS Y CON MUCHA EXPERIENCIA!
-                     Además de la Calidad, de la Tecnología, de los Sevicios costumerizados que nos caracterizan somos
-                     un equipo FUERTEMENTE COMPROMETIDOS con los resultados de la empresa. <br>
-                     “ForvIew es algo mas de una empresa, es una familia, con sus valores, principios y estándares, pero
-                     somos orgullos de hacer parte de ella” Humberto.
-                     <br><br>
-                 </p>
+
              </div>
          </div>
          <div class="row">
@@ -283,12 +276,55 @@
              <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
                  <div class="content">
                      <div class="cont">
-                         <h2>Titulo</h2>
+                         <h2>ForView</h2>
                          <p>
-                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia sapiente quae natus
-                             assumenda voluptas adipisci minima consectetur sunt exercitationem hic cumque odio nostrum
-                             voluptatum suscipit, fugiat qui rerum eos commodi. Aliquid eligendi quisquam repudiandae
-                             voluptate quaerat eaque asperiores id cum?
+                             texto
+                         </p>
+                         <!-- <h3>Ultra-Modern House Design</h3> -->
+                         <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
+
+ <!-- Projects 3 -->
+ <section class="projects3 section-padding">
+     <div class="container">
+         <div class="row mb-5">
+             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
+                 <h2 class="sub-title border-bot-light">CONSTISTENCIA ELEGANCIA PRECISION </h2>
+             </div>
+             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
+                 <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>
+
+             </div>
+         </div>
+         <div class="row">
+             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
+                 <div class="vid-area mb-30">
+                     <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
+                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span
+                                 class="video-gallery-polygon">
+                                 <i class="ti-control-play"></i>
+                             </span> </a>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
+                 <div class="content">
+                     <div class="cont">
+                         <h2>Equipo ForView</h2>
+                         <p>
+                             ¡SOMOS JÓVENES, CAPACITADOS EN LAS NUEVAS TECNOLOGIAS Y CON MUCHA EXPERIENCIA!
+                             Además de la Calidad, de la Tecnología, de los Sevicios costumerizados que nos caracterizan
+                             somos
+                             un equipo FUERTEMENTE COMPROMETIDOS con los resultados de la empresa. <br>
+                             “ForView es algo mas de una empresa, es una familia, con sus valores, principios y
+                             estándares, pero
+                             somos orgullos de hacer parte de ella” Humberto.
                              <br><br>
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
