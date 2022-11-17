@@ -11,6 +11,7 @@
 <script src="modules/masonry/masonry.pkgd.min.js"></script>
 <script src="modules/YouTubePopUp/YouTubePopUp.js"></script>
 <script src="js/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
 <script>
     let producto1 = document.getElementById('producto1');
     let producto2 = document.getElementById('producto2');

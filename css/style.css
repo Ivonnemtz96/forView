@@ -147,6 +147,8 @@ a:focus {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+
 .bg-fixed {
   background-attachment: fixed;
 }
@@ -1235,6 +1237,7 @@ input[type="checkbox"] {
   background-size: cover;
   background-position: center;
 }
+
 .slider .item .caption,
 .slider-fade .item .caption {
   z-index: 9;
