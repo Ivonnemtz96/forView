@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed"  data-background="images/slider/3.jpg">
+<div class="banner-header valign bg-img bg-fixed" data-background="images/slider/3.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
@@ -133,44 +133,98 @@
 
 <!-- Testiominals -->
 <section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding" data-background="images/slider/6.jpg" data-overlay-dark="3" >
+    <div class="background bg-img bg-fixed section-padding" data-background="images/slider/6.jpg" data-overlay-dark="3">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-30">
-                    <h3 class="sub-title border-bot-dark">Testiominals</h3>
+                    <h3 class="sub-title border-bot-dark">Opiniones</h3>
                 </div>
                 <div class="col-md-8">
-                    <div class="section-title">What Client's Say?</div>
+                    <div class="section-title">¿Qué dicen nuestros empleados?</div>
                     <div class="wrap">
                         <div class="owl-carousel owl-theme">
                             <div class="item"> <span class="quote"><img src="images/quot.png" alt=""></span>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
+                                <p>
+                                    Es Un lugar de expresión, de precisión en magnitud
+                                </p>
                                 <div class="info">
                                     <div class="author-img"> <img src="images/team/1.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h6>Jason Brown</h6> <span>Crowne Plaza Owner</span>
+                                        <h3>Humberto</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
                                     <img src="images/quot.png" alt="">
                                 </span>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
+                                <p>
+                                    Hacemos cosas difíciles, diferentes, es un compromiso muy grande y un reto nuevo de
+                                    desarrollar algo nuevo todos los días
+                                </p>
                                 <div class="info">
                                     <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h6>Emily White</h6> <span>Armada Owner</span>
+                                        <h3>Dani</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
                                     <img src="images/quot.png" alt="">
                                 </span>
-                                <p>Architecture viverra tristique justo duis vitae diam neque nivamus aestan ateuene artines aringianu the ateliten finibus viverra nec lacus. Nedana theme erodino setlie suscipe no curabit tristique. Design nila iman the finise viverra nec a lacus themo the seneoice misuscipit non sagie the fermen.</p>
+                                <p>
+                                    Ofrecer soluciones que otro no pueden ofrecer, es bonito ver que nos buscan porque
+                                    podemos hacer elementos de calidad y dar soluciones tanto técnicas y estéticas que
+                                    muchos no pueden teniendo en cuenta que hay mucha competencia en el ramo y sin
+                                    embargo somos la primera opción de los clientes
+                                </p>
                                 <div class="info">
                                     <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h6>Jesica Smith</h6> <span>Alsa Manager</span>
+                                        <h3>Lorenz</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item"> <span class="quote">
+                                    <img src="images/quot.png" alt="">
+                                </span>
+                                <p>
+                                    Es una empresa que mejora todos los días sin descuidar su precisión en los detalles
+                                    y en la que siempre algo nuevo que aprender
+                                </p>
+                                <div class="info">
+                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="cont">
+                                        <h3>Ruben</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item"> <span class="quote">
+                                    <img src="images/quot.png" alt="">
+                                </span>
+                                <p>
+                                    Es una empresa familiar de éxito con proyección a futuro
+                                </p>
+                                <div class="info">
+                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="cont">
+                                        <h3>Efrain</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item"> <span class="quote">
+                                    <img src="images/quot.png" alt="">
+                                </span>
+                                <p>
+                                    Capaces de diseñar soluciones retadoras para conseguir siempre la satisfacción del
+                                    cliente.
+                                </p>
+                                <div class="info">
+                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="cont">
+                                        <h3>Giacomo</h3>
                                     </div>
                                 </div>
                             </div>
