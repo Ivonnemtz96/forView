@@ -189,25 +189,25 @@
                          <div class="owl-carousel owl-theme">
                              <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/projects/06.jpg">
                              </div>
-                             <div class="text-left item bg-img" data-overlay-dark="4" data-background="images/projects/03.jpg">
+                             <div class="text-left item bg-img" data-overlay-dark="4" data-background="images/projects/13.jpg">
                              </div>
-                             <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/projects/04.jpg">
+                             <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/projects/14.jpg">
                              </div>
                          </div>
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
-                         <h3><a href="#">Pivotante</a></h3>
+                         <h3><a href="#">Corredera</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="images/projects/02.jpg" alt=""></a>
+                     <a href="#"><img src="images/projects/015.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>02</p>
-                         <h3><a href="#">Corredera</a></h3>
+                         <h3><a href="#">Pivotante</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
