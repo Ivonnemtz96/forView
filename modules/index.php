@@ -133,8 +133,7 @@
 
  <!-- Lets Talk -->
  <section class="lets-talk">
-     <div class="background bg-img bg-fixed section-padding" data-background="images/slider/1.jpg"
-         data-overlay-dark="6">
+     <div class="background bg-img bg-fixed section-padding" data-background="images/slider/1.jpg" data-overlay-dark="6">
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30">
@@ -150,8 +149,7 @@
                  <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                      <div class="vid-area mb-30">
                          <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
-                             <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span
-                                     class="video-gallery-polygon">
+                             <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
                                      <i style="color: #fff;" class="ti-control-play"></i>
                                  </span> </a>
                          </div>
@@ -187,8 +185,17 @@
          <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="images/projects/06.jpg" alt=""></a>
-                     <div class="projects2-con">
+                     <div id="slider-area" class="header slider-fade">
+                         <div class="owl-carousel owl-theme">
+                             <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/projects/06.jpg">
+                             </div>
+                             <div class="text-left item bg-img" data-overlay-dark="4" data-background="images/projects/03.jpg">
+                             </div>
+                             <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/projects/04.jpg">
+                             </div>
+                         </div>
+                     </div>
+                     <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
                          <h3><a href="#">Pivotante</a></h3>
                          <a href="#" class="project2-link"></a>
@@ -266,8 +273,7 @@
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
                      <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
-                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span
-                                 class="video-gallery-polygon">
+                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>
                      </div>
@@ -306,8 +312,7 @@
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
                      <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
-                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span
-                                 class="video-gallery-polygon">
+                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>
                      </div>
