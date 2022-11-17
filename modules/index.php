@@ -185,7 +185,7 @@
          <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
-                 <div class="fotorama">
+                     <div class="fotorama">
                          <img src="images/projects/06.jpg" alt="">
                          <img src="images/projects/13.jpg" alt="">
                          <img src="images/projects/14.jpg" alt="">
@@ -222,10 +222,15 @@
              </div>
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="images/projects/04.jpg" alt=""></a>
+                     <div class="fotorama">
+                         <img src="images/projects/18.jpg" alt="">
+                         <img src="images/projects/19.jpg" alt="">
+                         <img src="images/projects/20.jpg" alt="">
+                         <img src="images/projects/21.jpg" alt="">
+                     </div>
                      <div class="projects2-con">
                          <p>04</p>
-                         <h3><a href="#">Turnable Corner</a></h3>
+                         <h3><a href="#">Puertas</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -245,7 +250,7 @@
                      <a href="#"><img src="images/projects/05.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>06</p>
-                         <h3><a href="#">Titulo</a></h3>
+                         <h3><a href="#">Turnable Corner</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
