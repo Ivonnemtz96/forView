@@ -150,9 +150,9 @@
                                     Es Un lugar de expresión, de precisión en magnitud
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="images/team/1.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h3>Humberto</h3>
+                                        <h3 style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;">Humberto</h3>
                                     </div>
                                 </div>
                             </div>
@@ -166,7 +166,7 @@
                                 <div class="info">
                                     <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h3>Dani</h3>
+                                        <h3 style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;">Dani</h3>
                                     </div>
                                 </div>
                             </div>
@@ -180,9 +180,9 @@
                                     embargo somos la primera opción de los clientes
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h3>Lorenz</h3>
+                                        <h3 style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;">Lorenz</h3>
                                     </div>
                                 </div>
                             </div>
@@ -195,9 +195,9 @@
                                     y en la que siempre algo nuevo que aprender
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h3>Ruben</h3>
+                                        <h3 style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;">Ruben</h3>
                                     </div>
                                 </div>
                             </div>
@@ -209,9 +209,9 @@
                                     Es una empresa familiar de éxito con proyección a futuro
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h3>Efrain</h3>
+                                        <h3 style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;">Efrain</h3>
                                     </div>
                                 </div>
                             </div>
@@ -224,9 +224,9 @@
                                     cliente.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="images/team/4.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h3>Giacomo</h3>
+                                        <h3 style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;">Giacomo</h3>
                                     </div>
                                 </div>
                             </div>
