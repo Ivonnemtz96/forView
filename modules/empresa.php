@@ -1,10 +1,14 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="images/slider/3.jpg">
+<div class="banner-header valign bg-img bg-fixed" data-background="images/slider/12.jpg" style="background-position: bottom center;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
-                <div class="subtitle">Nuestra empresa</div>
-                <div class="title">For<span>View</span></div>
+                <div style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;" class="subtitle">
+                    Nuestra empresa  </div>
+                    <br>
+                <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px;" class="title">
+                    <strong>ForView</strong>
+                </div>
             </div>
         </div>
     </div>
@@ -15,7 +19,7 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4 animate-box" data-animatitulote-effect="fadeInUp">
-                <div class="sub-title border-bot-light">ForView</div>
+                <div class="sub-title border-bot-light">Somos una empresa mexicana</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="section-title"><span>ForView</span></div>
@@ -31,19 +35,17 @@
         <div class="row">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <a href="#"><img src="images/slider/1.jpg" alt=""></a>
+                    <a href="#"><img src="images/slider/15.jpg" alt=""></a>
                 </div>
             </div>
             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
                 <div class="content">
                     <div class="cont">
                         <!-- <h6>Project P.01</h6> -->
-                        <h3>Titulo 3</h3>
+                        <h3>Pasión por las ventanas</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus libero dolore labore,
-                            maxime cum facilis omnis tenetur nihil temporibus ad at, quisquam itaque illo quis modi
-                            beatae repudiandae incidunt, hic atque. Commodi, a tempore fugiat id culpa veniam maxime
-                            quia.
+                            El diseño y la calidad son parte de nuestro compromiso. <br>
+                            Una parte fundamental para dar continuidad al paisaje, integrando visión al concepto arquitectónico, exaltando la transición del entorno, garantizando seguridad.
                         </p>
                         <!-- <div class="more"><a href="project-page.html" class="link-btn" tabindex="0">View Project</a>
                         </div> -->
@@ -51,7 +53,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-120">
+        <div hidden class="row mt-120">
             <div class="col-md-4 order2 valign animate-box" data-animate-effect="fadeInUp">
                 <div class="content">
                     <div class="cont">
@@ -74,7 +76,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-120">
+        <div hidden class="row mt-120">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInLeft">
                 <div class="img">
                     <a href="#"><img src="images/slider/3.jpg" alt=""></a>
@@ -133,7 +135,7 @@
 
 <!-- Testiominals -->
 <section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding" data-background="images/slider/6.jpg" data-overlay-dark="3">
+    <div class="background bg-img bg-fixed section-padding" data-background="images/slider/18.jpg" data-overlay-dark="3">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-30">
