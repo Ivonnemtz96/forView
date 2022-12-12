@@ -3806,3 +3806,7 @@ input[type="checkbox"] {
 .detalles li{
   list-style-type: circle !important;
 }
+.phone1:hover{
+  color: #aa8453 !important;
+  text-decoration: underline;
+}
