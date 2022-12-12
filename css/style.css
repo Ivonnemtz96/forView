@@ -3810,3 +3810,10 @@ input[type="checkbox"] {
   color: #aa8453 !important;
   text-decoration: underline;
 }
+.phone2{
+  color: #fff !important;
+}
+.phone2:hover{
+  color: #aa8453 !important;
+  text-decoration: underline;
+}
