@@ -149,7 +149,7 @@
                  <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                      <div class="vid-area mb-30">
                          <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
-                             <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
+                             <a class="video-gallery-button vid" href="https://youtu.be/YEgDo2E0cwQ"> <span class="video-gallery-polygon">
                                      <i style="color: #fff;" class="ti-control-play"></i>
                                  </span> </a>
                          </div>
@@ -318,7 +318,7 @@
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
                      <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
-                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
+                         <a class="video-gallery-button vid" href="https://youtu.be/Lx0_2Qw3A_I"> <span class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>
                      </div>
