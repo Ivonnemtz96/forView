@@ -19,7 +19,7 @@
     let producto4 = document.getElementById('producto4');
 
     producto1.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/4.jpg)";
+        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/11.jpg)";
     })
 
     producto1.addEventListener("mouseout", (e) => {
@@ -27,23 +27,23 @@
     })
 
     producto2.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/3.jpg)";
+        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/14.jpg)";
     })
 
     producto2.addEventListener("mouseout", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/3.jpg)";
+        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/15.jpg)";
     })
 
     producto3.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/6.jpg)";
-    })
-
-    producto3.addEventListener("mouseout", (e) => {
         document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/2.jpg)";
     })
 
+    producto3.addEventListener("mouseout", (e) => {
+        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/13.jpg)";
+    })
+
     producto4.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/5.jpg)";
+        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/12.jpg)";
     })
 
     producto4.addEventListener("mouseout", (e) => {

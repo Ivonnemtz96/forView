@@ -4,33 +4,80 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class=""><br><br><br></div>
-                <div class="title"></div> 
+                <div class="title"></div>
             </div>
         </div>
     </div>
 </div>
 
 <div class="container-fluid overflow-hidden">
-    <div class="row align-items-center justify-content-center h-100 m-2">
+    <div class="row justify-content-center h-100 m-2">
         <div id="producto1" class="text-center col-3 py-5 px-4 productos-hover">
-        <h3>Producto 1</h3>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates consequuntur nihil, repellat ducimus exercitationem sapiente quam accusantium alias, sint maiores eos similique quos eius veniam eum dicta laboriosam doloremque dolore, quas harum! Assumenda unde error molestiae nulla asperiores molestias expedita?</p>
+            <h3>Correderas</h3>
+            <p>
+            <ul class="detalles">
+                <li>La ventana corredera permite una amplia vista panorámica.</li>
+                <li>El cierre de los elementos puede ser lateral o central.</li>
+                <li>Los elementos cuentan con diversas configuraciones tanto en aperturas, como en número de hojas.
+                </li>
+                <li>Nuestros sistemas permiten ahogar el marco en el piso y en las paredes, permitiéndole al espacio
+                    quedar completamente despejado.</li>
+                <li>De igual forma cuentan con soluciones ANTI HURACÁN según el tipo de refuerzo y dimensiones del
+                    elemento.</li>
+                <li>Todos los rodamientos son de acero inoxidable fabricados por nosotros mismos en nuestra Planta.</li>
+                <li>Elegancia, robustez y practicidad son las características de estas soluciones de corredizas.</li>
+                <li>Toda la tornillería se encuentra oculta.</li>
+                <li>Los cristales están completamente sellados.</li>
+                <li>Los espesores de los anodizados arrancan desde 20 micras.</li>
+            </ul>
+            </p>
         </div>
         <div id="producto2" class="text-center col-3 py-5 px-4 productos-hover">
-        <h3>Producto 2</h3>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates consequuntur nihil, repellat ducimus exercitationem sapiente quam accusantium alias, sint maiores eos similique quos eius veniam eum dicta laboriosam doloremque dolore, quas harum! Assumenda unde error molestiae nulla asperiores molestias expedita?</p>
+            <h3>Pivotante</h3>
+            <p>
+            <ul class="detalles">
+                <li>La puerta pivotante se abre sobre su eje vertical normalmente posicionado en un lado.</li>
+                <li>Una forma elegante de transición para ambientes colocados en el mismo nivel.</li>
+                <li>Gracias a las líneas esenciales de nuestras series, es un elemento arquitectónico o de interiorismo,
+                    según su colocación que caracteriza ese espacio</li>
+                <li>La versatilidad del aluminio y del acero permiten integrarse perfectamente en ambientes minimalistas
+                    o en ambientes coloniales y étnicos.</li>
+                <li>Integrada en correderas de más de 4 hojas representa una práctica solución que permite la transición
+                    si tener que mover el sistema de correderas</li>
+            </ul>
+            </p>
         </div>
         <div id="producto3" class="text-center col-3 py-5 px-4 productos-hover">
-        <h3>Producto 3</h3>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates consequuntur nihil, repellat ducimus exercitationem sapiente quam accusantium alias, sint maiores eos similique quos eius veniam eum dicta laboriosam doloremque dolore, quas harum! Assumenda unde error molestiae nulla asperiores molestias expedita?</p>
+            <h3>Guillotina</h3>
+            <p>
+            <ul class="detalles">
+                <li>
+                    Ninguna otra solución como la guillotina permite la separación de ambientes, desaparición total del
+                    sistema y la creación de barandales temporáneos.
+                </li>
+                <li>
+                    Es una solución así como la corredera que ahorra espacios operativos en el ambiente donde se coloca
+                    y si puede contar con pocket verticales.
+                </li>
+                <li>
+                    El sistema de motorización representa una opción única en la delimitación temporal de espacios
+                    internos y externos como albercas, jardines, kínder, áreas, etc.
+                </li>
+            </ul>
+            </p>
         </div>
         <div id="producto4" class="text-center col-3 py-5 px-4 productos-hover">
-        <h3>Producto 4</h3>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates consequuntur nihil, repellat ducimus exercitationem sapiente quam accusantium alias, sint maiores eos similique quos eius veniam eum dicta laboriosam doloremque dolore, quas harum! Assumenda unde error molestiae nulla asperiores molestias expedita?</p>
+            <h3>Abatible</h3>
+            <p>
+            <ul class="detalles">
+                <li>Proyectante, vasista, oscilobatiente y batiente.</li>
+                <li>Los sistemas pueden abrir en los dos sentidos.</li>
+                <li>Las aleaciones y la robustez de nuestros perfiles garantizan una hermeticidad total.</li>
+                <li>Las distintas configuraciones de cristal permitidas en nuestros sistemas ofrecen soluciones en
+                    condiciones climáticas extremas.</li>
+                <li>Los mecanismos de cierre y apertura son ajustados acorde a los parámetros requeridos.</li>
+            </ul>
+            </p>
         </div>
     </div>
 </div>
@@ -45,14 +92,15 @@
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="section-title">Titulo 2</div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem architecto ullam facilis delectus consectetur dolor eum nisi magnam doloremque expedita?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem architecto ullam facilis delectus
+                    consectetur dolor eum nisi magnam doloremque expedita?
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <a ><img src="images/slider/1.jpg" alt=""></a>
+                    <a><img src="images/slider/1.jpg" alt=""></a>
                 </div>
             </div>
             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
@@ -61,7 +109,10 @@
                         <h2>Titulo 3</h2>
                         <!-- <h3>Ultra-Modern House Design</h3> -->
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, quis inventore? Praesentium culpa provident labore laudantium obcaecati quia veniam, alias vitae fugiat magnam sapiente laborum autem eos unde possimus, id quo suscipit, facilis est deserunt hic accusamus? Hic, quo tenetur!
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, quis inventore?
+                            Praesentium culpa provident labore laudantium obcaecati quia veniam, alias vitae fugiat
+                            magnam sapiente laborum autem eos unde possimus, id quo suscipit, facilis est deserunt hic
+                            accusamus? Hic, quo tenetur!
                         </p>
                         <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
                         </div>
