@@ -192,7 +192,7 @@
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
-                         <h3><a href="#">Corredera</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Corredera</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -202,7 +202,7 @@
                      <img src="images/projects/15.jpg" alt="">
                      <div class="projects2-con">
                          <p>02</p>
-                         <h3><a href="#">Pivotante</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Pivotante</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -215,7 +215,7 @@
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>03</p>
-                         <h3><a href="#">Abatible</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Abatible</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -230,7 +230,7 @@
                      </div>
                      <div class="projects2-con">
                          <p>04</p>
-                         <h3><a href="#">Puertas</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Puertas</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -240,7 +240,7 @@
                      <a href="#"><img src="images/projects/01.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>05</p>
-                         <h3><a href="#">Protección anti huracán</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Protección anti huracán</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -250,7 +250,7 @@
                      <a href="#"><img src="images/projects/05.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>06</p>
-                         <h3><a href="#">Turnable Corner</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Turnable Corner</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
