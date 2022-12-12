@@ -87,32 +87,34 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                <div class="sub-title border-bot-light">Titulo 1</div>
+                <div class="sub-title border-bot-light">Nos atrevemos con la micromécanica</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-title">Titulo 2</div>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem architecto ullam facilis delectus
-                    consectetur dolor eum nisi magnam doloremque expedita?
-                </p>
+                <div class="section-title">HERRAJES Y RODAMIENTOS</div>
+
             </div>
         </div>
         <div class="row">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <a><img src="images/slider/1.jpg" alt=""></a>
+                    <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="3000">
+                        <img src="images/slider/16.jpg" alt="">
+                        <img src="images/slider/17.jpg" alt="">
+                    </div>
                 </div>
             </div>
             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
                 <div class="content">
                     <div class="cont">
-                        <h2>Titulo 3</h2>
+                        <!-- <h2>HERRAJES Y RODAMIENTOS</h2> -->
                         <!-- <h3>Ultra-Modern House Design</h3> -->
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, quis inventore?
-                            Praesentium culpa provident labore laudantium obcaecati quia veniam, alias vitae fugiat
-                            magnam sapiente laborum autem eos unde possimus, id quo suscipit, facilis est deserunt hic
-                            accusamus? Hic, quo tenetur!
+                        <ul class="detalles">
+                            <li><strong>ForView</strong> utiliza equipos CNC para la fabricación de los herrajes de sus
+                                Sistemas.</li>
+                            <li>El error de sus equipos es de un décimo de milímetro así como en el sector automotriz.
+                            </li>
+                        </ul>
                         </p>
                         <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
                         </div>

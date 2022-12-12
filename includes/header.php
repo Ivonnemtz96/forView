@@ -5,9 +5,9 @@
     </div>
 </div>
 <!-- Navbar -->
-<div class="duru-header header-transparent">
+<div class="duru-header header-transparent" style="backdrop-filter: brightness(0.7);">
     <div class="container">
-        <div class="duru-header-container">
+        <div class="duru-header-container" >
             <!-- Logo -->
             <div class="logo" data-mobile-logo="images/logo.png" data-sticky-logo="images/logo.png">
                 <a href="index.php"><img src="images/logo-white.png" alt=""></a>

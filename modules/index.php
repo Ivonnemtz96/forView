@@ -133,7 +133,7 @@
 
  <!-- Lets Talk -->
  <section class="lets-talk">
-     <div class="background bg-img bg-fixed section-padding" data-background="images/slider/1.jpg" data-overlay-dark="6">
+     <div class="background bg-img bg-fixed section-padding" data-background="images/slider/18.jpg" data-overlay-dark="6">
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30">
@@ -164,15 +164,18 @@
      <div class="container">
          <div class="row mb-4">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <div class="sub-title border-bot-light">Nuestros productos</div>
+                 <div class="sub-title border-bot-light">Empresa orgullosamente mexicana</div>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title">Titulo <span>3</span></div>
-                 <p>
+                 <div class="section-title"><span>Nuestros productos</span></div>
+                 <br>
+                 <br>
+                 <br>
+                 <!-- <p>
                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt totam ab repudiandae debitis,
                      dicta ad quos consequuntur dolorem asperiores quo. Nihil sint possimus sequi molestiae aspernatur.
                      Quisquam quas ipsam totam esse dolorum ullam at! Perferendis sit non dolores nihil assumenda.
-                 </p>
+                 </p> -->
              </div>
          </div>
          <!-- <div class="row text-center animate-box" data-animate-effect="fadeInUp">
@@ -261,11 +264,11 @@
  </div>
 
  <!-- Projects 3 -->
- <section class="projects3 section-padding">
+ <section hidden class="projects3 section-padding">
      <div class="container">
          <div class="row mb-5">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <h2 class="sub-title border-bot-light">CONSTISTENCIA ELEGANCIA PRECISION </h2>
+                 <h2 class="sub-title border-bot-light">CONSTISTENCIA, ELEGANCIA, PRECISION </h2>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>
@@ -285,9 +288,9 @@
              <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
                  <div class="content">
                      <div class="cont">
-                         <h2>ForView</h2>
+                         <h2><strong>ForView</strong></h2>
                          <p>
-                             texto
+                             
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
                          <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
@@ -304,7 +307,7 @@
      <div class="container">
          <div class="row mb-5">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <h2 class="sub-title border-bot-light">CONSTISTENCIA ELEGANCIA PRECISION </h2>
+                 <h2 class="sub-title border-bot-light">CONSTISTENCIA, ELEGANCIA, PRECISION </h2>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>

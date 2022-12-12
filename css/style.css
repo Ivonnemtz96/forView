@@ -3646,7 +3646,7 @@ input[type="checkbox"] {
 } */
 
 [data-overlay-dark]:before {
-  background: #000;
+  /* background: #000;  se comenta el color negro de la opacidad*/ 
 }
 [data-overlay-light]:before {
   background: #fff;
