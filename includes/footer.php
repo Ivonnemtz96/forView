@@ -9,8 +9,7 @@
                 <div class="col-md-4">
                     <div class="item">
                         <h3 style="color: white;">San José</h3>
-                        <p style="color: white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
-                            voluptate.</p>
+                        <p style="color: white;">Guadalupe Victoria 3525, Sta Rosa, 23428 San José del Cabo, B.C.S.</p>
                         <p style="color: white;" class="phone">+52 123 456 7890</p>
                         <p style="color: white;" class="mail">
                             <a style="color: #fff;" target="_blank" href="mailto:info@forviewdoors.com">info@forviewdoors.com</a>
