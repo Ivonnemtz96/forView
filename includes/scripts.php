@@ -27,7 +27,7 @@
     })
 
     producto2.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/14.jpg)";
+        document.getElementById("banner-productos").style.backgroundImage = "url(images/slider/15.jpg)";
     })
 
     producto2.addEventListener("mouseout", (e) => {
