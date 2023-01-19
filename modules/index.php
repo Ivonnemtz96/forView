@@ -136,9 +136,9 @@
      <div class="background bg-img bg-fixed section-padding" data-background="images/slider/18.jpg" data-overlay-dark="6">
          <div class="container">
              <div class="row">
-                 <div class="col-md-4 mb-30">
-                     <h2 style="font-size: 3rem;" class="sub-title border-bot-dark">ForView</h2>
-                     <p>
+                 <div class="col-md-4 mb-30" style="background-color: #fff; margin-top:-8rem; padding: 20px;">
+                     <h2 style="font-size: 3rem; margin-top: 8rem;color: #000;" class="sub-title border-bot-dark">ForView</h2>
+                     <p style="color: #000;">
                          ForView es una empresa orgullosamente mexicana, generada por un proceso de Spin-off que ha
                          visto Humberto Armenta, ya Director Técnico de la empresa de familia, independizarse creando
                          una propia línea de cancelería de lujo para las residencias que se encuentran en la costas
@@ -254,6 +254,16 @@
                      <div class="projects2-con">
                          <p>06</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="#">Turnable Corner</a></h3>
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-md-6 single-item completed">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="images/projects/01.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <p>07</p>
+                         <h3 style="background: #fff;padding: 5px;"><a href="#">Guillotina</a></h3>
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
