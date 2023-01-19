@@ -29,7 +29,10 @@
                  <li data-filter=".corredera">Corredera</li>
                  <li data-filter=".pivotante">Pivotante</li>
                  <li data-filter=".guillotina">Guillotina</li>
+                 <li data-filter=".puertas">Puertas</li>
                  <li data-filter=".abatible">Abatible</li>
+                 <li data-filter=".proteccion">Protección anti huracám</li>
+                 <li data-filter=".turnable">Turnable Corner</li>
              </ul>
          </div>
          <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
