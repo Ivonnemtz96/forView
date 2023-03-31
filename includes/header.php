@@ -37,8 +37,8 @@
                     <li ><a href="productos.php">Productos</a>
                         <ul>
                             <li class="current-menu"><a href="productos.php">Corredera</a></li>
-                            <li><a href="productos.php">Pivotante</a></li>
-                            <li><a href="productos.php">Guillotina</a></li>
+                            <li><a href="pivotante.php">Pivotante</a></li>
+                            <li><a href="guillotina.php">Guillotina</a></li>
                             <li><a href="productos.php">Turnable Corner</a></li>
                         </ul>
                     </li>

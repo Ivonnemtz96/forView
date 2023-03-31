@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class="subtitle"><a href="productos.php">Detalles</a></div>
-                <div class="title">Correderas</div>
+                <div class="title">Guillotina</div>
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <span>Producto</span>
-                <h2>Corredera</h2>
+                <h2>Guillotina</h2>
                 <h2></h2>
                 <p>
                     El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
