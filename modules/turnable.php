@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class="subtitle"><a href="productos.php">Detalles</a></div>
-                <div class="title">Correderas</div>
+                <div class="title">Turnable</div>
             </div>
         </div>
     </div>
@@ -15,9 +15,9 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <span>Producto</span>
-                <h2>Corredera</h2>
+                <h2>Turnable</h2>
                 <h2></h2>
-                <p>
+                <!-- <p>
                     El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
                     hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin generar un cambio
                     de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido al tacto, y a su
@@ -31,7 +31,7 @@
                     igual que sellar completamente los cristales, con espesores anodizados para los perfiles desde 20
                     micras. Todas estas características aportan elegancia, robustez y practicidad a estas soluciones de
                     puertas corredizas.
-                </p>
+                </p> -->
             </div>
             <div class="col-md-6">
                 <div class="owl-carousel owl-theme">

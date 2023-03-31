@@ -33,13 +33,14 @@
                     puertas corredizas.
                 </p>
             </div>
-            <div class="col-md-6">
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/4.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/5.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/6.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/7.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/8.jpg" alt=""> </div>
+            <div class="col-md-6 justify-content-center align-items-center">
+                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
+                    data-minheight="300" data-maxheight="100%">
+                    <img class="img-fluid" src="images/slider/piv.jpg" alt="">
+                    <img class="img-fluid" src="images/slider/piv2.jpg" alt="">
+                    <img class="img-fluid" src="images/slider/piv3.jpg" alt="">
+                    <img class="img-fluid" src="images/slider/piv4.jpg" alt="">
+                    <img class="img-fluid" src="images/slider/piv5.jpg" alt="">
                 </div>
 
             </div>
@@ -55,27 +56,27 @@
                 </p>
                 <br>
             </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
+            <div class="col-12 col-md-8 mt-4 mb-5">
                 <h3>
-                    <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
+                    <strong>Show room. Los Cabos, México.</strong>
                 </h3>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chilenos.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chileno2.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv2.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chileno3.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv3.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chileno4.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv4.jpg" alt="">
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
+            <!-- <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Palmilla Villa 381 / Villa 221. Los Cabos, México.</strong>
                 </h3>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/palmilla1.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chilenos.jpg" alt="">
                     </div>
                     <div class="portfolio-item"> <img class="img-fluid" src="images/projects/palmilla2.jpg" alt="">
                     </div>
@@ -91,46 +92,8 @@
                     <div class="portfolio-item"> <img class="img-fluid" src="images/projects/ChilenoRe1.jpg" alt="">
                     </div>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="col-6 col-md-6 mt-4 mb-5">
-                <h3>
-                    <strong>Waldorf Astoria Hotel. Los Cabos, México.</strong>
-                </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/waldorf1.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
-                <h3>
-                    <strong>Querencia / Casa Legado. Los Cabos, México.</strong>
-                </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/querencia1.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
-                <h3>
-                    <strong>Chileno Bay/ Villa HV 305. Los Cabos, México.</strong>
-                </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chilenohv1.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
-                <h3>
-                    <strong>Diamante / Shangri LA 319. Los Cabos, México.</strong>
-                </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/diamante.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/diamante2.jpg" alt="">
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -154,8 +117,10 @@
                                         nivel.Gracias a las líneas esenciales de nuestras series, es un elemento
                                         arquitectónico o de interiorismo, según su colocación que caracteriza ese
                                         espacio. <br>
-                                        La versatilidad del aluminio y del acero permiten integrarse perfectamente en ambientes minimalistas o en ambientes coloniales y étnicos. <br>
-                                        Integrada en correderas de más de 4 hojas representa una práctica solución que permite la transición si tener que mover el sistema de correderas
+                                        La versatilidad del aluminio y del acero permiten integrarse perfectamente en
+                                        ambientes minimalistas o en ambientes coloniales y étnicos. <br>
+                                        Integrada en correderas de más de 4 hojas representa una práctica solución que
+                                        permite la transición si tener que mover el sistema de correderas
                                     </p>
                                     <p>
                                     <h4>Configuración</h4>

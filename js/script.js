@@ -492,7 +492,7 @@
         dots: false,
         margin: 0,
         autoplay: true,
-        autoplayTimeout: 5000,
+        autoplayTimeout: 3000,
          nav: true,
          navText: ['<i class="ti-angle-left" aria-hidden="true"></i>', '<i class="ti-angle-right" aria-hidden="true"></i>']
     });
