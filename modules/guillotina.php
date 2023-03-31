@@ -18,34 +18,26 @@
                 <h2>Guillotina</h2>
                 <h2></h2>
                 <p>
-                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
-                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin generar un cambio
-                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido al tacto, y a su
-                    vez, se puede guardar las hojas en un cajón de muro, permitiendo despejar completamente el espacio.
-                </p><br>
-                <p>
-                    De igual forma cuenta con soluciones anticiclónicas, contemplando la configuración de los refuerzos
-                    y dimensiones del elemento, su facilidad de movimiento es posible debido a que los rodamientos son
-                    de acero inoxidable fabricados en ForView. <br> <br>
-                    El diseño arquitectónico minimalista de los canceles permiten ocultar de la vista la tornillería, al
-                    igual que sellar completamente los cristales, con espesores anodizados para los perfiles desde 20
-                    micras. Todas estas características aportan elegancia, robustez y practicidad a estas soluciones de
-                    puertas corredizas.
+                    Ninguna otra solución como la guillotina permite la separación de ambientes, desaparición total del
+                    sistema y la creación de barandales temporáneos.
+                    <br>
+                    Es una solución así como la corredera que ahorra espacios operativos en el ambiente donde se coloca
+                    y si puede contar con pocket verticales. <br>
+                    El sistema de motorización representa una opción única en la delimitación temporal de espacios
+                    internos y externos como albercas, jardines, kínder, áreas, etc.
                 </p>
             </div>
             <div class="col-md-6">
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/4.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/5.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/6.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/7.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/8.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/guillotina.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/guillotina2.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/guillotina3.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/guillotina4.jpg" alt=""> </div>
                 </div>
-
             </div>
         </div>
     </div>
-    <div class="container p-5">
+    <div hidden class="container p-5">
         <!-- project slider -->
         <div class="row mt-5">
             <h2><b>Proyectos</b></h2>
@@ -135,7 +127,7 @@
     </div>
 </section>
 
-<section class="section-padding">
+<section hidden class="section-padding">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">
