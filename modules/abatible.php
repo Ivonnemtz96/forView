@@ -135,7 +135,7 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">
                 <ul class="accordion-box clearfix">
-                    <li class="accordion block">
+                    <li class="accordion block" id="puerta">
                         <div class="acc-btn">
                             <h2>ForView 28 / Puerta batiente</h2>
                         </div>
@@ -187,7 +187,7 @@
                             </div>
                         </div>
                     </li>
-                    <li class="accordion block">
+                    <li class="accordion block" id="ventana">
                         <div class="acc-btn">
                             <h2>ForView 28 / Ventana batiente</h2>
                         </div>

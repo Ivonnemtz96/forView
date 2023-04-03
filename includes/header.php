@@ -67,16 +67,10 @@
                                 <a href="/abatible">Abatible</a>
                                 <ul>
                                     <li>
-                                        <a href="#">Puertas</a>
-                                        <ul>
-                                            <li><a href="/abatible#28">ForView 28</a></li>
-                                        </ul>
+                                        <a href="/abatible#puerta">ForView 28 - Puerta</a>
                                     </li>
                                     <li>
-                                        <a href="#">Ventanas</a>
-                                        <ul>
-                                            <li><a href="/abatible#28">ForView 28</a></li>
-                                        </ul>
+                                        <a style="font-size: .9rem;" href="/abatible#ventana">ForView 28 - Ventana</a>
                                     </li>
                                 </ul>
                             </li>
