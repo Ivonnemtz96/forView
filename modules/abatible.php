@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class="subtitle"><a href="/productos">Detalles</a></div>
-                <div class="title">Abatible</div>
+                <div  style="background-color: #000; padding: 10px;" class="title">Abatible</div>
             </div>
         </div>
     </div>
