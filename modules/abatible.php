@@ -181,9 +181,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/03-Batiente.pdf" download="Hoja de datos Abatible">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                                </button>
+                                </a>
                             </div>
                         </div>
                     </li>
@@ -231,9 +231,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/03-Batiente.pdf" download="Hoja de datos Abatible">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                                </button>
+                                </a>
                             </div>
                         </div>
                     </li>
