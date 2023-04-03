@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div id="banner-productos" class="banner-header valign bg-img bg-fixed" data-background="images/slider/3.jpg">
+<div id="banner-productos" class="banner-header valign bg-img bg-fixed" data-background="/images/slider/3.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
@@ -98,8 +98,8 @@
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
                     <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="3000">
-                        <img src="images/slider/16.jpg" alt="">
-                        <img src="images/slider/17.jpg" alt="">
+                        <img src="/images/slider/16.jpg" alt="">
+                        <img src="/images/slider/17.jpg" alt="">
                     </div>
                 </div>
             </div>

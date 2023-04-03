@@ -25,11 +25,11 @@
                     <div class="item">
                         <h3 style="color: white;">Navegación</h3>
                         <ul>
-                            <li><a style="color: white;" href="productos.php">Productos</a></li>
-                            <li><a style="color: white;" href="galeria.php">Galería</a></li>
-                            <li><a style="color: white;" href="empresa.php">Empresa</a></li>
-                            <!-- <li><a style="color: white;" href="distribuidor.php">Distribuidor</a></li> -->
-                            <li><a style="color: white;" href="descarga.php">Descarga</a></li>
+                            <li><a style="color: white;" href="/productos">Productos</a></li>
+                            <li><a style="color: white;" href="/galeria">Galería</a></li>
+                            <li><a style="color: white;" href="/empresa">Empresa</a></li>
+                            <!-- <li><a style="color: white;" href="/distribuidor">Distribuidor</a></li> -->
+                            <li><a style="color: white;" href="/descarga">Descarga</a></li>
                         </ul>
                     </div>
                 </div>

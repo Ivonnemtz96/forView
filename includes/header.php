@@ -7,10 +7,10 @@
 <!-- Navbar -->
 <div class="duru-header header-transparent" style="backdrop-filter: brightness(0.7);">
     <div class="container">
-        <div class="duru-header-container" >
+        <div class="duru-header-container">
             <!-- Logo -->
-            <div class="logo" data-mobile-logo="images/logo.png" data-sticky-logo="images/logo.png">
-                <a href="index.php"><img src="images/logo-white.png" alt=""></a>
+            <div class="logo" data-mobile-logo="/images/logo.png" data-sticky-logo="/images/logo.png">
+                <a href="index.php"><img src="/images/logo-white.png" alt=""></a>
             </div>
             <!-- Burger menu -->
             <div class="burger-menu">
@@ -34,47 +34,61 @@
                             <li><a href="index9.html">Home Layout 09</a></li>
                         </ul>
                     </li> -->
-                    <li ><a href="productos.php">Productos</a>
+                    <li><a href="/productos">Productos</a>
                         <ul>
-                            <li class="current-menu"><a href="productos.php">Corredera</a></li>
-                            <li><a href="pivotante.php">Pivotante</a></li>
-                            <li><a href="guillotina.php">Guillotina</a></li>
-                            <li><a href="productos.php">Turnable Corner</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="galeria.php">Galería</a></li>
-                    <li><a href="empresa.php">Empresa</a></li>
-                    <!-- <li><a href="distribuidor.php">Distribuidor</a></li> -->
-                    <li><a href="descarga.php">Descarga</a></li>
-                    <!-- <li><a href="#">Projects</a>
-                        <ul>
-                            <li><a href="projects.html">Projects 01</a></li>
-                            <li><a href="projects2.html">Projects 02</a></li>
-                            <li><a href="projects3.html">Projects 03</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Pages</a>
-                        <ul>
-                            <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="faq.html">Faqs</a></li>
-                            <li><a href="process.html">Process</a></li>
-                            <li><a href="404.html">404 Page</a></li>
-                            <li><a href="#">Other Pages</a>
+                            <li>
+                                <a href="/detalle">Corredera</a>
                                 <ul>
-                                    <li><a href="services-page.html">Services Page</a></li>
-                                    <li><a href="project-page.html">Project Page</a></li>
-                                    <li><a href="post.html">Post Page</a></li>
+                                    <li><a href="/detalle#17">ForView 17</a></li>
+                                    <li><a href="/detalle#38">ForView 38</a></li>
+                                    <li><a href="/detalle#54">ForView 54</a></li>
                                 </ul>
                             </li>
+                            <li>
+                                <a href="/pivotante">Pivotante</a>
+                                <ul>
+                                    <li>
+                                        <a href="#">Puertas</a>
+                                        <ul>
+                                            <li><a href="/pivotante#28">ForView 28</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="#">Ventanas</a>
+                                        <ul>
+                                            <li><a href="/pivotante#28">ForView 28</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+
+
+                            <li>
+                                <a href="/abatible">Abatible</a>
+                                <ul>
+                                    <li>
+                                        <a href="#">Puertas</a>
+                                        <ul>
+                                            <li><a href="/abatible#28">ForView 28</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="#">Ventanas</a>
+                                        <ul>
+                                            <li><a href="/abatible#28">ForView 28</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li><a href="/guillotina">Guillotina</a></li>
+                            <li><a href="/productos">Turnable Corner</a></li>
+
                         </ul>
                     </li>
-                    <li><a href="#">Blog</a>
-                        <ul>
-                            <li><a href="blog.html">Blog 01</a></li>
-                            <li><a href="blog2.html">Blog 02</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="contact.html">Contact Us</a></li> -->
+                    <li><a href="/galeria">Galería</a></li>
+                    <li><a href="/empresa">Empresa</a></li>
+                    <li><a href="/descarga">Descarga</a></li>
                 </ul>
             </nav>
         </div>

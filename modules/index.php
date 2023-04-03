@@ -2,7 +2,7 @@
  <header id="slider-area" class="header slider-fade">
      <div class="owl-carousel owl-theme">
          <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-         <!-- <div class="text-left item bg-img" data-overlay-dark="4" data-background="images/slider/1.jpg">
+         <!-- <div class="text-left item bg-img" data-overlay-dark="4" data-background="/images/slider/1.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -11,7 +11,7 @@
                  </div>
              </div>
          </div> -->
-         <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/slider/2.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="3" data-background="/images/slider/2.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -26,7 +26,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="images/slider/3.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/images/slider/3.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -41,7 +41,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/slider/4.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="3" data-background="/images/slider/4.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -56,7 +56,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="images/slider/5.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/images/slider/5.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -71,7 +71,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="3" data-background="images/slider/6.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="3" data-background="/images/slider/6.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -107,19 +107,19 @@
                  <div class="row">
                      <div class="col col-md-4">
                          <div class="about-box">
-                             <img src="images/icon-1.png" class="icon" alt="">
+                             <img src="/images/icon-1.png" class="icon" alt="">
                              <h5>Arquitectura</h5>
                          </div>
                      </div>
                      <div class="col col-md-4">
                          <div class="about-box">
-                             <img src="images/icon-2.png" class="icon" alt="">
+                             <img src="/images/icon-2.png" class="icon" alt="">
                              <h5>Interior</h5>
                          </div>
                      </div>
                      <div class="col col-md-4">
                          <div class="about-box">
-                             <img src="images/icon-3.png" class="icon" alt="">
+                             <img src="/images/icon-3.png" class="icon" alt="">
                              <h5>Exterior</h5>
                          </div>
                      </div>
@@ -133,7 +133,7 @@
 
  <!-- Lets Talk -->
  <section class="lets-talk">
-     <div class="background bg-img bg-fixed section-padding" data-background="images/slider/18.jpg" data-overlay-dark="6">
+     <div class="background bg-img bg-fixed section-padding" data-background="/images/slider/18.jpg" data-overlay-dark="6">
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30" style="background-color: #fff; margin-top:-8rem; padding: 20px;">
@@ -148,7 +148,7 @@
                  </div>
                  <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                      <div class="vid-area mb-30">
-                         <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
+                         <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
                              <a class="video-gallery-button vid" href="https://youtu.be/R5LCZSsuCrM"> <span class="video-gallery-polygon">
                                      <i style="color: #fff;" class="ti-control-play"></i>
                                  </span> </a>
@@ -189,9 +189,9 @@
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
                      <div class="fotorama">
-                         <img src="images/projects/06.jpg" alt="">
-                         <img src="images/projects/13.jpg" alt="">
-                         <img src="images/projects/14.jpg" alt="">
+                         <img src="/images/projects/06.jpg" alt="">
+                         <img src="/images/projects/13.jpg" alt="">
+                         <img src="/images/projects/14.jpg" alt="">
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
@@ -202,7 +202,7 @@
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <img src="images/projects/15.jpg" alt="">
+                     <img src="/images/projects/15.jpg" alt="">
                      <div class="projects2-con">
                          <p>02</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="#">Pivotante</a></h3>
@@ -213,8 +213,8 @@
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
                      <div class="fotorama">
-                         <img src="images/projects/16.jpg" alt="">
-                         <img src="images/projects/17.jpg" alt="">
+                         <img src="/images/projects/16.jpg" alt="">
+                         <img src="/images/projects/17.jpg" alt="">
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>03</p>
@@ -226,10 +226,10 @@
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
                      <div class="fotorama">
-                         <img src="images/projects/18.jpg" alt="">
-                         <img src="images/projects/19.jpg" alt="">
-                         <img src="images/projects/20.jpg" alt="">
-                         <img src="images/projects/21.jpg" alt="">
+                         <img src="/images/projects/18.jpg" alt="">
+                         <img src="/images/projects/19.jpg" alt="">
+                         <img src="/images/projects/20.jpg" alt="">
+                         <img src="/images/projects/21.jpg" alt="">
                      </div>
                      <div class="projects2-con">
                          <p>04</p>
@@ -240,7 +240,7 @@
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="images/projects/01.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/01.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>05</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="#">Protección anti huracán</a></h3>
@@ -250,7 +250,7 @@
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="images/projects/05.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/05.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>06</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="#">Turnable Corner</a></h3>
@@ -260,7 +260,7 @@
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="images/projects/01.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/01.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>07</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="#">Guillotina</a></h3>
@@ -288,7 +288,7 @@
          <div class="row">
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
-                     <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
+                     <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
                          <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>
@@ -327,7 +327,7 @@
          <div class="row">
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
-                     <div class="vid-icon"> <img src="images/slider/6.jpg" alt="YouTube">
+                     <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
                          <a class="video-gallery-button vid" href="https://youtu.be/R5LCZSsuCrM"> <span class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>

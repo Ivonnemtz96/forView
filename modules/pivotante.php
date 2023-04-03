@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="images/slider/2.jpg">
+<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/2.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
@@ -36,11 +36,11 @@
             <div class="col-md-6 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
-                    <img class="img-fluid" src="images/slider/piv.jpg" alt="">
-                    <img class="img-fluid" src="images/slider/piv2.jpg" alt="">
-                    <img class="img-fluid" src="images/slider/piv3.jpg" alt="">
-                    <img class="img-fluid" src="images/slider/piv4.jpg" alt="">
-                    <img class="img-fluid" src="images/slider/piv5.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv2.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv3.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv4.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv5.jpg" alt="">
                 </div>
 
             </div>
@@ -61,13 +61,13 @@
                     <strong>Show room. Los Cabos, México.</strong>
                 </h3>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv2.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv2.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv3.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv3.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/slider/piv4.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv4.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -76,9 +76,9 @@
                     <strong>Palmilla Villa 381 / Villa 221. Los Cabos, México.</strong>
                 </h3>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chilenos.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/palmilla2.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla2.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -87,9 +87,9 @@
                     <strong>Chileno Bay Re 28 / Villa 221. Los Cabos, México.</strong>
                 </h3>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/chilenoRe2.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenoRe2.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="images/projects/ChilenoRe1.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/ChilenoRe1.jpg" alt="">
                     </div>
                 </div>
             </div> -->
@@ -138,7 +138,7 @@
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <span>ForView 28 / Pivotante</span> <br>
-                                                <img style="width: 20rem;" src="images/pivotante28.png" alt="">
+                                                <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
 
                                             </div>
                                         </div>

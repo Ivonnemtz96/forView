@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="images/slider/12.jpg" style="background-position: bottom center;">
+<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/12.jpg" style="background-position: bottom center;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <a href="#"><img src="images/slider/15.jpg" alt=""></a>
+                    <a href="#"><img src="/images/slider/15.jpg" alt=""></a>
                 </div>
             </div>
             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
@@ -72,14 +72,14 @@
             </div>
             <div class="col-md-8 order1 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <a href="#"><img src="images/slider/2.jpg" alt=""></a>
+                    <a href="#"><img src="/images/slider/2.jpg" alt=""></a>
                 </div>
             </div>
         </div>
         <div hidden class="row mt-120">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInLeft">
                 <div class="img">
-                    <a href="#"><img src="images/slider/3.jpg" alt=""></a>
+                    <a href="#"><img src="/images/slider/3.jpg" alt=""></a>
                 </div>
             </div>
             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
@@ -135,7 +135,7 @@
 
 <!-- Testiominals -->
 <section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding" data-background="images/slider/18.jpg" data-overlay-dark="3">
+    <div class="background bg-img bg-fixed section-padding" data-background="/images/slider/18.jpg" data-overlay-dark="3">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-30">
@@ -145,33 +145,33 @@
                     <div class="section-title" style="text-shadow: 2px 2px #fff;">¿Qué dice nuestro equipo?</div>
                     <div class="wrap">
                         <div class="owl-carousel owl-theme">
-                            <div class="item"> <span class="quote"><img src="images/quot.png" alt=""></span>
+                            <div class="item"> <span class="quote"><img src="/images/quot.png" alt=""></span>
                                 <p>
                                     Es Un lugar de expresión, de precisión en magnitud
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Humberto</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
-                                    <img src="images/quot.png" alt="">
+                                    <img src="/images/quot.png" alt="">
                                 </span>
                                 <p>
                                     Hacemos cosas difíciles, diferentes, es un compromiso muy grande y un reto nuevo de
                                     desarrollar algo nuevo todos los días
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Dani</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
-                                    <img src="images/quot.png" alt="">
+                                    <img src="/images/quot.png" alt="">
                                 </span>
                                 <p>
                                     Ofrecer soluciones que otro no pueden ofrecer, es bonito ver que nos buscan porque
@@ -180,7 +180,7 @@
                                     embargo somos la primera opción de los clientes
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h3 style=" width: fit-content; padding: 7px; margin-left: 0; color: #000;">Lorenz</h3>
                                     </div>
@@ -188,14 +188,14 @@
                             </div>
 
                             <div class="item"> <span class="quote">
-                                    <img src="images/quot.png" alt="">
+                                    <img src="/images/quot.png" alt="">
                                 </span>
                                 <p>
                                     Es una empresa que mejora todos los días sin descuidar su precisión en los detalles
                                     y en la que siempre algo nuevo que aprender
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Ruben</h3>
                                     </div>
@@ -203,13 +203,13 @@
                             </div>
 
                             <div class="item"> <span class="quote">
-                                    <img src="images/quot.png" alt="">
+                                    <img src="/images/quot.png" alt="">
                                 </span>
                                 <p>
                                     Es una empresa familiar de éxito con proyección a futuro
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0;color: #000;">Efrain</h3>
                                     </div>
@@ -217,14 +217,14 @@
                             </div>
 
                             <div class="item"> <span class="quote">
-                                    <img src="images/quot.png" alt="">
+                                    <img src="/images/quot.png" alt="">
                                 </span>
                                 <p>
                                     Capaces de diseñar soluciones retadoras para conseguir siempre la satisfacción del
                                     cliente.
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="images/team/2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Giacomo</h3>
                                     </div>
