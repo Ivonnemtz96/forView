@@ -45,16 +45,16 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="/pivotante">Pivotante</a>
+                                <a href="#">Pivotante</a>
                                 <ul>
                                     <li>
-                                        <a href="#">Puertas</a>
+                                        <a href="/pivotante.php">Puertas</a>
                                         <ul>
                                             <li><a href="/pivotante#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">Ventanas</a>
+                                        <a href="/pivotante-ventana">Ventanas</a>
                                         <ul>
                                             <li><a href="/pivotante#28">ForView 28</a></li>
                                         </ul>
@@ -76,7 +76,7 @@
                             </li>
 
                             <li><a href="/guillotina">Guillotina</a></li>
-                            <li><a href="/productos">Turnable Corner</a></li>
+                            <li><a href="/turnable">Turnable Corner</a></li>
 
                         </ul>
                     </li>

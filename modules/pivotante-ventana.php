@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class="subtitle"><a href="productos.php">Detalles</a></div>
-                <div style="background-color: #000; padding: 10px;" class="title">Pivotante Puerta</div>
+                <div style="background-color: #000; padding: 10px;" class="title">Pivotante Ventanas</div>
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <span>Producto</span>
-                <h2>Pivotante Puerta</h2>
+                <h2>Pivotante Ventanas</h2>
                 <h2></h2>
                 <p>
                     El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
@@ -36,17 +36,14 @@
             <div class="col-md-6 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
-                    <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv2.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv3.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv4.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv5.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv-v.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv-v2.jpg" alt="">
                 </div>
 
             </div>
         </div>
     </div>
-    <div class="container p-5">
+    <div hidden class="container p-5">
         <!-- project slider -->
         <div class="row mt-5">
             <h2><b>Proyectos</b></h2>
@@ -83,7 +80,7 @@
                 <ul class="accordion-box clearfix">
                     <li class="accordion block" id="28">
                         <div class="acc-btn">
-                            <h2>ForView 28</h2>
+                            <h2>ForView 28 Pivotante Ventana</h2>
                         </div>
                         <div class="acc-content">
                             <div class="content">
@@ -104,20 +101,19 @@
                                     <h4>Configuración</h4>
                                     <ol style="color: #000;">
                                         <li>Marco principal</li>
-                                        <li>Zoclo</li>
+                                        <li>Marco ventana</li>
                                         <li>Maneta</li>
                                         <li>Sistema cerradura</li>
                                         <li>Cubre pijas</li>
-                                        <li>Felpa</li>
-                                        <li>Vinil guarda polvo</li>
+                                        <li>Sello</li>
+                                        <li>Reductor</li>
                                     </ol>
                                     </p>
                                     <div class="container mb-5">
                                         <div class="row">
-                                            <div class="col-md-12">
-                                                <span>ForView 28 / Pivotante</span> <br>
-                                                <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
-
+                                            <div class="col-md-8">
+                                                <span>ForView 28 / Pivotante Ventana</span> <br>
+                                                <img style="width: 20rem;" src="/images/slider/piv-ventana.png" alt="">
                                             </div>
                                         </div>
                                     </div>
