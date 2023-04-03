@@ -116,7 +116,7 @@
                             </li>
                         </ul>
                         </p>
-                        <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
+                        <div class="more"><a href="/distribuidor" class="link-btn" tabindex="0">Contactar</a>
                         </div>
                     </div>
                 </div>
