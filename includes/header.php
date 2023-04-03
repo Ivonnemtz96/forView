@@ -10,7 +10,7 @@
         <div class="duru-header-container">
             <!-- Logo -->
             <div class="logo" data-mobile-logo="/images/logo.png" data-sticky-logo="/images/logo.png">
-                <a href="index.php"><img src="/images/logo-white.png" alt=""></a>
+                <a href="/index"><img src="/images/logo-white.png" alt=""></a>
             </div>
             <!-- Burger menu -->
             <div class="burger-menu">
