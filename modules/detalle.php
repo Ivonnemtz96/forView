@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class="subtitle"><a href="productos.php">Detalles</a></div>
-                <div class="title">Correderas</div>
+                <div style="background-color: #000; padding: 10px;" class="title">Correderas</div>
             </div>
         </div>
     </div>
@@ -34,12 +34,12 @@
                 </p>
             </div>
             <div class="col-md-6">
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/4.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/5.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/6.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/7.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/8.jpg" alt=""> </div>
+                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
+                    data-minheight="300" data-maxheight="100%">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno2.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno3.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt=""> </div>
                 </div>
 
             </div>
