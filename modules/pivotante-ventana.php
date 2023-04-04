@@ -118,13 +118,34 @@
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">
-                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                                </button>
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/04-Proyectante.pdf"
+                                    download="04-Proyectante.pdf">
+                                    Descargar hoja de datos
+                                </a>
                             </div>
                         </div>
                     </li>
                 </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="folleto">
+    <div class="container">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-6">
+                <img src="/images/folleto.png" alt="">
+            </div>
+            <div class="col-md-6">
+                <h2>FOLLETO TÉCNICO</h2>
+                <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
+                <br><br>
+
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/04-Proyectante.pdf" download="04-Proyectante.pdf">
+                    Descargar
+                </a>
             </div>
         </div>
     </div>
