@@ -36,10 +36,14 @@
             <div class="col-md-6">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno2.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno3.jpg" alt=""> </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt=""> </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
+                    </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno2.jpg" alt="">
+                    </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno3.jpg" alt="">
+                    </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt="">
+                    </div>
                 </div>
 
             </div>
@@ -199,9 +203,10 @@
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">
-                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                                </button>
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
+                                    download="01-Corredizas.pdf">
+                                    Descargar hoja de datos
+                                </a>
                             </div>
                         </div>
                     </li>
@@ -252,12 +257,14 @@
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">Descargar hoja de datos <i
-                                        class="ti-arrow-circle-down"></i> </button>
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
+                                    download="01-Corredizas.pdf">
+                                    Descargar hoja de datos 
+                                </a>
                             </div>
                         </div>
                     </li>
-                    <li class="accordion block" >
+                    <li class="accordion block">
                         <div class="acc-btn" id="54">
                             <h2>ForView 54</h2>
                         </div>
@@ -304,12 +311,33 @@
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">Descargar hoja de datos <i
-                                        class="ti-arrow-circle-down"></i> </button>
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
+                                    download="01-Corredizas.pdf">
+                                    Descargar hoja de datos 
+                                </a>
                             </div>
                         </div>
                     </li>
                 </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="folleto">
+    <div class="container">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-6">
+                <img src="/images/folleto.png" alt="">
+            </div>
+            <div class="col-md-6">
+                <h2>FOLLETO TÉCNICO</h2>
+                <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
+                <br><br>
+
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf" download="01-Corredizas.pdf">
+                    Descargar
+                </a>
             </div>
         </div>
     </div>
