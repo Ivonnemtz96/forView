@@ -63,6 +63,7 @@
                 <h3>
                     <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
                 </h3>
+                <span>ForView 17 / 200</span>
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
                     </div>
@@ -76,19 +77,20 @@
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
-                    <strong>Palmilla Villa 381 / Villa 221. Los Cabos, México.</strong>
+                    <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
                 </h3>
+                <span>ForView 17 / 500</span>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla2.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt="">
                     </div>
                 </div>
             </div>
+
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Chileno Bay Re 28 / Villa 221. Los Cabos, México.</strong>
                 </h3>
+                <span>ForView 17 / 500</span>
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenoRe2.jpg" alt="">
                     </div>
@@ -96,45 +98,28 @@
                     </div>
                 </div>
             </div>
-
-            <div class="col-6 col-md-6 mt-4 mb-5">
-                <h3>
-                    <strong>Waldorf Astoria Hotel. Los Cabos, México.</strong>
-                </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/waldorf1.jpg" alt="">
-                    </div>
-                </div>
-            </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Querencia / Casa Legado. Los Cabos, México.</strong>
                 </h3>
+                <span>ForView 38 / 200</span>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/querencia1.jpg" alt="">
-                    </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/querencia1.jpg" alt=""></div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/correderasQ.jpg" alt=""></div>
                 </div>
             </div>
+
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Chileno Bay/ Villa HV 305. Los Cabos, México.</strong>
                 </h3>
+                <span>ForView 17 / 500</span>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenohv1.jpg" alt="">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/corredera17-500.jpg" alt="">
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
-                <h3>
-                    <strong>Diamante / Shangri LA 319. Los Cabos, México.</strong>
-                </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/diamante.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/diamante2.jpg" alt="">
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -259,7 +244,7 @@
                                 </div>
                                 <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
                                     download="01-Corredizas.pdf">
-                                    Descargar hoja de datos 
+                                    Descargar hoja de datos
                                 </a>
                             </div>
                         </div>
@@ -313,7 +298,7 @@
                                 </div>
                                 <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
                                     download="01-Corredizas.pdf">
-                                    Descargar hoja de datos 
+                                    Descargar hoja de datos
                                 </a>
                             </div>
                         </div>
