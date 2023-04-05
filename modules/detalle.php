@@ -190,7 +190,7 @@
                                 </div>
                                 <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
                                     download="01-Corredizas.pdf">
-                                    Descargar hoja de datos
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
                         </div>
@@ -244,7 +244,7 @@
                                 </div>
                                 <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
                                     download="01-Corredizas.pdf">
-                                    Descargar hoja de datos
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
                         </div>
@@ -298,7 +298,7 @@
                                 </div>
                                 <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
                                     download="01-Corredizas.pdf">
-                                    Descargar hoja de datos
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
                         </div>
