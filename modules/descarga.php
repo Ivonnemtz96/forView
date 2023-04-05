@@ -51,7 +51,7 @@
                     No dude en trasladarnos su proyecto o enviarnos su solicitud de la forma más detallada posible; esto
                     nos ayudará a satisfacer sus necesidades de la mejor forma posible.
                 </p>
-                <form method="post" class="contact__form" action="mail.php">
+                <form method="post" class="contact__form" action="">
                     <!-- Form message -->
                     <div class="row">
                         <div class="col-12">

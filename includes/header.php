@@ -35,7 +35,7 @@
                                 <a href="#">Pivotante</a>
                                 <ul>
                                     <li>
-                                        <a href="/pivotante.php">Puertas</a>
+                                        <a href="/pivotante">Puertas</a>
                                         <ul>
                                             <li><a href="/pivotante#28">ForView 28</a></li>
                                         </ul>
