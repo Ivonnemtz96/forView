@@ -120,7 +120,7 @@
                                 </div>
                                 <a type="button" class="btn btn-dark mt-3" href="/pdf/04-Proyectante.pdf"
                                     download="04-Proyectante.pdf">
-                                    Descargar hoja de datos
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
                         </div>

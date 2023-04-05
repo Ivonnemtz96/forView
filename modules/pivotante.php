@@ -158,7 +158,7 @@
                                     </div>
                                 </div>
                                 <button type="button" class="btn btn-dark mt-3">
-                                    Descargar hoja de datos
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </button>
                             </div>
                         </div>
