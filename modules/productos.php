@@ -13,7 +13,7 @@
 <div class="container-fluid overflow-hidden">
     <div class="row justify-content-center h-100 m-2">
         <div id="producto1" class="text-center col-3 py-5 px-4 productos-hover">
-            <h3>Correderas</h3>
+            <h3><a href="/detalle" style="color: #000;">Correderas</a></h3>
             <p>
             <ul class="detalles">
                 <li>La ventana corredera permite una amplia vista panorámica.</li>
@@ -33,7 +33,7 @@
             </p>
         </div>
         <div id="producto2" class="text-center col-3 py-5 px-4 productos-hover">
-            <h3>Pivotante</h3>
+            <h3><a href="/pivotante" style="color: #000;">Pivotante</a></h3>
             <p>
             <ul class="detalles">
                 <li>La puerta pivotante se abre sobre su eje vertical normalmente posicionado en un lado.</li>
@@ -67,7 +67,7 @@
             </p>
         </div>
         <div id="producto4" class="text-center col-3 py-5 px-4 productos-hover">
-            <h3>Abatible</h3>
+            <h3><a href="/abatible" style="color: #000;">Abatible</a></h3>
             <p>
             <ul class="detalles">
                 <li>Proyectante, vasista, oscilobatiente y batiente.</li>
@@ -125,7 +125,7 @@
                             </li>
                         </ul>
                         </p>
-                        <div class="more"><a href="/distribuidor" class="link-btn" tabindex="0">Contactar</a>
+                        <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
                         </div>
                     </div>
                 </div>

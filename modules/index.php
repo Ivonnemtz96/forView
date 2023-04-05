@@ -303,7 +303,7 @@
                              
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
-                         <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
+                         <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
                          </div>
                      </div>
                  </div>
@@ -349,7 +349,7 @@
                              <br><br>
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
-                         <div class="more"><a href="distribuidor.php" class="link-btn" tabindex="0">Contactar</a>
+                         <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
                          </div>
                      </div>
                  </div>
