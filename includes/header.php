@@ -21,19 +21,6 @@
             <!--Navigation menu -->
             <nav class="duru-menu menu-caret">
                 <ul>
-                    <!-- <li class="current-menu"><a href="index.php">Inicio</a>
-                        <ul>
-                            <li class="current-menu"><a href="index.html">Home Layout 01</a></li>
-                            <li><a href="index2.html">Home Layout 02</a></li>
-                            <li><a href="index3.html">Home Layout 03</a></li>
-                            <li><a href="index4.html">Home Layout 04</a></li>
-                            <li><a href="index5.html">Home Layout 05</a></li>
-                            <li><a href="index6.html">Home Layout 06</a></li>
-                            <li><a href="index7.html">Home Layout 07</a></li>
-                            <li><a href="index8.html">Home Layout 08</a></li>
-                            <li><a href="index9.html">Home Layout 09</a></li>
-                        </ul>
-                    </li> -->
                     <li><a href="/productos">Productos</a>
                         <ul>
                             <li>
@@ -75,8 +62,8 @@
                                 </ul>
                             </li>
 
-                            <li><a href="/guillotina">Guillotina</a></li>
-                            <li><a href="/turnable">Turnable Corner</a></li>
+                            <!-- <li><a href="/guillotina">Guillotina</a></li>
+                            <li><a href="/turnable">Turnable Corner</a></li> -->
                             <li><a href="/productos">Protección Antihuracán</a></li>
 
                         </ul>

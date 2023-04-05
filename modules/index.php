@@ -248,7 +248,7 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-6 single-item completed">
+             <!-- <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
                      <a href="#"><img src="/images/projects/05.jpg" alt=""></a>
                      <div class="projects2-con">
@@ -267,7 +267,7 @@
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
-             </div>
+             </div> -->
          </div>
 
      </div>
