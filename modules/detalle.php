@@ -10,7 +10,7 @@
     </div>
 </div>
 <!-- Project Page  -->
-<section class="project-page section-padding">
+<section class="project-page section-padding" style="padding-bottom: 0px;" >
     <div class="container-fluid p-5">
         <div class="row align-items-center">
             <div class="col-md-6">
@@ -124,7 +124,7 @@
     </div>
 </section>
 
-<section class="section-padding">
+<section class="section-padding" style="padding-top: 0px;">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">

@@ -10,7 +10,7 @@
     </div>
 </div>
 <!-- Project Page  -->
-<section class="project-page section-padding">
+<section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
         <div class="row align-items-center">
             <div class="col-md-6">
@@ -56,10 +56,11 @@
                 </p>
                 <br>
             </div>
-            <div class="col-12 col-md-8 mt-4 mb-5">
+            <div class="col-12 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Show room. Los Cabos, México.</strong>
                 </h3>
+                <span>ForView 28 / Pivotante</span>
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
                     </div>
@@ -71,12 +72,46 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-12 col-md-6 mt-4 mb-5">
+                <h3>
+                    <strong>Pivotante ForView 28.</strong>
+                </h3>
+                <span>ForView 28 / Pivotante</span>
+                <div class="owl-carousel owl-theme">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/pivotante28.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 mt-4 mb-5">
+                <h3>
+                    <strong>Palmilla / Villa 381 Los Cabos, <br> México.</strong>
+                </h3>
+                <span>ForView 28 / Pivotante</span>
+                <div class="owl-carousel owl-theme">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt=""></div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 mt-4 mb-5">
+                <h3>
+                    <strong>Waldorf Astoria Hotel Los Cabos, México.</strong>
+                </h3>
+                <span>ForView 28 / Pivotante</span>
+                <div class="owl-carousel owl-theme">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/waldorf1.jpg" alt=""></div>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
 
 
-<section class="section-padding">
+<section class="section-padding" style="padding-top: 0px;">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">
@@ -123,7 +158,7 @@
                                     </div>
                                 </div>
                                 <button type="button" class="btn btn-dark mt-3">
-                                    Descargar hoja de datos 
+                                    Descargar hoja de datos
                                 </button>
                             </div>
                         </div>
