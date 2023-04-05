@@ -97,9 +97,18 @@
         <div class="row">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="3000">
+                    <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
                         <img src="/images/slider/16.jpg" alt="">
                         <img src="/images/slider/17.jpg" alt="">
+                        <img src="/images/projects/herraje2.jpg" alt="">
+                        <img src="/images/projects/herraje3.jpg" alt="">
+                        <img src="/images/projects/herraje4.jpg" alt="">
+                        <img src="/images/projects/herraje5.jpg" alt="">
+                        <img src="/images/projects/herraje6.jpg" alt="">
+                        <img src="/images/projects/herraje7.jpg" alt="">
+                        <img src="/images/projects/herraje8.jpg" alt="">
+                        <img src="/images/projects/herraje9.jpg" alt="">
+                        <img src="/images/projects/herraje10.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -123,5 +132,78 @@
             </div>
         </div>
 
+    </div>
+</section>
+
+<section class="herrajes">
+    <div class="container p-5">
+        <!-- project slider -->
+        <div class="row mt-5">
+            <div class="col-md-12">
+                <div class="section-title">Tiradores</div>
+                <br>
+            </div>
+            <div class="col-6 col-md-4 mt-4 mb-5">
+                <h2>
+                    Cierre lateral
+                </h2>
+                <div class="">
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/lateral.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 mt-4 mb-5">
+                <h2>
+                    Cierre al centro con llave
+                </h2>
+                <div class="">
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/conllave.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-6 col-md-4 mt-4 mb-5">
+                <h2>
+                    Cierre al centro sin llave
+                </h2>
+                <div >
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/sinllave.jpg" alt="">
+                
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-md-12">
+                <div class="section-title">Carretillas</div>
+                <br>
+            </div>
+            <div class="col-6 col-md-6 mt-4 mb-5">
+                <h2>
+                    Rodamiento en 3” y 4” pulgadas
+                </h2>
+                <div class="">
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/rodamiento.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-md-6 mt-4 mb-5">
+                <h2>
+                Carretillas en Acero Inoxidable
+                </h2>
+                <div class="container fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
+                    data-minheight="300" data-maxheight="100%">
+                        <img class="img-fluid" src="/images/projects/carretilla.jpg" alt="">
+                        <img class="img-fluid" src="/images/projects/herraje1.jpg" alt="">
+                </div>
+            </div>
+
+
+        </div>
     </div>
 </section>
