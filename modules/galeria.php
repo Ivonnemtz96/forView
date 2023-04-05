@@ -1,16 +1,19 @@
  <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed"  data-background="/images/slider/3.jpg" style="background-position: center center;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 caption mt-60">
-                <div style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;" class="subtitle">Galería</div>
-                <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px;" class="title">Te presentamos un poco de nosotros</div>
-            </div>
-        </div>
-    </div>
-</div>
+ <div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/3.jpg"
+     style="background-position: center center;">
+     <div class="container">
+         <div class="row">
+             <div class="col-md-12 caption mt-60">
+                 <div style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;"
+                     class="subtitle">Galería</div>
+                 <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px;" class="title">Te
+                     presentamos un poco de nosotros</div>
+             </div>
+         </div>
+     </div>
+ </div>
 
- 
+
  <!-- Projects 2 -->
  <div class="projects2 section-padding">
      <div class="container">
@@ -28,11 +31,8 @@
                  <li class="active" data-filter="*">Todos los proyectos</li>
                  <li data-filter=".corredera">Corredera</li>
                  <li data-filter=".pivotante">Pivotante</li>
-                 <li data-filter=".guillotina">Guillotina</li>
-                 <li data-filter=".puertas">Puertas</li>
                  <li data-filter=".abatible">Abatible</li>
-                 <li data-filter=".proteccion">Protección anti huracám</li>
-                 <li data-filter=".turnable">Turnable Corner</li>
+                 <li data-filter=".proteccion">Protección anti huracán</li>
              </ul>
          </div>
          <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
@@ -47,6 +47,17 @@
                  </div>
              </div>
              <div class="col-md-6 single-item abatible">
+             <div class="projects2-wrap">
+                 <a href="#"><img src="/images/slider/batienteV.jpg" alt=""></a>
+                 <div class="projects2-con">
+                     <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                     <a href="#" class="project2-link"></a>
+                 </div>
+             </div>
+         </div>
+
+             <div class="col-md-6 single-item abatible">
                  <div class="projects2-wrap">
                      <a href="#"><img src="/images/projects/17.jpg" alt=""></a>
                      <div class="projects2-con">
@@ -56,6 +67,18 @@
                      </div>
                  </div>
              </div>
+
+             <div class="col-md-6 single-item abatible">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/slider/batiente.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
              <div class="col-md-6 single-item pivotante">
                  <div class="projects2-wrap">
                      <a href="#"><img src="/images/projects/15.jpg" alt=""></a>
@@ -76,9 +99,10 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-6 single-item guillotina">
+
+             <div class="col-md-6 single-item proteccion">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="/images/projects/23.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/proteccion-1.jpg" alt=""></a>
                      <div class="projects2-con">
                          <!-- <p>Project P.06</p>
                          <h3><a href="#">Modern Food Table</a></h3> -->
@@ -96,9 +120,9 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-6 single-item guillotina">
+             <div class="col-md-6 single-item abatible">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="/images/projects/22.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/abatible.jpg" alt=""></a>
                      <div class="projects2-con">
                          <!-- <p>Project P.06</p>
                          <h3><a href="#">Modern Food Table</a></h3> -->
@@ -116,7 +140,77 @@
                      </div>
                  </div>
              </div>
+
+             <div class="col-md-6 single-item corredera">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/corredera17-500.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+
+             <div class="col-md-6 single-item pivotante">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/pivotante28.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+             <div class="col-md-6 single-item proteccion">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/proteccion3.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+             <div class="col-md-6 single-item corredera">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/correderasQ.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+
+             <div class="col-md-6 single-item pivotante">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/palmilla1.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+
+             <div class="col-md-6 single-item pivotante">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/palmilla2.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
          </div>
+
 
      </div>
  </div>
