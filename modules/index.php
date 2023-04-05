@@ -195,8 +195,8 @@
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="#">Corredera</a></h3>
-                         <a href="#" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/detalle">Corredera</a></h3>
+                         <a href="/detalle" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -205,8 +205,8 @@
                      <img src="/images/projects/15.jpg" alt="">
                      <div class="projects2-con">
                          <p>02</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="#">Pivotante</a></h3>
-                         <a href="#" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante-ventana">Pivotante</a></h3>
+                         <a href="/pivotante-ventana" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -218,8 +218,8 @@
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>03</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="#">Abatible</a></h3>
-                         <a href="#" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/abatible">Abatible</a></h3>
+                         <a href="/abatible" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -233,18 +233,18 @@
                      </div>
                      <div class="projects2-con">
                          <p>04</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="#">Puertas</a></h3>
-                         <a href="#" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante">Puertas</a></h3>
+                         <a href="/pivotante" class="project2-link"></a>
                      </div>
                  </div>
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="/images/projects/01.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/proteccion-1.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>05</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="#">Protección anti huracán</a></h3>
-                         <a href="#" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Protección anti huracán</a></h3>
+                         <a href="/proteccion" class="project2-link"></a>
                      </div>
                  </div>
              </div>
