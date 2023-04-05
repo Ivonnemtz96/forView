@@ -139,7 +139,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-30">
-                    <h3 class="sub-title border-bot-dark" style="color: #000;">Opiniones</h3>
+                    <h3 class="sub-title border-bot-dark" style="color: #000;"><strong>Opiniones</strong></h3>
                 </div>
                 <div class="col-md-8">
                     <div class="section-title" style="text-shadow: 2px 2px #fff;">¿Qué dice nuestro equipo?</div>
@@ -150,8 +150,7 @@
                                     Es Un lugar de expresión, de precisión en magnitud
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
-                                    <div class="cont">
+                                    <div class="cont" style="margin-left:0px;">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Humberto</h3>
                                     </div>
                                 </div>
@@ -164,8 +163,7 @@
                                     desarrollar algo nuevo todos los días
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
-                                    <div class="cont">
+                                    <div class="cont" style="margin-left:0px;">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Dani</h3>
                                     </div>
                                 </div>
@@ -180,8 +178,7 @@
                                     embargo somos la primera opción de los clientes
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
-                                    <div class="cont">
+                                    <div class="cont" style="margin-left:0px;">
                                         <h3 style=" width: fit-content; padding: 7px; margin-left: 0; color: #000;">Lorenz</h3>
                                     </div>
                                 </div>
@@ -195,8 +192,7 @@
                                     y en la que siempre algo nuevo que aprender
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
-                                    <div class="cont">
+                                    <div class="cont" style="margin-left:0px;">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Ruben</h3>
                                     </div>
                                 </div>
@@ -209,8 +205,7 @@
                                     Es una empresa familiar de éxito con proyección a futuro
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
-                                    <div class="cont">
+                                    <div class="cont" style="margin-left:0px;">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0;color: #000;">Efrain</h3>
                                     </div>
                                 </div>
@@ -224,8 +219,7 @@
                                     cliente.
                                 </p>
                                 <div class="info" style="background-color: #fff;width: 13rem;padding: 0.3rem;">
-                                    <div class="author-img"> <img src="/images/team/2.jpg" alt=""> </div>
-                                    <div class="cont">
+                                    <div class="cont" style="margin-left:0px;">
                                         <h3 style="width: fit-content; padding: 7px; margin-left: 0; color: #000;">Giacomo</h3>
                                     </div>
                                 </div>

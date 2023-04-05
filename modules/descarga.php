@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="images/slider/2.jpg" style="background-position: center center;">
+<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/2.jpg" style="background-position: center center;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
