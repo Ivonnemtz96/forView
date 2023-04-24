@@ -37,13 +37,13 @@
                                     <li>
                                         <a href="/pivotante">Pivotante</a>
                                         <ul>
-                                            <li><a href="/pivotante#28">ForView 28</a></li>
+                                            <li><a href="/pivotante#28 <? $var28="active-block"; $var28_2="active"; $var28_3="display: block;"?>">ForView 28</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="/pivotante-ventana">Batiente</a>
+                                        <a href="/batiente">Batiente</a>
                                         <ul>
-                                            <li><a href="/pivotante#28">ForView 28</a></li>
+                                            <li><a href="/batiente#28 <? $var28="active-block"; $var28_2="active"; $var28_3="display: block;"?>">ForView 28</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -53,15 +53,15 @@
                                 <a href="#">Ventanas</a>
                                 <ul>
                                     <li>
-                                        <a href="/pivotante">Batiente</a>
+                                        <a href="/pivotante-ventana">Batiente</a>
                                         <ul>
-                                            <li><a href="/pivotante#28">ForView 28</a></li>
+                                            <li><a href="/pivotante-ventana#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="/pivotante-ventana">Proyectante</a>
+                                        <a href="/proyectante">Proyectante</a>
                                         <ul>
-                                            <li><a href="/pivotante#28">ForView 28</a></li>
+                                            <li><a href="/proyectante#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                 </ul>
