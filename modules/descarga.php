@@ -22,8 +22,8 @@
             <div class="col-md-4">
                 <!-- Contact Info -->
                 <h4 class="mb-4">San José </h4>
-                <p>Guadalupe Victoria 3525, Sta Rosa, 23428 San José del Cabo, B.C.S.</p>
-                <div class="phone"><a class="phone1" href="tel:+526241425552">+52 624 142 5552</a></div>
+                <p>Fonatur, Plaza Paseo Los Cabos , Zona Hotelera, 23400 San José del Cabo, B.C.S.</p>
+                <div class="phone"><a class="phone1" href="tel:+526241642430">+52 624 164 2430</a></div>
                 <div class="mail mb-3"><a class="phone1" href="mailto:info@forviewdoors.com" target="_blank">info@forviewdoors.com</a></div>
                 <div hidden class="social mt-2">
                     <a href="#"><i class="ti-twitter"></i></a>

@@ -746,6 +746,7 @@ input[type="checkbox"] {
 .duru-menu ul li:hover > a {
   /* color: #c5a47e; */
   color: #000;
+  border: 1px solid rgb(255, 255, 255);
 }
 .duru-menu ul ul li > a {
   padding: 6px 15px 6px 30px;
@@ -1051,6 +1052,10 @@ input[type="checkbox"] {
     animation-fill-mode: both;
     background-color: #fff;
     box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.1);
+  }
+  /* Border color en scroll */
+  .duru-header.sticky .duru-menu > ul > li > a:hover{
+    border: 1px solid #000;
   }
   .duru-header.sticky .duru-header-container {
     height: 80px;

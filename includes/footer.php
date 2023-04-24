@@ -9,8 +9,8 @@
                 <div class="col-md-4">
                     <div class="item">
                         <h3 style="color: white;">San José</h3>
-                        <p style="color: white;">Guadalupe Victoria 3525, Sta Rosa, 23428 San José del Cabo, B.C.S.</p>
-                        <p style="color: white;" class="phone"><a class="phone2" href="tel:+526241425552">+52 624 142 5552</a></p>
+                        <p style="color: white;">Fonatur, Plaza Paseo Los Cabos , Zona Hotelera, 23400 San José del Cabo, B.C.S.</p>
+                        <p style="color: white;" class="phone"><a class="phone2" href="tel:+526241642430">+52 624 164 2430</a></p>
                         <p style="color: white;" class="mail">
                             <a style="color: #fff;" target="_blank" href="mailto:info@forviewdoors.com">info@forviewdoors.com</a>
                         </p>
