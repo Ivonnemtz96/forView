@@ -126,14 +126,15 @@
 
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
-        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-12">
-                <ul class="accordion-box clearfix">
-                    <li class="accordion block" id="17">
-                        <div class="acc-btn">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
+        <div class="col-md-12">
+                <div id="17"></div>
+                <ul class="accordion-box clearfix" style="margin-top:100px;">
+                    <li class="accordion block <? echo $var17_1;?>" >
+                        <div class="acc-btn <? echo $var17_2;?>" >
                             <h2>ForView 17</h2>
                         </div>
-                        <div class="acc-content">
+                        <div class="acc-content" style="<? echo $var17_3;?>;">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
@@ -195,11 +196,22 @@
                             </div>
                         </div>
                     </li>
-                    <li class="accordion block" id="38">
-                        <div class="acc-btn">
+                    
+                </ul>
+            </div>
+
+
+
+
+            <div class="col-md-12">
+                <div id="38"></div>
+                <ul class="accordion-box clearfix" style="margin-top:100px;">
+                    
+                    <li class="accordion block <? echo $var38_1;?>">
+                        <div class="acc-btn  <? echo $var38_2;?>">
                             <h2>ForView 38</h2>
                         </div>
-                        <div class="acc-content">
+                        <div class="acc-content" style="<? echo $var38_3;?>;">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
@@ -249,11 +261,21 @@
                             </div>
                         </div>
                     </li>
-                    <li class="accordion block">
-                        <div class="acc-btn" id="54">
+                </ul>
+            </div>
+
+
+
+
+            <div class="col-md-12">
+                <div id="54"></div>
+                <ul class="accordion-box clearfix" style="margin-top:100px;">
+                   
+                    <li class="accordion block <? echo $var54_1;?>">
+                        <div class="acc-btn <? echo $var54_2;?>">
                             <h2>ForView 54</h2>
                         </div>
-                        <div class="acc-content">
+                        <div class="acc-content" style="<? echo $var54_3;?>;">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
@@ -305,6 +327,10 @@
                     </li>
                 </ul>
             </div>
+
+
+
+
         </div>
     </div>
 </section>

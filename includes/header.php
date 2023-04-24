@@ -26,9 +26,9 @@
                             <li>
                                 <a href="/detalle">Corredera</a>
                                 <ul>
-                                    <li><a href="/detalle#17">ForView 17</a></li>
-                                    <li><a href="/detalle#38">ForView 38</a></li>
-                                    <li><a href="/detalle#54">ForView 54</a></li>
+                                    <li><a href="/detalle?activo=17#17">ForView 17</a></li>
+                                    <li><a href="/detalle?activo=38#38 ">ForView 38</a></li>
+                                    <li><a href="/detalle?activo=54#54">ForView 54</a></li>
                                 </ul>
                             </li>
                             <li>
