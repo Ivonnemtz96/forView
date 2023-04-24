@@ -55,7 +55,7 @@
                                     <li>
                                         <a href="/pivotante-ventana">Batiente</a>
                                         <ul>
-                                            <li><a href="/pivotante-ventana#28">ForView 28</a></li>
+                                            <li><a href="/pivotante-ventana?activo=28#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                     <li>
