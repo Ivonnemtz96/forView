@@ -61,7 +61,7 @@
                                     <li>
                                         <a href="/proyectante">Proyectante</a>
                                         <ul>
-                                            <li><a href="/proyectante#28">ForView 28</a></li>
+                                            <li><a href="/proyectante?activo=28#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                 </ul>
