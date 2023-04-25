@@ -71,48 +71,49 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">
                 <ul class="accordion-box clearfix">
-                    <li class="accordion block <? echo $var28;?> " >
-                        <div class="acc-btn <? echo $var28_2;?> ">
+                    <li class="accordion block <? echo $var_1;?> ">
+                        <div class="acc-btn <? echo $var_2;?> ">
                             <h2>ForView 28 Pivotante Ventana</h2>
                         </div>
-                        <div class="acc-content"  style="<? echo $var28_3;?>">
+                        <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
-                                        La puerta pivotante se abre sobre su eje vertical normalmente posicionado en un
-                                        lado. <br>
-                                        Una forma elegante de transición para ambientes colocados en el mismo
-                                        nivel.Gracias a las líneas esenciales de nuestras series, es un elemento
-                                        arquitectónico o de interiorismo, según su colocación que caracteriza ese
-                                        espacio. <br>
-                                        La versatilidad del aluminio y del acero permiten integrarse perfectamente en
-                                        ambientes minimalistas o en ambientes coloniales y étnicos. <br>
-                                        Integrada en correderas de más de 4 hojas representa una práctica solución que
-                                        permite la transición si tener que mover el sistema de correderas
+                                        Las puertas batientes son una solución clásica y elegante que se adapta a
+                                        cualquier estilo de hogar o negocio. Con su diseño de una o dos hojas que se
+                                        abren hacia adentro o hacia afuera, estas puertas ofrecen un amplio acceso y una
+                                        fácil circulación de personas. Además, su durabilidad y resistencia las
+                                        convierten en una excelente opción para garantizar la seguridad de su propiedad.
+                                        Disponibles en una variedad de materiales y acabados, las puertas batientes son
+                                        una opción versátil y funcional para cualquier proyecto arquitectónico.
                                     </p>
                                     <p>
                                     <h4>Configuración</h4>
                                     <ol style="color: #000;">
                                         <li>Marco principal</li>
-                                        <li>Marco ventana</li>
+                                        <li>Zoclo</li>
                                         <li>Maneta</li>
                                         <li>Sistema cerradura</li>
                                         <li>Cubre pijas</li>
                                         <li>Sello</li>
+                                        <li>Vinil guardapolvo</li>
                                         <li>Reductor</li>
+                                        <li>Cierra puertas oculto</li>
+                                        <li>Bisagra</li>
                                     </ol>
                                     </p>
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-8">
-                                                <span>ForView 28 / Pivotante Ventana</span> <br>
-                                                <img style="width: 20rem;" src="/images/slider/piv-ventana.png" alt="">
+                                                <span>ForView 28 / Puerta Batiente</span> <br>
+                                                <img style="width: 20rem;" src="/images/slider/puerta-batiente.png"
+                                                    alt="">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Pivotante.pdf"
-                                    download="02-Pivotante.pdf">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/03-Batiente.pdf"
+                                    download="03-Batiente.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
@@ -136,7 +137,7 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Pivotante.pdf" download="02-Pivotante.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/03-Batiente.pdf" download="03-Batiente.pdf">
                     Descargar
                 </a>
             </div>
