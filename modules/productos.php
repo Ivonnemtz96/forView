@@ -98,12 +98,12 @@
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
                     <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
+                        <img class="img-fluid" src="/images/projects/52.jpg" alt="">
+                        <img class="img-fluid" src="/images/projects/57.jpg" alt="">
                         <img src="/images/slider/16.jpg" alt="">
-                        <img src="/images/slider/17.jpg" alt="">
                         <img src="/images/projects/herraje2.jpg" alt="">
                         <img src="/images/projects/herraje3.jpg" alt="">
                         <img src="/images/projects/herraje4.jpg" alt="">
-                        <img src="/images/projects/herraje5.jpg" alt="">
                         <img src="/images/projects/herraje6.jpg" alt="">
                         <img src="/images/projects/herraje7.jpg" alt="">
                         <img src="/images/projects/herraje8.jpg" alt="">
@@ -204,11 +204,12 @@
                     <div class="portfolio-item">
                         <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
                             data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            <img class="img-fluid" src="/images/projects/59.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/60.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/52.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/53.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/54.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/55.jpg" alt="">
-                            <img class="img-fluid" src="/images/projects/56.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -217,11 +218,14 @@
                 <h3>
                     RODAMIENTO EN ACERO INOXIDABLE
                 </h3>
-                <div class="container fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
-                    data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
-                    <img class="img-fluid" src="/images/projects/carretilla.jpg" alt="">
-                    <img class="img-fluid" src="/images/projects/herraje1.jpg" alt="">
-                </div>
+                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            <img class="img-fluid" src="/images/projects/56.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/57.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/58.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/61.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/62.jpg" alt="">
+                        </div>
             </div>
 
 
