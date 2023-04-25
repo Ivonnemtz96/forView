@@ -144,34 +144,48 @@
                 <br>
             </div>
             <div class="col-6 col-md-4 mt-4 mb-5">
-                <h2>
-                    Cierre lateral
-                </h2>
+                <h3>
+                    CIERRE LATERAL
+                </h3>
+                <span>TIRADOR DE CANTO<br></span>
                 <div class="">
-                    <div class="portfolio-item">
-                        <img class="img-fluid" src="/images/projects/lateral.jpg" alt="">
+                    <div class="portfolio-item mt-3">
+                        <div class="fotorama" data-width="100%" data-ratio="500/600" data-minwidth="400"
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            <img class="img-fluid" src="/images/projects/45.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/46.jpg" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-md-4 mt-4 mb-5">
-                <h2>
-                    Cierre al centro con llave
-                </h2>
+                <h3>
+                    CIERRE AL CENTRO CON LLAVE
+                </h3>
                 <div class="">
                     <div class="portfolio-item">
-                        <img class="img-fluid" src="/images/projects/conllave.jpg" alt="">
+                        <div class="fotorama" data-width="100%" data-ratio="500/600" data-minwidth="400"
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            <img class="img-fluid" src="/images/projects/47.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/48.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/49.jpg" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
 
             <div class="col-6 col-md-4 mt-4 mb-5">
-                <h2>
-                    Cierre al centro sin llave
-                </h2>
-                <div >
+                <h3>
+                    CIERRE AL CENTRO SIN LLAVE
+                </h3>
+                <div>
                     <div class="portfolio-item">
-                        <img class="img-fluid" src="/images/projects/sinllave.jpg" alt="">
-                
+                        <div class="fotorama" data-width="100%" data-ratio="500/600" data-minwidth="400"
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            <img class="img-fluid" src="/images/projects/50.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/51.jpg" alt="">
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -183,23 +197,30 @@
                 <br>
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
-                <h2>
-                    Rodamiento en 3” y 4” pulgadas
-                </h2>
+                <h3>
+                    RODAMIENTO EN 3" Y 4" PULGADAS
+                </h3>
                 <div class="">
                     <div class="portfolio-item">
-                        <img class="img-fluid" src="/images/projects/rodamiento.jpg" alt="">
+                        <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            <img class="img-fluid" src="/images/projects/52.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/53.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/54.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/55.jpg" alt="">
+                            <img class="img-fluid" src="/images/projects/56.jpg" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
-                <h2>
-                Rodamiento en Acero Inoxidable
-                </h2>
-                <div class="container fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
-                    data-minheight="300" data-maxheight="100%">
-                        <img class="img-fluid" src="/images/projects/carretilla.jpg" alt="">
-                        <img class="img-fluid" src="/images/projects/herraje1.jpg" alt="">
+                <h3>
+                    RODAMIENTO EN ACERO INOXIDABLE
+                </h3>
+                <div class="container fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
+                    data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                    <img class="img-fluid" src="/images/projects/carretilla.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/herraje1.jpg" alt="">
                 </div>
             </div>
 
