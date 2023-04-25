@@ -29,7 +29,11 @@
             <div class="col-md-6 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
-                    <img class="img-fluid" src="/images/slider/piv-v.jpg" alt="">
+                    <img class="img-fluid" src="/images/slider/piv-v2.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/34.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/35.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/36.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/37.jpg" alt="">
                 </div>
 
             </div>

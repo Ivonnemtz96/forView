@@ -133,11 +133,13 @@
 
  <!-- Lets Talk -->
  <section class="lets-talk">
-     <div class="background bg-img bg-fixed section-padding" data-background="/images/slider/18.jpg" data-overlay-dark="6">
+     <div class="background bg-img bg-fixed section-padding" data-background="/images/slider/18.jpg"
+         data-overlay-dark="6">
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30" style="background-color: #fff; margin-top:-8rem; padding: 20px;">
-                     <h2 style="font-size: 3rem; margin-top: 8rem;color: #000;" class="sub-title border-bot-dark">ForView</h2>
+                     <h2 style="font-size: 3rem; margin-top: 8rem;color: #000;" class="sub-title border-bot-dark">
+                         ForView</h2>
                      <p style="color: #000;">
                          ForView es una empresa orgullosamente mexicana, generada por un proceso de Spin-off que ha
                          visto Humberto Armenta, ya Director Técnico de la empresa de familia, independizarse creando
@@ -149,7 +151,8 @@
                  <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                      <div class="vid-area mb-30">
                          <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
-                             <a class="video-gallery-button vid" href="https://youtu.be/R5LCZSsuCrM"> <span class="video-gallery-polygon">
+                             <a class="video-gallery-button vid" href="https://youtu.be/R5LCZSsuCrM"> <span
+                                     class="video-gallery-polygon">
                                      <i style="color: #fff;" class="ti-control-play"></i>
                                  </span> </a>
                          </div>
@@ -159,6 +162,7 @@
          </div>
      </div>
  </section>
+
  <!-- Projects 2 -->
  <div class="projects2 section-padding">
      <div class="container">
@@ -189,9 +193,9 @@
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
                      <div class="fotorama">
-                         <img src="/images/projects/06.jpg" alt="">
-                         <img src="/images/projects/13.jpg" alt="">
-                         <img src="/images/projects/14.jpg" alt="">
+                         <img src="/images/projects/24.jpg" alt="">
+                         <img src="/images/projects/25.jpg" alt="">
+                         <img src="/images/projects/06.jpg?=1" alt="">
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
@@ -202,7 +206,11 @@
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <img src="/images/projects/15.jpg" alt="">
+                     <div class="fotorama">
+                         <img src="/images/projects/26.jpg" alt="">
+                         <img src="/images/projects/27.jpg" alt="">
+                         <img src="/images/projects/15.jpg" alt="">
+                     </div>
                      <div class="projects2-con">
                          <p>02</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="/pivotante-ventana">Pivotante</a></h3>
@@ -243,7 +251,8 @@
                      <a href="#"><img src="/images/projects/proteccion-1.jpg" alt=""></a>
                      <div class="projects2-con">
                          <p>05</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Protección anti huracán</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Protección anti huracán</a>
+                         </h3>
                          <a href="/proteccion" class="project2-link"></a>
                      </div>
                  </div>
@@ -289,7 +298,8 @@
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
                      <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
-                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span class="video-gallery-polygon">
+                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span
+                                 class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>
                      </div>
@@ -300,7 +310,7 @@
                      <div class="cont">
                          <h2><strong>ForView</strong></h2>
                          <p>
-                             
+
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
                          <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
@@ -328,7 +338,8 @@
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="vid-area mb-30">
                      <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
-                         <a class="video-gallery-button vid" href="https://youtu.be/R5LCZSsuCrM"> <span class="video-gallery-polygon">
+                         <a class="video-gallery-button vid" href="https://youtu.be/R5LCZSsuCrM"> <span
+                                 class="video-gallery-polygon">
                                  <i class="ti-control-play"></i>
                              </span> </a>
                      </div>
