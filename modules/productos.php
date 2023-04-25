@@ -81,16 +81,16 @@
         </div>
     </div>
 </div>
-
+<div id="hardware"></div>
 <!-- Projects 3 -->
 <section class="projects3 section-padding">
-    <div class="container">
+    <div class="container" style="margin-top: 3rem;">
         <div class="row mb-5">
             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
                 <div class="sub-title border-bot-light">Nos atrevemos con la micromécanica</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-title">HERRAJES Y RODAMIENTOS</div>
+                <div class="section-title">HARDWARE</div>
 
             </div>
         </div>
@@ -179,7 +179,7 @@
 
         <div class="row mt-5">
             <div class="col-md-12">
-                <div class="section-title">Carretillas</div>
+                <div class="section-title">ROLLERS</div>
                 <br>
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
@@ -194,7 +194,7 @@
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h2>
-                Carretillas en Acero Inoxidable
+                Rodamiento en Acero Inoxidable
                 </h2>
                 <div class="container fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
