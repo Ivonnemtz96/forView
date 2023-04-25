@@ -223,6 +223,7 @@
                      <div class="fotorama">
                          <img src="/images/projects/16.jpg" alt="">
                          <img src="/images/projects/17.jpg" alt="">
+                         <img src="/images/projects/39.jpg" alt="">
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>03</p>
@@ -235,6 +236,7 @@
                  <div class="projects2-wrap">
                      <div class="fotorama">
                          <img src="/images/projects/18.jpg" alt="">
+                         <img src="/images/projects/38.jpg" alt="">
                          <img src="/images/projects/19.jpg" alt="">
                          <img src="/images/projects/20.jpg" alt="">
                          <img src="/images/projects/21.jpg" alt="">
@@ -248,7 +250,11 @@
              </div>
              <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="/images/projects/proteccion-1.jpg" alt=""></a>
+                     <div class="fotorama">
+                         <img src="/images/projects/41.jpg" alt="">
+                         <img src="/images/projects/40.jpg" alt="">
+                         <img src="/images/projects/proteccion-1.jpg" alt="">
+                     </div>
                      <div class="projects2-con">
                          <p>05</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Protección anti huracán</a>
