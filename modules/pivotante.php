@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 caption mt-60">
                 <div class="subtitle"><a href="/productos">Detalles</a></div>
-                <div style="background-color: #000; padding: 10px;" class="title">Pivotante Puerta</div>
+                <div style="background-color: #000; padding: 10px;" class="title">Puerta Pivotante</div>
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <span>Producto</span>
-                <h2>Pivotante Puerta</h2>
+                <h2>Puerta Pivotante</h2>
                 <h2></h2>
                 <p>
                     El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
@@ -150,16 +150,17 @@
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <span>ForView 28 / Pivotante</span> <br>
+                                                <span>ForView 28 / Puerta Pivotante</span> <br>
                                                 <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
 
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <button type="button" class="btn btn-dark mt-3">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf"
+                                    download="02-Puerta Pivotante.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                                </button>
+                                </a>
                             </div>
                         </div>
                     </li>
@@ -180,7 +181,7 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/04-Proyectante.pdf" download="04-Proyectante.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf" download="02-Puerta Pivotante.pdf">
                     Descargar
                 </a>
             </div>
