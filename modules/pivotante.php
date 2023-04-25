@@ -36,11 +36,10 @@
             <div class="col-md-6 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
-                    <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv2.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv3.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv4.jpg" alt="">
-                    <img class="img-fluid" src="/images/slider/piv5.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/42.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/24.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/26.jpg" alt="">
+
                 </div>
 
             </div>
