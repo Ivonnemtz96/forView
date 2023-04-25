@@ -69,7 +69,7 @@
 
                             <!-- <li><a href="/guillotina">Guillotina</a></li>
                             <li><a href="/turnable">Turnable Corner</a></li> -->
-                            <li><a href="/proteccion">Protección Antihuracán</a></li>
+                            <li><a href="/proteccion">Protección Anti Huracán</a></li>
 
                         </ul>
                     </li>
