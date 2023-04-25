@@ -37,13 +37,13 @@
                                     <li>
                                         <a href="/pivotante">Pivotante</a>
                                         <ul>
-                                            <li><a href="/pivotante#28 <? $var28="active-block"; $var28_2="active"; $var28_3="display: block;"?>">ForView 28</a></li>
+                                            <li><a href="/pivotante?activo=28#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                     <li>
                                         <a href="/batiente">Batiente</a>
                                         <ul>
-                                            <li><a href="/batiente#28 <? $var28="active-block"; $var28_2="active"; $var28_3="display: block;"?>">ForView 28</a></li>
+                                            <li><a href="/batiente?activo=28#28">ForView 28</a></li>
                                         </ul>
                                     </li>
                                 </ul>

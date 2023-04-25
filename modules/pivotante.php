@@ -116,11 +116,11 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">
                 <ul class="accordion-box clearfix">
-                    <li class="accordion block <? echo $var28;?>" >
-                        <div class="acc-btn <? echo $var28_2;?>">
+                    <li class="accordion block <? echo $var_1;?>" >
+                        <div class="acc-btn <? echo $var_2;?>">
                             <h2>ForView 28</h2>
                         </div>
-                        <div class="acc-content" style="<? echo $var28_3;?>">
+                        <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
