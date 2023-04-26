@@ -12,7 +12,7 @@
 
 <div class="container-fluid overflow-hidden">
     <div class="row justify-content-center h-100 m-2">
-        <div id="producto1" class="text-center col-3 py-5 px-4 productos-hover">
+        <div id="producto1" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
             <h3><a href="/detalle" style="color: #000;">Correderas</a></h3>
             <p>
             <ul class="detalles">
@@ -32,7 +32,7 @@
             </ul>
             </p>
         </div>
-        <div id="producto2" class="text-center col-3 py-5 px-4 productos-hover">
+        <div id="producto2" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
             <h3><a href="/pivotante" style="color: #000;">Pivotante</a></h3>
             <p>
             <ul class="detalles">
@@ -47,7 +47,7 @@
             </ul>
             </p>
         </div>
-        <div id="producto3" class="text-center col-3 py-5 px-4 productos-hover">
+        <div id="producto3" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
             <h3>Guillotina</h3>
             <p>
             <ul class="detalles">
@@ -66,7 +66,7 @@
             </ul>
             </p>
         </div>
-        <div id="producto4" class="text-center col-3 py-5 px-4 productos-hover">
+        <div id="producto4" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
             <h3><a href="/abatible" style="color: #000;">Abatible</a></h3>
             <p>
             <ul class="detalles">
@@ -143,7 +143,7 @@
                 <div class="section-title">Tiradores</div>
                 <br>
             </div>
-            <div class="col-6 col-md-4 mt-4 mb-5">
+            <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
                 <h3>
                     CIERRE LATERAL
                 </h3>
@@ -158,7 +158,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-md-4 mt-4 mb-5">
+            <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
                 <h3>
                     CIERRE AL CENTRO CON LLAVE
                 </h3>
@@ -174,7 +174,7 @@
                 </div>
             </div>
 
-            <div class="col-6 col-md-4 mt-4 mb-5">
+            <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
                 <h3>
                     CIERRE AL CENTRO SIN LLAVE
                 </h3>
