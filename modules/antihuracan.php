@@ -29,6 +29,8 @@
             <div class="col-md-6">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
+                    <img class="img-fluid" src="/images/projects/40.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/41.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/proteccion-1.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/proteccion2.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/proteccion3.jpg" alt="">
@@ -207,4 +209,5 @@
             </div>
         </div>
     </div>
+
 </section> -->
