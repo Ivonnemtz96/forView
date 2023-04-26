@@ -235,8 +235,8 @@
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
                      <div class="fotorama">
-                         <img src="/images/projects/18.jpg" alt="">
                          <img src="/images/projects/38.jpg" alt="">
+                         <img src="/images/projects/18.jpg" alt="">
                          <img src="/images/projects/19.jpg" alt="">
                          <img src="/images/projects/20.jpg" alt="">
                          <img src="/images/projects/21.jpg" alt="">
