@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
-                    <a href="#"><img src="/images/slider/15.jpg" alt=""></a>
+                    <a href="#"><img src="/images/projects/44.jpg" alt=""></a>
                 </div>
             </div>
             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
