@@ -117,12 +117,14 @@
         </div>
     </div>
 </section>
-<div id="28" class="mb-3"></div>
 
-<section class="section-padding" style="margin-top:3rem;">
+
+<section class="section-padding" >
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-12">
+            <!-- Serie 28 -->
+        <div id="28" class="mb-3"></div>
+            <div class="col-md-12" style="margin-top:7rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?>">
                         <div class="acc-btn <? echo $var_2;?>">
@@ -159,6 +161,61 @@
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <span>ForView 28 / Puerta Pivotante</span> <br>
+                                                <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf"
+                                    download="02-Puerta Pivotante.pdf">
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Serie 38 -->
+            <div id="38" class="mb-3"></div>
+            <div class="col-md-12" style="margin-top:7rem;">
+                <ul class="accordion-box clearfix">
+                    <li class="accordion block <? echo $var38_1;?>">
+                        <div class="acc-btn <? echo $var38_2;?>">
+                            <h2>ForView 38 Puerta Pivotante</h2>
+                        </div>
+                        <div class="acc-content" style="<? echo $var38_3;?>">
+                            <div class="content">
+                                <div class="text">
+                                    <p style="color: #000;">
+                                        La puerta pivotante opera sobre su eje vertical normalmente posicionado en un
+                                        lado, una forma
+                                        elegante de transición para ambientes colocados en el mismo nivel gracias a las
+                                        líneas esenciales de
+                                        nuestras series. Es un elemento arquitectónico o de interiorismo, la
+                                        versatilidad del aluminio y del acero permiten integrarse perfectamente en
+                                        ambientes minimalistas
+                                        o en ambientes coloniales y étnicos,
+                                        integrada en correderas de más de 4 hojas representa una práctica solución que
+                                        permite la transición
+                                        si necesidad de mover el sistema de correderas. </p>
+                                    <p>
+                                    <h4>Configuración</h4>
+                                    <ol style="color: #000;">
+                                        <li>Marco principal</li>
+                                        <li>Zoclo</li>
+                                        <li>Maneta</li>
+                                        <li>Sistema cerradura</li>
+                                        <li>Cubre pijas</li>
+                                        <li>Felpa</li>
+                                        <li>Vinil guarda polvo</li>
+                                    </ol>
+                                    </p>
+                                    <div class="container mb-5">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span>ForView 38 / Puerta Pivotante</span> <br>
                                                 <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
 
                                             </div>

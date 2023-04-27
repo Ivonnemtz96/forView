@@ -9,12 +9,21 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
     $var_1='';
     $var_2='';
     $var_3='';
+
+    $var38_1='';
+    $var38_2='';
+    $var38_3='';
     if($activo==28){
         $var_1="active-block";
         $var_2="active";
         $var_3="display: block;";
     }
 
+    if($activo==38){
+        $var38_1="active-block";
+        $var38_2="active";
+        $var38_3="display: block;";
+    }
 
 }
 

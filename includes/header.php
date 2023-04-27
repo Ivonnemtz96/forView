@@ -66,7 +66,7 @@
                                         <a href="/pivotante?activo=28#28">ForView 28</a>
                                     </li>
                                     <li>
-                                        <a href="/pivotante?activo=28#28">ForView 38</a>
+                                        <a href="/pivotante?activo=38#38">ForView 38</a>
                                     </li>
                                 </ul>
                             </li>
