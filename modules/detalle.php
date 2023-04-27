@@ -137,6 +137,8 @@
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container" >
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
+        <!-- Serie 17 -->
+
         <div id="17"></div>
 
         <div class="col-md-12" style="margin-top:10rem;">
@@ -217,10 +219,7 @@
 
             </ul>
         </div>
-
-
-
-
+        <!-- Siguiente serie 38 -->
         <div id="38"></div>
 
         <div class="col-md-12">
@@ -279,12 +278,8 @@
                 </li>
             </ul>
         </div>
-
-
-
+        <!-- Siguiente serie 54 -->
         <div id="54"></div>
-
-
         <div class="col-md-12" style="margin-top:10rem;">
             
             <ul class="accordion-box clearfix" >
@@ -342,8 +337,64 @@
             </ul>
         </div>
 
+        <!-- Siguiente serie Esencia -->
+        <div id="Esencia"></div>
+        <div class="col-md-12" style="margin-top:10rem;">
+            
+            <ul class="accordion-box clearfix" >
 
+                <li class="accordion block <? echo $varEs_1;?>">
+                    <div class="acc-btn <? echo $varEs_2;?>">
+                        <h2>ForView Esencia</h2>
+                    </div>
+                    <div class="acc-content" style="<? echo $varEs_3;?>;">
+                        <div class="content">
+                            <div class="text">
+                                <p style="color: #000;">
+                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    configuraciones de
+                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
+                                    generar un cambio
+                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
+                                    al tacto, y a su
+                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
+                                    espacio.
+                                </p>
+                                <p>
+                                <h4>Configuración</h4>
+                                <ol style="color: #000;">
+                                    <li>Marco principal</li>
+                                    <li>Cerco chapa</li>
+                                    <li>Cabezal minimalista</li>
+                                    <li>Zoclo minimalista</li>
+                                    <li>Traslape</li>
+                                    <li>Riel</li>
+                                    <li>Tapa marco</li>
+                                    <li>Rodamiento</li>
+                                    <li>Tirador fagal</li>
+                                    <li>Chapa</li>
+                                    <li>Tapcon hexagonal</li>
+                                </ol>
+                                </p>
+                                <div class="container mb-5">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <span>ForView Esencia</span> <br>
+                                            <img style="width: 20rem;" src="/images/forview54.png" alt="">
 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
+                                download="01-Corredizas.pdf">
+                                Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
 
     </div>
     </div>

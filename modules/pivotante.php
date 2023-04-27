@@ -55,15 +55,14 @@
                     <strong>Show room. Los Cabos, México.</strong>
                 </h3>
                 <span>ForView 28 / Pivotante</span>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv2.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv3.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv4.jpg" alt="">
-                    </div>
+                <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
+                    <img class="img-fluid" src="/images/projects/06.jpg?=1" alt="">
+                    
+                     <img class="img-fluid" src="/images/projects/24.jpg?=1" alt="">
+                    
+                     <img class="img-fluid" src="/images/projects/25.jpg?=1" alt="">
+                    
+                    
                 </div>
             </div>
 
@@ -72,7 +71,7 @@
                     <strong>Pivotante ForView 28.</strong>
                 </h3>
                 <span>ForView 28 / Pivotante</span>
-                <div class="owl-carousel owl-theme">
+                <div class="">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/pivotante28.jpg" alt="">
                     </div>
                 </div>
@@ -83,11 +82,10 @@
                     <strong>El Dorado / Villa 419. Los Cabos, México.</strong>
                 </h3>
                 <span>ForView 17 / 500</span>
-                <div class="owl-carousel owl-theme mt-3">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenoRe2.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/ChilenoRe1.jpg" alt="">
-                    </div>
+                <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
+                     <img class="img-fluid" src="/images/projects/68.jpg" alt="">
+                     <img class="img-fluid" src="/images/projects/69.jpg" alt="">
+                     <img class="img-fluid" src="/images/projects/70.jpg" alt="">
                 </div>
             </div>
 
@@ -97,11 +95,11 @@
                     <strong>Palmilla / Villa 381 Los Cabos, <br> México.</strong>
                 </h3>
                 <span>ForView 28 / Pivotante</span>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla2.jpg" alt="">
-                    </div>
+                <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
+                     <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt="">
+                    
+                     <img class="img-fluid" src="/images/projects/palmilla2.jpg" alt="">
+                   
                 </div>
             </div>
 
