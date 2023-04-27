@@ -33,10 +33,10 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="/detalle">Integrado</a>
+                                <a href="/integrado">Integrado</a>
                                 <ul>
-                                    <li><a href="/detalle?activo=17#17">ForView 38</a></li>
-                                    <li><a href="/detalle?activo=38#38 ">ForView 54</a></li>
+                                    <li><a href="/integrado?activo=38#38">ForView 38</a></li>
+                                    <li><a href="/integrado?activo=54#54">ForView 54</a></li>
                                 </ul>
                             </li>
 

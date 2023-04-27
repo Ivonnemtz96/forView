@@ -9,27 +9,15 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
     extract($_REQUEST);
 
 
-    $var17_1='';
-    $var17_2='';
-    $var17_3='';
 
-    $var38_1='';
-    $var38_2='';
-    $var38_3='';
+    $var34_1='';
+    $var34_2='';
+    $var34_3='';
 
     $var54_1='';
     $var54_2='';
     $var54_3='';
 
-    $varEs_1='';
-    $varEs_2='';
-    $varEs_3='';
-
-    if($activo==17){
-        $var17_1="active-block";
-        $var17_2="active";
-        $var17_3="display: block;";
-    }
     if($activo==38){
         $var38_1="active-block";
         $var38_2="active";
@@ -40,15 +28,7 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
         $var54_2="active";
         $var54_3="display: block;";
     }
-    if($activo==1){
-        $varEs_1="active-block";
-        $varEs_2="active";
-        $varEs_3="display: block;";
-    }
-
 }
-
-
 ?>
 
 
