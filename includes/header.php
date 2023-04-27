@@ -41,18 +41,18 @@
                             </li>
 
                             <li>
-                                <a href="#">Plano</a>
+                                <a href="/plano">Plano</a>
                                 <ul>
                                     <li>
-                                        <a href="/pivotante-ventana">Piso Plano</a>
+                                        <a href="/piso">Piso Plano</a>
                                         <ul>
-                                            <li><a href="/pivotante-ventana?activo=28#28">ForView 54</a></li>
+                                            <li><a href="/piso?activo=54#54">ForView 54</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="/proyectante">Full Plano</a>
+                                        <a href="/full">Full Plano</a>
                                         <ul>
-                                            <li><a href="/proyectante?activo=28#28">ForView 54</a></li>
+                                            <li><a href="/full?activo=54#54">ForView 54</a></li>
                                         </ul>
                                     </li>
                                 </ul>
