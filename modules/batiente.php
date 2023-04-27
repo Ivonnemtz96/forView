@@ -27,8 +27,7 @@
                 </p>
             </div>
             <div class="col-md-6 justify-content-center align-items-center">
-                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
-                    data-minheight="300" data-maxheight="100%">
+                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000" data-loop="true">
                     <img class="img-fluid" src="/images/projects/66.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/67.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/abatible.jpg" alt="">
@@ -37,7 +36,7 @@
             </div>
         </div>
     </div>
-    <div hidden class="container p-5">
+    <div class="container p-5">
         <!-- project slider -->
         <div class="row mt-5">
             <h2><b>Proyectos</b></h2>
@@ -49,17 +48,15 @@
             </div>
             <div class="col-12 col-md-8 mt-4 mb-5">
                 <h3>
-                    <strong>Show room. Los Cabos, México.</strong>
+                    <strong>RE 28 Puerta Batiente</strong>
                 </h3>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv2.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv3.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/slider/piv4.jpg" alt="">
-                    </div>
+                <div class="fotorama" data-loop="true" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000">
+                    <img class="img-fluid" src="/images/projects/71.jpg" alt="">
+                    
+                    <img class="img-fluid" src="/images/projects/72.jpg" alt="">
+                    
+                    <img class="img-fluid" src="/images/projects/74.jpg" alt="">
+                    
                 </div>
             </div>
         </div>

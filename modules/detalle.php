@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-6">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
-                    data-minheight="300" data-maxheight="100%">
+                    data-minheight="300" data-maxheight="100%" data-loop="true">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/43.jpg" alt="">
                     </div>
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/44.jpg" alt="">
@@ -64,22 +64,34 @@
                 </p>
                 <br>
             </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
+            <div class="col-12 col-md-6 mt-4 mb-5">
                 <h3>
-                    <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
+                    <strong>Chileno Bay / Villa 221. Los Cabos, México. </strong>
                 </h3>
                 <span>ForView 17 / 500</span>
-                <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno2.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno3.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt="">
-                    </div>
+                <div class="fotorama" data-loop="true" data-width="100%" data-maxwidth="1000">
+                    <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/chileno2.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/chileno3.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/chileno4.jpg" alt="">
                 </div>
             </div>
+
+            <div class="col-12 col-md-6 mt-4 mb-5">
+                <h3>
+                    <strong>RE 28 Corredera Clásica 17 <br><br></strong>
+                </h3>
+                <span>ForView 17 </span>
+                <div class="fotorama" data-loop="true" data-width="100%" data-maxwidth="1000">
+                    <img class="img-fluid" src="/images/projects/71.jpg" alt="">
+
+                    <img class="img-fluid" src="/images/projects/72.jpg" alt="">
+
+                    <img class="img-fluid" src="/images/projects/74.jpg" alt="">
+
+                </div>
+            </div>
+
             <!-- <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
@@ -135,14 +147,14 @@
 </section>
 
 <section class="section-padding" style="padding-top: 0px;">
-    <div class="container" >
+    <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 17 -->
 
         <div id="17"></div>
 
         <div class="col-md-12" style="margin-top:10rem;">
-            <ul class="accordion-box clearfix" >
+            <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var17_1;?>">
                     <div class="acc-btn <? echo $var17_2;?>">
                         <h2>ForView 17</h2>
@@ -233,7 +245,7 @@
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
                                     configuraciones de
                                     hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
                                     generar un cambio
@@ -281,8 +293,8 @@
         <!-- Siguiente serie 54 -->
         <div id="54"></div>
         <div class="col-md-12" style="margin-top:10rem;">
-            
-            <ul class="accordion-box clearfix" >
+
+            <ul class="accordion-box clearfix">
 
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn <? echo $var54_2;?>">
@@ -292,7 +304,7 @@
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
                                     configuraciones de
                                     hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
                                     generar un cambio
@@ -340,8 +352,8 @@
         <!-- Siguiente serie Esencia -->
         <div id="Esencia"></div>
         <div class="col-md-12" style="margin-top:10rem;">
-            
-            <ul class="accordion-box clearfix" >
+
+            <ul class="accordion-box clearfix">
 
                 <li class="accordion block <? echo $varEs_1;?>">
                     <div class="acc-btn <? echo $varEs_2;?>">
@@ -351,7 +363,7 @@
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
                                     configuraciones de
                                     hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
                                     generar un cambio
