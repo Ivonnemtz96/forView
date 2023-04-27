@@ -142,8 +142,8 @@
                          ForView</h2>
                      <p style="color: #000;">
                          ForView es una empresa orgullosamente mexicana, generada por un proceso de Spin-off que ha
-                         visto Humberto Armenta, ya Director Técnico de la empresa de familia, independizarse creando
-                         una propia línea de cancelería de lujo para las residencias que se encuentran en la costas
+                         visto Humberto Armenta, ya Director Técnico de la empresa de familia, al independizarse creando
+                         una línea propia de cancelería de lujo para las residencias que se encuentran en la costas
                          Pacífica de México y Estados Unidos.
 
                      </p>
@@ -196,6 +196,7 @@
                          <img src="/images/projects/24.jpg" alt="">
                          <img src="/images/projects/25.jpg" alt="">
                          <img src="/images/projects/06.jpg?=1" alt="">
+                         <img src="/images/projects/43.jpg" alt="">
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
@@ -209,7 +210,7 @@
                      <div class="fotorama">
                          <img src="/images/projects/26.jpg" alt="">
                          <img src="/images/projects/27.jpg" alt="">
-                         <img src="/images/projects/15.jpg" alt="">
+                         <!-- <img src="/images/projects/15.jpg" alt=""> -->
                      </div>
                      <div class="projects2-con">
                          <p>02</p>
@@ -221,13 +222,18 @@
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
                      <div class="fotorama">
-                         <img src="/images/projects/16.jpg" alt="">
-                         <img src="/images/projects/17.jpg" alt="">
-                         <img src="/images/projects/39.jpg" alt="">
+                         <img src="/images/projects/28.jpg" alt="">
+                         <img src="/images/projects/29.jpg" alt="">
+                         <img src="/images/projects/30.jpg" alt="">
+                         <img src="/images/projects/31.jpg" alt="">
+                         <img src="/images/projects/32.jpg" alt="">
+                         <img src="/images/projects/33.jpg" alt="">
+                         <img src="/images/projects/36.jpg" alt="">
+                         <img src="/images/projects/37.jpg" alt="">
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
-                         <p>03</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/abatible">Abatible</a></h3>
+                         <p>04</p>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/abatible">Ventanas</a></h3>
                          <a href="/abatible" class="project2-link"></a>
                      </div>
                  </div>
@@ -242,8 +248,8 @@
                          <img src="/images/projects/21.jpg" alt="">
                      </div>
                      <div class="projects2-con">
-                         <p>04</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante">Puertas</a></h3>
+                         <p>03</p>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante">Puerta</a></h3>
                          <a href="/pivotante" class="project2-link"></a>
                      </div>
                  </div>
@@ -256,13 +262,33 @@
                          <img src="/images/projects/proteccion-1.jpg" alt="">
                      </div>
                      <div class="projects2-con">
-                         <p>05</p>
+                         <p>06</p>
                          <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Protección anti huracán</a>
                          </h3>
                          <a href="/proteccion" class="project2-link"></a>
                      </div>
                  </div>
              </div>
+
+             <div class="col-md-6 single-item completed">
+                 <div class="projects2-wrap">
+                     <div class="fotorama">
+                         <img src="/images/projects/62.jpg" alt="">
+                         <img src="/images/projects/52.jpg" alt="">
+                         <img src="/images/projects/46.jpg" alt="">
+                         <img src="/images/projects/45.jpg" alt="">
+                         <img src="/images/projects/55.jpg" alt="">
+                     </div>
+                     <div class="projects2-con">
+                         <p>05</p>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Hardware</a>
+                         </h3>
+                         <a href="/proteccion" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+
              <!-- <div class="col-md-6 single-item completed">
                  <div class="projects2-wrap">
                      <a href="#"><img src="/images/projects/05.jpg" alt=""></a>
@@ -356,11 +382,11 @@
                      <div class="cont">
                          <h2>Equipo ForView</h2>
                          <p>
-                             ¡SOMOS JÓVENES, CAPACITADOS EN LAS NUEVAS TECNOLOGIAS Y CON MUCHA EXPERIENCIA!
-                             Además de la Calidad, de la Tecnología, de los Sevicios costumerizados que nos caracterizan
+                            ¡Somos jóvenes, capacitados en las nuevas tecnologías y con mucha experiencia!
+                             Además de la Calidad, de la Tecnología, de los Sevicios personalizados que nos caracterizan
                              somos
-                             un equipo FUERTEMENTE COMPROMETIDOS con los resultados de la empresa. <br>
-                             “ForView es algo mas de una empresa, es una familia, con sus valores, principios y
+                             un equipo fuertemente comprometido con los resultados de la empresa. <br>
+                             “ForView es algo mas que una empresa, es una familia, con valores, principios y
                              estándares, pero
                              somos orgullos de hacer parte de ella” Humberto.
                              <br><br>

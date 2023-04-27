@@ -12,7 +12,7 @@
 
 <div class="container-fluid overflow-hidden">
     <div class="row justify-content-center h-100 m-2">
-        <div id="producto1" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
+        <div id="producto1" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
             <h3><a href="/detalle" style="color: #000;">Correderas</a></h3>
             <p>
             <ul class="detalles">
@@ -20,11 +20,10 @@
                 <li>El cierre de los elementos puede ser lateral o central.</li>
                 <li>Los elementos cuentan con diversas configuraciones tanto en aperturas, como en número de hojas.
                 </li>
-                <li>Nuestros sistemas permiten ahogar el marco en el piso y en las paredes, permitiéndole al espacio
-                    quedar completamente despejado.</li>
+                <li>Nuestros sistemas permiten ahogar el marco en el piso y en las paredes, despejando completamente el espacio</li>
                 <li>De igual forma cuentan con soluciones ANTI HURACÁN según el tipo de refuerzo y dimensiones del
                     elemento.</li>
-                <li>Todos los rodamientos son de acero inoxidable fabricados por nosotros mismos en nuestra Planta.</li>
+                <li>Todos los rodamientos son de acero inoxidable fabricados en nuestra Planta.</li>
                 <li>Elegancia, robustez y practicidad son las características de estas soluciones de corredizas.</li>
                 <li>Toda la tornillería se encuentra oculta.</li>
                 <li>Los cristales están completamente sellados.</li>
@@ -32,22 +31,21 @@
             </ul>
             </p>
         </div>
-        <div id="producto2" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
+        <div id="producto2" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
             <h3><a href="/pivotante" style="color: #000;">Pivotante</a></h3>
             <p>
             <ul class="detalles">
-                <li>La puerta pivotante se abre sobre su eje vertical normalmente posicionado en un lado.</li>
+                <li>La puerta pivotante opera sobre su eje vertical normalmente posicionado en un lado.</li>
                 <li>Una forma elegante de transición para ambientes colocados en el mismo nivel.</li>
-                <li>Gracias a las líneas esenciales de nuestras series, es un elemento arquitectónico o de interiorismo,
-                    según su colocación que caracteriza ese espacio</li>
+                <li>Gracias a las líneas esenciales de nuestras series, es un elemento arquitectónico o de interiorismo.</li>
                 <li>La versatilidad del aluminio y del acero permiten integrarse perfectamente en ambientes minimalistas
                     o en ambientes coloniales y étnicos.</li>
                 <li>Integrada en correderas de más de 4 hojas representa una práctica solución que permite la transición
-                    si tener que mover el sistema de correderas</li>
+                    si necesidad de mover el sistema de correderas.</li>
             </ul>
             </p>
         </div>
-        <div id="producto3" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
+        <!-- <div id="producto3" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
             <h3>Guillotina</h3>
             <p>
             <ul class="detalles">
@@ -65,9 +63,9 @@
                 </li>
             </ul>
             </p>
-        </div>
-        <div id="producto4" class="text-center col-3 col-md-3 py-5 px-4 productos-hover">
-            <h3><a href="/abatible" style="color: #000;">Abatible</a></h3>
+        </div> -->
+        <div id="producto4" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
+            <h3><a href="/abatible" style="color: #000;">Batiente</a></h3>
             <p>
             <ul class="detalles">
                 <li>Proyectante, vasista, oscilobatiente y batiente.</li>
@@ -98,6 +96,8 @@
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="img">
                     <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
+                        <img src="/images/projects/56.jpg" alt="">
+                        <img src="/images/projects/62.jpg" alt="">
                         <img class="img-fluid" src="/images/projects/52.jpg" alt="">
                         <img class="img-fluid" src="/images/projects/57.jpg" alt="">
                         <img src="/images/slider/16.jpg" alt="">
@@ -105,9 +105,6 @@
                         <img src="/images/projects/herraje3.jpg" alt="">
                         <img src="/images/projects/herraje4.jpg" alt="">
                         <img src="/images/projects/herraje6.jpg" alt="">
-                        <img src="/images/projects/herraje7.jpg" alt="">
-                        <img src="/images/projects/herraje8.jpg" alt="">
-                        <img src="/images/projects/herraje9.jpg" alt="">
                         <img src="/images/projects/herraje10.jpg" alt="">
                     </div>
                 </div>
@@ -121,7 +118,7 @@
                         <ul class="detalles">
                             <li><strong>ForView</strong> utiliza equipos CNC para la fabricación de los herrajes de sus
                                 Sistemas.</li>
-                            <li>El error de sus equipos es de un décimo de milímetro así como en el sector automotriz.
+                            <li>La tolerancia de sus equipos es de un décimo de milímetro así como en el sector automotriz.
                             </li>
                         </ul>
                         </p>
@@ -193,12 +190,12 @@
 
         <div class="row mt-5">
             <div class="col-md-12">
-                <div class="section-title">ROLLERS</div>
+                <div class="section-title">Rodamientos</div>
                 <br>
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
-                    RODAMIENTO EN 3" Y 4" PULGADAS
+                    En 3" y 4" pulgadas
                 </h3>
                 <div class="">
                     <div class="portfolio-item">
@@ -216,7 +213,7 @@
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
-                    RODAMIENTO EN ACERO INOXIDABLE
+                    En acero inoxidable
                 </h3>
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
                             data-maxwidth="1000" data-minheight="300" data-maxheight="100%">

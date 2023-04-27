@@ -24,14 +24,54 @@
                     <li><a href="/productos">Productos</a>
                         <ul>
                             <li>
-                                <a href="/detalle">Corredera</a>
+                                <a href="/detalle">Clásica</a>
                                 <ul>
                                     <li><a href="/detalle?activo=17#17">ForView 17</a></li>
                                     <li><a href="/detalle?activo=38#38 ">ForView 38</a></li>
                                     <li><a href="/detalle?activo=54#54">ForView 54</a></li>
+                                    <li><a href="/detalle?activo=54#54">Esencia</a></li>
                                 </ul>
                             </li>
                             <li>
+                                <a href="/detalle">Integrado</a>
+                                <ul>
+                                    <li><a href="/detalle?activo=17#17">ForView 38</a></li>
+                                    <li><a href="/detalle?activo=38#38 ">ForView 54</a></li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <a href="#">Plano</a>
+                                <ul>
+                                    <li>
+                                        <a href="/pivotante-ventana">Piso Plano</a>
+                                        <ul>
+                                            <li><a href="/pivotante-ventana?activo=28#28">ForView 54</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="/proyectante">Full Plano</a>
+                                        <ul>
+                                            <li><a href="/proyectante?activo=28#28">ForView 54</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <!-- <li><a href="/pivotante">Pivotante</a></li> -->
+                             <li>
+                                <a href="/pivotante">Pivotante</a>
+                                <ul>
+                                    <li>
+                                        <a href="/pivotante?activo=28#28">ForView 28</a>
+                                    </li>
+                                    <li>
+                                        <a href="/pivotante?activo=28#28">ForView 38</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/batiente">Puerta</a></li>
+                            <!-- <li>
                                 <a href="#">Puertas</a>
                                 <ul>
                                     <li>
@@ -47,7 +87,7 @@
                                         </ul>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                             <li>
                                 <a href="#">Ventanas</a>

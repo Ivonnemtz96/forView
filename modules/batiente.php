@@ -75,7 +75,7 @@
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?> ">
                         <div class="acc-btn <? echo $var_2;?> ">
-                            <h2>ForView 28 Pivotante Ventana</h2>
+                            <h2>ForView 28  Puerta Batiente</h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">

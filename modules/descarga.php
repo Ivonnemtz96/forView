@@ -1,5 +1,6 @@
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/2.jpg" style="background-position: center center;">
+<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/2.jpg"
+    style="background-position: center center;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
@@ -24,7 +25,8 @@
                 <h4 class="mb-4">San José </h4>
                 <p>Fonatur, Plaza Paseo Los Cabos , Zona Hotelera, 23400 San José del Cabo, B.C.S.</p>
                 <div class="phone"><a class="phone1" href="tel:+526241642430">+52 624 164 2430</a></div>
-                <div class="mail mb-3"><a class="phone1" href="mailto:info@forviewdoors.com" target="_blank">info@forviewdoors.com</a></div>
+                <div class="mail mb-3"><a class="phone1" href="mailto:info@forviewdoors.com"
+                        target="_blank">info@forviewdoors.com</a></div>
                 <div hidden class="social mt-2">
                     <a href="#"><i class="ti-twitter"></i></a>
                     <a href="#"><i class="ti-instagram"></i></a>
@@ -116,5 +118,9 @@
 </section>
 <!-- Maps -->
 <div class="google-maps">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d952.1620757883456!2d-109.707524396149!3d23.086605764256475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5a58883c5d77%3A0xec9ae02d75b666e4!2sCALVALUM!5e0!3m2!1ses-419!2smx!4v1670883688750!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1038.1306442662742!2d-109.70352166805918!3d23.04317024779318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1682621268084!5m2!1ses-419!2smx"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

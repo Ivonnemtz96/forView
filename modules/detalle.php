@@ -21,10 +21,10 @@
                     El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
                     hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin generar un cambio
                     de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido al tacto, y a su
-                    vez, se puede guardar las hojas en un cajón de muro, permitiendo despejar completamente el espacio.
+                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el espacio.
                 </p><br>
                 <p>
-                    De igual forma cuenta con soluciones anticiclónicas, contemplando la configuración de los refuerzos
+                    De igual forma cuenta con soluciones anti huracán, contemplando la configuración de los refuerzos
                     y dimensiones del elemento, su facilidad de movimiento es posible debido a que los rodamientos son
                     de acero inoxidable fabricados en ForView. <br> <br>
                     El diseño arquitectónico minimalista de los canceles permiten ocultar de la vista la tornillería, al
@@ -68,7 +68,7 @@
                 <h3>
                     <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
                 </h3>
-                <span>ForView 17 / 200</span>
+                <span>ForView 17 / 500</span>
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
                     </div>
@@ -80,7 +80,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-md-6 mt-4 mb-5">
+            <!-- <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Chileno Bay / Villa 221. Los Cabos, México.</strong>
                 </h3>
@@ -89,7 +89,7 @@
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt="">
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
@@ -99,10 +99,12 @@
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenoRe2.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/ChilenoRe1.jpg" alt="">
-                    </div>
+                    <!-- <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/ChilenoRe1.jpg" alt="">
+                    </div> -->
                 </div>
             </div>
+
+
             <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Querencia / Casa Legado. Los Cabos, México.</strong>
@@ -111,8 +113,8 @@
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/querencia1.jpg" alt="">
                     </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/correderasQ.jpg" alt="">
-                    </div>
+                    <!-- <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/correderasQ.jpg" alt="">
+                    </div> -->
                 </div>
             </div>
 
@@ -133,11 +135,12 @@
 </section>
 
 <section class="section-padding" style="padding-top: 0px;">
-    <div class="container">
+    <div class="container" >
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
-        <div class="col-md-12">
-            <div id="17"></div>
-            <ul class="accordion-box clearfix" style="margin-top:100px;">
+        <div id="17"></div>
+
+        <div class="col-md-12" style="margin-top:10rem;">
+            <ul class="accordion-box clearfix" >
                 <li class="accordion block <? echo $var17_1;?>">
                     <div class="acc-btn <? echo $var17_2;?>">
                         <h2>ForView 17</h2>
@@ -146,21 +149,20 @@
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                    El sistema corredizo permite acceder a una amplia vista panorámica, con
-                                    distintas configuraciones
-                                    de hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso
-                                    sin generar un
-                                    cambio de nivel, el cual al realizar una transición entre dos espacios pasa
-                                    desapercibido al tacto, y
-                                    a su vez, se puede guardar las hojas en un cajón de muro, permitiendo despejar
-                                    completamente el
+                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    configuraciones de
+                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
+                                    generar un cambio
+                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
+                                    al tacto, y a su
+                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
                                     espacio.
                                     <br><br>
-                                    De igual forma cuenta con soluciones anticiclónicas, contemplando la
-                                    configuración de los
-                                    refuerzos y dimensiones del elemento, su facilidad de movimiento es posible
-                                    debido a que los
-                                    rodamientos son de acero inoxidable fabricados en ForView.
+                                    De igual forma cuenta con soluciones anti huracán, contemplando la configuración de
+                                    los refuerzos
+                                    y dimensiones del elemento, su facilidad de movimiento es posible debido a que los
+                                    rodamientos son
+                                    de acero inoxidable fabricados en ForView.
                                 </p>
                                 <p>
                                 <h4>Configuración</h4>
@@ -197,8 +199,9 @@
                                     </div>
                                 </div>
                                 <span>ForView 17 / 500 REFUERZOS</span>
-                                <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000" data-maxwidth="50%">
-                                    
+                                <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000"
+                                    data-maxwidth="50%">
+
                                     <img src="/images/projects/63.jpg" alt="">
                                     <img src="/images/projects/64.jpg" alt="">
                                     <img src="/images/projects/65.jpg" alt="">
@@ -218,9 +221,10 @@
 
 
 
+        <div id="38"></div>
+
         <div class="col-md-12">
-            <div id="38"></div>
-            <ul class="accordion-box clearfix" style="margin-top:100px;">
+            <ul class="accordion-box clearfix" style="margin-top:10rem;">
 
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn  <? echo $var38_2;?>">
@@ -230,16 +234,13 @@
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                    El sistema corredizo permite acceder a una amplia vista panorámica, con
-                                    distintas
-                                    configuraciones
-                                    de hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso
-                                    sin
-                                    generar un
-                                    cambio de nivel, el cual al realizar una transición entre dos espacios pasa
-                                    desapercibido al tacto, y
-                                    a su vez, se puede guardar las hojas en un cajón de muro, permitiendo despejar
-                                    completamente el
+                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    configuraciones de
+                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
+                                    generar un cambio
+                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
+                                    al tacto, y a su
+                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
                                     espacio.
                                 </p>
                                 <p>
@@ -281,10 +282,12 @@
 
 
 
+        <div id="54"></div>
 
-        <div class="col-md-12">
-            <div id="54"></div>
-            <ul class="accordion-box clearfix" style="margin-top:100px;">
+
+        <div class="col-md-12" style="margin-top:10rem;">
+            
+            <ul class="accordion-box clearfix" >
 
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn <? echo $var54_2;?>">
@@ -294,18 +297,14 @@
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                    El sistema corredizo FV-54 diseñado para
-                                    elementos monumentales cuyas
-                                    dimensiones sobrepasan por mucho los
-                                    estándares comerciales. <br><br>
-                                    Con perfilería robusta permitiendo una
-                                    vista limpia con un mínimo porcentaje de
-                                    obstrucción y gran sensación en su
-                                    operación, con la posibilidad de colocar
-                                    distintas configuraciones de cristal
-                                    llegando a ocupar un espesor máximo de
-                                    54mm, esto en conjunto con la ruptura de puente térmico lleva las prestaciones
-                                    térmicas y acústicas al más alto nivel.
+                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
+                                    configuraciones de
+                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
+                                    generar un cambio
+                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
+                                    al tacto, y a su
+                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
+                                    espacio.
                                 </p>
                                 <p>
                                 <h4>Configuración</h4>

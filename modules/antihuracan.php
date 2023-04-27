@@ -18,10 +18,9 @@
                 <h2>Protección anti huracán</h2>
                 <h2></h2>
                 <p>
-                    El sistema de cortina anti huracán brinda una mayor protección a los canceles expuestos que
-                    conforman la edificación, manteniéndose estable a la resistencia del viento con velocidades mayores
-                    de 250 km/h . <br><br>
-                    Con el sistema de cierre al centro innovador, y sencillo de maniobrar te permite desplegarlo y
+                    El sistema de cortina anti huracán brinda una protección absoluta a los canceles exteriores que
+                    conforman la edificación, anulando la presión del viento. <br><br>
+                    Con el sistema de cierre al centro innovador, y sencillo de operar permite desplegarlo y
                     fijarlo con una gran facilidad sin requerir de un gran esfuerzo , solo con ajustar los pasadores
                     sobre el eje superior e inferior la función de fijación queda resuelta.
                 </p><br>

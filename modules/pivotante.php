@@ -18,20 +18,15 @@
                 <h2>Puerta Pivotante</h2>
                 <h2></h2>
                 <p>
-                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
-                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin generar un cambio
-                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido al tacto, y a su
-                    vez, se puede guardar las hojas en un cajón de muro, permitiendo despejar completamente el espacio.
+                    La puerta pivotante opera sobre su eje vertical normalmente posicionado en un lado, una forma
+                    elegante de transición para ambientes colocados en el mismo nivel gracias a las líneas esenciales de
+                    nuestras series. Es un elemento arquitectónico o de interiorismo, la versatilidad del aluminio y del
+                    acero permiten integrarse perfectamente en ambientes minimalistas
+                    o en ambientes coloniales y étnicos,
+                    integrada en correderas de más de 4 hojas representa una práctica solución que permite la transición
+                    si necesidad de mover el sistema de correderas.
                 </p>
-                <p>
-                    De igual forma cuenta con soluciones anticiclónicas, contemplando la configuración de los refuerzos
-                    y dimensiones del elemento, su facilidad de movimiento es posible debido a que los rodamientos son
-                    de acero inoxidable fabricados en ForView. <br>
-                    El diseño arquitectónico minimalista de los canceles permiten ocultar de la vista la tornillería, al
-                    igual que sellar completamente los cristales, con espesores anodizados para los perfiles desde 20
-                    micras. Todas estas características aportan elegancia, robustez y practicidad a estas soluciones de
-                    puertas corredizas.
-                </p>
+
             </div>
             <div class="col-md-6 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
@@ -83,13 +78,28 @@
                 </div>
             </div>
 
+            <div class="col-6 col-md-6 mt-4 mb-5">
+                <h3>
+                    <strong>El Dorado / Villa 419. Los Cabos, México.</strong>
+                </h3>
+                <span>ForView 17 / 500</span>
+                <div class="owl-carousel owl-theme mt-3">
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenoRe2.jpg" alt="">
+                    </div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/ChilenoRe1.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+
             <div class="col-12 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>Palmilla / Villa 381 Los Cabos, <br> México.</strong>
                 </h3>
                 <span>ForView 28 / Pivotante</span>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt=""></div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt="">
+                    </div>
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/palmilla2.jpg" alt="">
                     </div>
                 </div>
@@ -101,39 +111,40 @@
                 </h3>
                 <span>ForView 28 / Pivotante</span>
                 <div class="owl-carousel owl-theme">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/waldorf1.jpg" alt=""></div>
+                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/waldorf1.jpg" alt="">
+                    </div>
                 </div>
             </div>
 
         </div>
     </div>
 </section>
-<div id="28"></div>
+<div id="28" class="mb-3"></div>
 
-<section class="section-padding" style="padding-top: 0px; margin-top:4rem;">
+<section class="section-padding" style="margin-top:3rem;">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-12">
                 <ul class="accordion-box clearfix">
-                    <li class="accordion block <? echo $var_1;?>" >
+                    <li class="accordion block <? echo $var_1;?>">
                         <div class="acc-btn <? echo $var_2;?>">
-                            <h2>ForView 28</h2>
+                            <h2>ForView 28 Puerta Pivotante</h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
-                                        La puerta pivotante se abre sobre su eje vertical normalmente posicionado en un
-                                        lado. <br>
-                                        Una forma elegante de transición para ambientes colocados en el mismo
-                                        nivel.Gracias a las líneas esenciales de nuestras series, es un elemento
-                                        arquitectónico o de interiorismo, según su colocación que caracteriza ese
-                                        espacio. <br>
-                                        La versatilidad del aluminio y del acero permiten integrarse perfectamente en
-                                        ambientes minimalistas o en ambientes coloniales y étnicos. <br>
-                                        Integrada en correderas de más de 4 hojas representa una práctica solución que
-                                        permite la transición si tener que mover el sistema de correderas
-                                    </p>
+                                        La puerta pivotante opera sobre su eje vertical normalmente posicionado en un
+                                        lado, una forma
+                                        elegante de transición para ambientes colocados en el mismo nivel gracias a las
+                                        líneas esenciales de
+                                        nuestras series. Es un elemento arquitectónico o de interiorismo, la
+                                        versatilidad del aluminio y del acero permiten integrarse perfectamente en
+                                        ambientes minimalistas
+                                        o en ambientes coloniales y étnicos,
+                                        integrada en correderas de más de 4 hojas representa una práctica solución que
+                                        permite la transición
+                                        si necesidad de mover el sistema de correderas. </p>
                                     <p>
                                     <h4>Configuración</h4>
                                     <ol style="color: #000;">
@@ -180,7 +191,8 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf" download="02-Puerta Pivotante.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf"
+                    download="02-Puerta Pivotante.pdf">
                     Descargar
                 </a>
             </div>
