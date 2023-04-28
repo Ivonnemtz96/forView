@@ -953,7 +953,8 @@ input[type="checkbox"] {
     white-space: nowrap;
   }
   .duru-menu > ul > li:last-child > a {
-    padding: 0 0 0 20px;
+    /* padding: 0 0 0 20px; */
+    padding: 0 0 0 0px;
   }
   .duru-menu ul li {
     position: relative;
