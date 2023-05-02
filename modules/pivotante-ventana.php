@@ -71,11 +71,12 @@
     </div>
 </section>
 
-<div id="28"></div>
+
 <section class="section-padding">
-    <div class="container" style="margin-top: 3rem;">
+    <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-12">
+        <div id="28"></div>
+            <div class="col-md-12"  style="margin-top: 5rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?>" >
                         <div class="acc-btn <? echo $var_2;?>">
@@ -111,14 +112,14 @@
                                         <div class="row">
                                             <div class="col-md-8">
                                                 <span>ForView 28 / Ventana Batiente</span> <br>
-                                                <img style="width: 20rem;" src="/images/slider/ventana-batiente.png"
+                                                <img style="width: 20rem;" src="/images/mapas/ventana-batiente.png"
                                                     alt="">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <a type="button" class="btn btn-dark mt-3" href="/pdf/04-Ventana Batiente.pdf"
-                                    download="04-Ventana Batiente.pdf">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/Ventana-batiente.pdf"
+                                    download="Ventana-batiente.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
@@ -142,7 +143,7 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/04-Ventana Batiente.pdf" download="04-Ventana Batiente.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Ventana-batiente.pdf" download="Ventana-batiente.pdf">
                     Descargar
                 </a>
             </div>
