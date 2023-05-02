@@ -32,7 +32,6 @@
                     <img class="img-fluid" src="/images/projects/67.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/abatible.jpg" alt="">
                 </div>
-
             </div>
         </div>
     </div>
@@ -72,7 +71,7 @@
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?> ">
                         <div class="acc-btn <? echo $var_2;?> ">
-                            <h2>ForView 28  Puerta Batiente</h2>
+                            <h2>Puerta Batiente ForView 28</h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">
@@ -105,14 +104,14 @@
                                         <div class="row">
                                             <div class="col-md-8">
                                                 <span>ForView 28 / Puerta Batiente</span> <br>
-                                                <img style="width: 20rem;" src="/images/slider/puerta-batiente.png"
+                                                <img style="width: 20rem;" src="/images/mapas/batiente-28.png"
                                                     alt="">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <a type="button" class="btn btn-dark mt-3" href="/pdf/03-Batiente.pdf"
-                                    download="03-Batiente.pdf">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/Puerta-batiente.pdf"
+                                    download="Puerta-batiente.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
@@ -135,8 +134,7 @@
                 <h2>FOLLETO TÉCNICO</h2>
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
-
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/03-Batiente.pdf" download="03-Batiente.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Puerta-batiente.pdf" download="Puerta-batiente.pdf">
                     Descargar
                 </a>
             </div>
