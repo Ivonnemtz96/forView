@@ -20,7 +20,8 @@
                 <li>El cierre de los elementos puede ser lateral o central.</li>
                 <li>Los elementos cuentan con diversas configuraciones tanto en aperturas, como en número de hojas.
                 </li>
-                <li>Nuestros sistemas permiten ahogar el marco en el piso y en las paredes, despejando completamente el espacio</li>
+                <li>Nuestros sistemas permiten ahogar el marco en el piso y en las paredes, despejando completamente el
+                    espacio</li>
                 <li>De igual forma cuentan con soluciones ANTI HURACÁN según el tipo de refuerzo y dimensiones del
                     elemento.</li>
                 <li>Todos los rodamientos son de acero inoxidable fabricados en nuestra Planta.</li>
@@ -37,11 +38,25 @@
             <ul class="detalles">
                 <li>La puerta pivotante opera sobre su eje vertical normalmente posicionado en un lado.</li>
                 <li>Una forma elegante de transición para ambientes colocados en el mismo nivel.</li>
-                <li>Gracias a las líneas esenciales de nuestras series, es un elemento arquitectónico o de interiorismo.</li>
+                <li>Gracias a las líneas esenciales de nuestras series, es un elemento arquitectónico o de interiorismo.
+                </li>
                 <li>La versatilidad del aluminio y del acero permiten integrarse perfectamente en ambientes minimalistas
                     o en ambientes coloniales y étnicos.</li>
                 <li>Integrada en correderas de más de 4 hojas representa una práctica solución que permite la transición
                     si necesidad de mover el sistema de correderas.</li>
+            </ul>
+            </p>
+        </div>
+        <div id="producto3" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
+            <h3><a href="/abatible" style="color: #000;">Batiente</a></h3>
+            <p>
+            <ul class="detalles">
+                <li>Proyectante, vasista, oscilobatiente y batiente.</li>
+                <li>Los sistemas pueden abrir en los dos sentidos.</li>
+                <li>Las aleaciones y la robustez de nuestros perfiles garantizan una hermeticidad total.</li>
+                <li>Las distintas configuraciones de cristal permitidas en nuestros sistemas ofrecen soluciones en
+                    condiciones climáticas extremas.</li>
+                <li>Los mecanismos de cierre y apertura son ajustados acorde a los parámetros requeridos.</li>
             </ul>
             </p>
         </div>
@@ -64,19 +79,7 @@
             </ul>
             </p>
         </div> -->
-        <div id="producto4" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
-            <h3><a href="/abatible" style="color: #000;">Batiente</a></h3>
-            <p>
-            <ul class="detalles">
-                <li>Proyectante, vasista, oscilobatiente y batiente.</li>
-                <li>Los sistemas pueden abrir en los dos sentidos.</li>
-                <li>Las aleaciones y la robustez de nuestros perfiles garantizan una hermeticidad total.</li>
-                <li>Las distintas configuraciones de cristal permitidas en nuestros sistemas ofrecen soluciones en
-                    condiciones climáticas extremas.</li>
-                <li>Los mecanismos de cierre y apertura son ajustados acorde a los parámetros requeridos.</li>
-            </ul>
-            </p>
-        </div>
+
     </div>
 </div>
 <div id="hardware"></div>
@@ -118,7 +121,8 @@
                         <ul class="detalles">
                             <li><strong>ForView</strong> utiliza equipos CNC para la fabricación de los herrajes de sus
                                 Sistemas.</li>
-                            <li>La tolerancia de sus equipos es de un décimo de milímetro así como en el sector automotriz.
+                            <li>La tolerancia de sus equipos es de un décimo de milímetro así como en el sector
+                                automotriz.
                             </li>
                         </ul>
                         </p>
@@ -215,14 +219,14 @@
                 <h3>
                     En acero inoxidable
                 </h3>
-                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
-                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
-                            <img class="img-fluid" src="/images/projects/56.jpg" alt="">
-                            <img class="img-fluid" src="/images/projects/57.jpg" alt="">
-                            <img class="img-fluid" src="/images/projects/58.jpg" alt="">
-                            <img class="img-fluid" src="/images/projects/61.jpg" alt="">
-                            <img class="img-fluid" src="/images/projects/62.jpg" alt="">
-                        </div>
+                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
+                    data-minheight="300" data-maxheight="100%">
+                    <img class="img-fluid" src="/images/projects/56.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/57.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/58.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/61.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/62.jpg" alt="">
+                </div>
             </div>
 
 

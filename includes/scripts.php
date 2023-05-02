@@ -34,19 +34,19 @@
         document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/43.jpg)";
     })
 
+    // producto3.addEventListener("mouseover", (e) => {
+    //     document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
+    // })
+
+    // producto3.addEventListener("mouseout", (e) => {
+    //     document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/13.jpg)";
+    // })
+
     producto3.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
-    })
-
-    producto3.addEventListener("mouseout", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/13.jpg)";
-    })
-
-    producto4.addEventListener("mouseover", (e) => {
         document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/12.jpg)";
     })
 
-    producto4.addEventListener("mouseout", (e) => {
+    producto3.addEventListener("mouseout", (e) => {
         document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
     })
 </script>
