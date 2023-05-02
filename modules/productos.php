@@ -88,10 +88,10 @@
     <div class="container" style="margin-top: 3rem;">
         <div class="row mb-5">
             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                <div class="sub-title border-bot-light">Nos atrevemos con la micromécanica</div>
+                <div class="sub-title border-bot-light" style="text-transform: none;">Nos atrevemos con la micromécanica</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <div class="section-title">HARDWARE</div>
+                <div class="section-title" style="text-transform: none;">Hardware</div>
 
             </div>
         </div>
@@ -146,13 +146,13 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
                 <h3>
-                    CIERRE LATERAL
+                    Cierre lateral
                 </h3>
-                <span>TIRADOR DE CANTO<br></span>
+                <span>Tirador de canto<br></span>
                 <div class="">
                     <div class="portfolio-item mt-3">
                         <div class="fotorama" data-width="100%" data-ratio="500/600" data-minwidth="400"
-                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%" data-loop="true" data-autoplay="true" data-autoplay="1000"> 
                             <img class="img-fluid" src="/images/projects/45.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/46.jpg" alt="">
                         </div>
@@ -161,12 +161,12 @@
             </div>
             <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
                 <h3>
-                    CIERRE AL CENTRO CON LLAVE
+                    Cierre al centro con llave <br><br>
                 </h3>
                 <div class="">
                     <div class="portfolio-item">
                         <div class="fotorama" data-width="100%" data-ratio="500/600" data-minwidth="400"
-                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%" data-loop="true" data-autoplay="true" data-autoplay="1000">
                             <img class="img-fluid" src="/images/projects/47.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/48.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/49.jpg" alt="">
@@ -177,12 +177,12 @@
 
             <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
                 <h3>
-                    CIERRE AL CENTRO SIN LLAVE
+                    Cierre al centro sin llave <br><br>
                 </h3>
                 <div>
                     <div class="portfolio-item">
                         <div class="fotorama" data-width="100%" data-ratio="500/600" data-minwidth="400"
-                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%" data-loop="true" data-autoplay="true" data-autoplay="1000">
                             <img class="img-fluid" src="/images/projects/50.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/51.jpg" alt="">
                         </div>
@@ -204,7 +204,7 @@
                 <div class="">
                     <div class="portfolio-item">
                         <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400"
-                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%">
+                            data-maxwidth="1000" data-minheight="300" data-maxheight="100%" data-loop="true" data-autoplay="true" data-autoplay="1000">
                             <img class="img-fluid" src="/images/projects/59.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/60.jpg" alt="">
                             <img class="img-fluid" src="/images/projects/52.jpg" alt="">
@@ -220,7 +220,7 @@
                     En acero inoxidable
                 </h3>
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
-                    data-minheight="300" data-maxheight="100%">
+                    data-minheight="300" data-maxheight="100%" data-loop="true" data-autoplay="true" data-autoplay="1000">
                     <img class="img-fluid" src="/images/projects/56.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/57.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/58.jpg" alt="">
