@@ -18,20 +18,31 @@
                 <h2>Piso Plano</h2>
                 <h2></h2>
                 <p>
-                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
-                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin generar un cambio
-                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido al tacto, y a su
-                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el espacio.
+                    El sistema piso plano FV-54 diseñado para
+                    elementos monumentales cuyas
+                    dimensiones sobrepasan por mucho los
+                    estándares comerciales.
+                    Con perfilería robusta permitiendo una
+                    vista limpia con un mínimo porcentaje de
+                    obstrucción y gran sensación en su
+                    operación, incorporando el sistema de riel
+                    escondido.
+                    Con la posibilidad de colocar distintas
+                    configuraciones de cristal llegando a
+                    ocupar un espesor máximo de 54mm, esto
+                    en conjunto con la ruptura de puente
+                    térmico lleva las prestaciones térmicas y
+                    acústicas al más alto nivel.
+                    <br><br>
+                    El diseño arquitectónico de los canceles
+                    permiten ocultar de la vista la tornillería, al
+                    igual que sellar completamente los
+                    cristales, con espesores anodizados para
+                    los perfiles desde 20 micras. Todas estas
+                    características aportan elegancia, robustez
+                    y practicidad a estas soluciones de puertas
+                    corredizas.
                 </p><br>
-                <p>
-                    De igual forma cuenta con soluciones anti huracán, contemplando la configuración de los refuerzos
-                    y dimensiones del elemento, su facilidad de movimiento es posible debido a que los rodamientos son
-                    de acero inoxidable fabricados en ForView. <br> <br>
-                    El diseño arquitectónico minimalista de los canceles permiten ocultar de la vista la tornillería, al
-                    igual que sellar completamente los cristales, con espesores anodizados para los perfiles desde 20
-                    micras. Todas estas características aportan elegancia, robustez y practicidad a estas soluciones de
-                    puertas corredizas.
-                </p>
             </div>
             <div class="col-md-6">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
@@ -54,7 +65,7 @@
             </div>
         </div>
     </div>
-    <div class="container p-5">
+    <div hidden class="container p-5">
         <!-- project slider -->
         <div class="row mt-5">
             <h2><b>Proyectos</b></h2>
@@ -123,7 +134,7 @@
 </section>
 
 <section class="section-padding" style="padding-top: 0px;">
-    <div class="container" >
+    <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Siguiente serie 54 -->
         <div id="54"></div>
@@ -131,20 +142,21 @@
             <ul class="accordion-box clearfix" style="margin-top:10rem;">
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn  <? echo $var54_2;?>">
-                        <h2>ForView 54</h2>
+                        <h2>Piso Plano ForView 54</h2>
                     </div>
                     <div class="acc-content" style="<? echo $var54_3;?>;">
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">
-                                El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
-                                    configuraciones de
-                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
-                                    generar un cambio
-                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
-                                    al tacto, y a su
-                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
-                                    espacio.
+                                    El sistema piso plano FV-54 diseñado para
+                                    elementos monumentales cuyas
+                                    dimensiones sobrepasan por mucho los
+                                    estándares comerciales.
+                                    Con perfilería robusta permitiendo una
+                                    vista limpia con un mínimo porcentaje de
+                                    obstrucción y gran sensación en su
+                                    operación, incorporando el sistema de riel
+                                    escondido.
                                 </p>
                                 <p>
                                 <h4>Configuración</h4>
@@ -167,14 +179,14 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <span>ForView 54 Piso Plano</span> <br>
-                                            <img style="width: 20rem;" src="/images/forview38.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/pisoFV-54.png" alt="">
 
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
-                                download="01-Corredizas.pdf">
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Piso-plano-FV54.pdf"
+                                download="Piso-plano-FV54.pdf">
                                 Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                             </a>
                         </div>
@@ -182,7 +194,7 @@
                 </li>
             </ul>
         </div>
-      
+
     </div>
     </div>
 </section>
@@ -198,7 +210,7 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf" download="01-Corredizas.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Piso-plano-FV54.pdf" download="Piso-plano-FV54.pdf">
                     Descargar
                 </a>
             </div>
