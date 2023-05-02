@@ -13,7 +13,7 @@
 <section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
         <div class="row align-items-center">
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <span>Producto</span>
                 <h2>Piso Plano</h2>
                 <h2></h2>
@@ -44,24 +44,10 @@
                     corredizas.
                 </p><br>
             </div>
-            <div class="col-md-6">
-                <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
-                    data-minheight="300" data-maxheight="100%">
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/43.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/44.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenos.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno2.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno3.jpg" alt="">
-                    </div>
-                    <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chileno4.jpg" alt="">
-                    </div>
-
+            <div class="col-md-4">
+                <div class="fotorama">
+                    <img class="img-fluid" src="/images/projects/25.jpg" alt="">
                 </div>
-
             </div>
         </div>
     </div>
@@ -210,7 +196,8 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/Piso-plano-FV54.pdf" download="Piso-plano-FV54.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Piso-plano-FV54.pdf"
+                    download="Piso-plano-FV54.pdf">
                     Descargar
                 </a>
             </div>
