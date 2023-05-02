@@ -126,7 +126,7 @@
                             </li>
                         </ul>
                         </p>
-                        <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
+                        <div class="more"><a href="/contacto" class="link-btn" tabindex="0">Contactar</a>
                         </div>
                     </div>
                 </div>
