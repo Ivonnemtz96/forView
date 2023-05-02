@@ -8,7 +8,7 @@
                     Solicitud de documentación
                 </div>
                 <br>
-                <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px;" class="title">
+                <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px; text-transform:none;" class="title">
                     <strong>Escríbenos</strong>
                 </div>
             </div>
@@ -47,7 +47,7 @@
             </div>
             <!-- form -->
             <div class="col-md-6">
-                <h4 class="mb-4">Solicitud de documentación</h4>
+                <h4 class="mb-4" style="text-transform: none;">Solicitud de documentación</h4>
                 <p>
                     Si desea recibir los archivos DWG / DXF / BIM o Revit, rellene este formulario. <br>
                     No dude en trasladarnos su proyecto o enviarnos su solicitud de la forma más detallada posible; esto
@@ -94,7 +94,7 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                <div class="sub-title border-bot-light">Público</div>
+                <div class="sub-title border-bot-light" style="text-transform: none;">Público</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <!-- <div class="section-title"><span>Titulo</span></div> -->
