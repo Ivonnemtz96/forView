@@ -199,16 +199,16 @@
                                     <div class="row">
                                         <div class="col-md-4">
                                             <span>ForView 17 / 250</span> <br>
-                                            <img style="width: 20rem;" src="/images/250.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/fv17-250.png" alt="">
 
                                         </div>
                                         <div class="col-md-4">
                                             <span>ForView 17 / 500</span> <br>
-                                            <img style="width: 20rem;" src="/images/forview500.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/fv17-500.png?=1" alt="">
                                         </div>
                                         <div class="col-md-4">
                                             <span>ForView 17 / 635</span> <br>
-                                            <img style="width: 20rem;" src="/images/forview635.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/fv17-635.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -221,8 +221,8 @@
                                     <img src="/images/projects/65.jpg" alt="">
                                 </div>
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
-                                download="01-Corredizas.pdf">
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-FV 17.pdf"
+                                download="Clásica-FV 17.pdf">
                                 Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                             </a>
                         </div>
@@ -275,14 +275,14 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <span>ForView 38 / 38</span> <br>
-                                            <img style="width: 20rem;" src="/images/forview38.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/fv17-38.png" alt="">
 
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
-                                download="01-Corredizas.pdf">
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-FV38.pdf"
+                                download="Clásica-FV38.pdf">
                                 Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                             </a>
                         </div>
@@ -333,14 +333,14 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <span>ForView 54 / 250</span> <br>
-                                            <img style="width: 20rem;" src="/images/forview54.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/fv54.png" alt="">
 
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
-                                download="01-Corredizas.pdf">
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-FV54.pdf"
+                                download="Clásica-FV54.pdf">
                                 Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                             </a>
                         </div>
@@ -357,7 +357,7 @@
 
                 <li class="accordion block <? echo $varEs_1;?>">
                     <div class="acc-btn <? echo $varEs_2;?>">
-                        <h2>ForView Esencia</h2>
+                        <h2>ForView Esencia 200</h2>
                     </div>
                     <div class="acc-content" style="<? echo $varEs_3;?>;">
                         <div class="content">
@@ -383,23 +383,24 @@
                                     <li>Riel</li>
                                     <li>Tapa marco</li>
                                     <li>Rodamiento</li>
-                                    <li>Tirador fagal</li>
+                                    <li>Maneta</li>
                                     <li>Chapa</li>
                                     <li>Tapcon hexagonal</li>
+                                    <li>Tapa Cubre pijas</li>
                                 </ol>
                                 </p>
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-12">
                                             <span>ForView Esencia</span> <br>
-                                            <img style="width: 20rem;" src="/images/forview54.png" alt="">
+                                            <img style="width: 20rem;" src="/images/mapas/FvEsencia-200.png" alt="">
 
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
-                                download="01-Corredizas.pdf">
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-Esencia.pdf"
+                                download="Clásica-Esencia.pdf">
                                 Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                             </a>
                         </div>
