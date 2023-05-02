@@ -22,11 +22,11 @@
 
         <div class="row mb-5">
             <div class="col-md-6" style="text-align: end;">
-                <div class="section-title"><span>ForView</span></div>
+                <div class="section-title" style="text-transform: none;"><span>ForView</span></div>
             </div>
             <div class="col-md-6"></div>
             <div class="col-md-4 animate-box" data-animatitulote-effect="fadeInUp">
-                <div class="sub-title border-bot-light">Somos una empresa mexicana</div>
+                <div class="sub-title border-bot-light" style="text-transform: none;">Somos una empresa mexicana</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
 
@@ -49,7 +49,7 @@
                 <div class="content">
                     <div class="cont">
                         <!-- <h6>Project P.01</h6> -->
-                        <h3>Pasión por las ventanas</h3>
+                        <h3 style="text-transform: none;">Pasión por las ventanas</h3>
                         <p>
                             El diseño y la calidad son parte de nuestro compromiso. <br>
                             Una parte fundamental para dar continuidad al paisaje, integrando visión al concepto
@@ -61,53 +61,6 @@
                 </div>
             </div>
         </div>
-        <div hidden class="row mt-120">
-            <div class="col-md-4 order2 valign animate-box" data-animate-effect="fadeInUp">
-                <div class="content">
-                    <div class="cont">
-                        <!-- <h6>Project P.02</h6> -->
-                        <h3>Titulo 4</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam voluptates aspernatur
-                            similique iusto animi autem dolor eos maiores hic consectetur magni ipsum sapiente veniam
-                            mollitia ducimus at soluta officiis temporibus, culpa rerum, est itaque voluptatibus
-                            asperiores! Distinctio obcaecati iste officiis.
-                        </p>
-                        <!-- <div class="more"><a href="project-page.html" class="link-btn" tabindex="0">View Project</a>
-                        </div> -->
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-8 order1 animate-box" data-animate-effect="fadeInUp">
-                <div class="img">
-                    <a href="#"><img src="/images/slider/2.jpg" alt=""></a>
-                </div>
-            </div>
-        </div>
-        <div hidden class="row mt-120">
-            <div class="col-md-8 animate-box" data-animate-effect="fadeInLeft">
-                <div class="img">
-                    <a href="#"><img src="/images/slider/3.jpg" alt=""></a>
-                </div>
-            </div>
-            <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
-                <div class="content">
-                    <div class="cont">
-                        <!-- <h6>Project P.03</h6> -->
-                        <h3>Titulo 5</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, dolores? Iure nobis est
-                            obcaecati hic suscipit, porro velit animi fugit, iusto eligendi perferendis a quibusdam quam
-                            aut esse. Quae aliquid doloremque optio? Molestias laboriosam ea facilis odit cumque quos
-                            quo!
-                        </p>
-                        <!-- <div class="more"><a href="project-page.html" class="link-btn" tabindex="0">View Project</a>
-                        </div> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-
     </div>
 </section>
 
@@ -116,10 +69,10 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                <div class="sub-title border-bot-light">Filosofía</div>
+                <div class="sub-title border-bot-light" style="text-transform: none;">Filosofía</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                <h2 class="section-title"><span>ForView</span></h2>
+                <h2 class="section-title" style="text-transform: none;"><span>ForView</span></h2>
                 <p>
                     La realización de las puertas y ventanas conllevan acciones antiguas del Hombre:
                     Escuchar, Imaginar, Solucionar problemas, Conceptualizar, Medir, Cargar, Instalar
