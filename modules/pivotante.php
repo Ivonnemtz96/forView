@@ -13,7 +13,7 @@
 <section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
         <div class="row align-items-center">
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <span>Producto</span>
                 <h2>Puerta Pivotante</h2>
                 <h2></h2>
@@ -28,7 +28,7 @@
                 </p>
 
             </div>
-            <div class="col-md-6 justify-content-center align-items-center">
+            <div class="col-md-4 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
                     <img class="img-fluid" src="/images/projects/42.jpg" alt="">
@@ -160,15 +160,15 @@
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <span>ForView 28 / Puerta Pivotante</span> <br>
-                                                <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
+                                                <span>Pivotante / ForView 28</span> <br>
+                                                <img style="width: 20rem;" src="/images/mapas/pivotante-28.png" alt="">
 
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf"
-                                    download="02-Puerta Pivotante.pdf">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/Pivotante-FV28.pdf"
+                                    download="Pivotante-FV28.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
