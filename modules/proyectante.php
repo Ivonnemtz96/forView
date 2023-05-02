@@ -68,16 +68,16 @@
     </div>
 </section>
 
-<div id="28"></div>
 
 <section class="section-padding">
-    <div class="container" style="margin-top: 3rem;">
+    <div class="container" >
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-12">
+        <div id="28"></div>
+            <div class="col-md-12" style="margin-top: 7rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?> ">
                         <div class="acc-btn <? echo $var_2;?> ">
-                            <h2>ForView 28 Ventana Proyectante</h2>
+                            <h2>Ventana Proyectante ForView 28 </h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">
@@ -110,13 +110,13 @@
                                         <div class="row">
                                             <div class="col-md-8">
                                                 <span>ForView 28 / Ventana Proyectante</span> <br>
-                                                <img style="width: 20rem;" src="/images/slider/ventana-proyectante.png" alt="">
+                                                <img style="width: 20rem;" src="/images/mapas/ventana-proyectante.png" alt="">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <a type="button" class="btn btn-dark mt-3" href="/pdf/05-Ventana Proyectante.pdf"
-                                    download="05-Ventana Proyectante.pdf">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/Ventana-proyectante.pdf"
+                                    download="Ventana-proyectante.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
@@ -140,8 +140,8 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/05-Ventana Proyectante.pdf"
-                    download="05-Ventana Proyectante.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Ventana-proyectante.pdf"
+                    download="Ventana-proyectante.pdf">
                     Descargar
                 </a>
             </div>
