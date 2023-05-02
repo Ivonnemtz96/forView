@@ -96,10 +96,10 @@
      <div class="container">
          <div class="row">
              <div class="col-md-4 mb-30 animate-box" data-animate-effect="fadeInUp">
-                 <div class="sub-title border-bot-light">CUANDO INTERIOR Y EXTERIOR SE FUNDEN EN UNO</div>
+                 <div class="sub-title border-bot-light" style="text-transform: none;">Cuando interior y exterior se funden en uno</div>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title"><span></span> ForView</div>
+                 <div class="section-title" style="text-transform: none;"><span></span> ForView</div>
                  <p>
                      Una parte fundamental para dar continuidad al paisaje, integrando visión al concepto
                      arquitectónico, exaltando la transición del entorno, garantizando seguridad.
@@ -138,7 +138,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-4 mb-30" style="background-color: #fff; margin-top:-8rem; padding: 20px;">
-                     <h2 style="font-size: 3rem; margin-top: 8rem;color: #000;" class="sub-title border-bot-dark">
+                     <h2 style="font-size: 3rem; margin-top: 8rem;color: #000; text-transform:none;" class="sub-title border-bot-dark">
                          ForView</h2>
                      <p style="color: #000;">
                          ForView es una empresa orgullosamente mexicana, generada por un proceso de Spin-off que ha
@@ -168,27 +168,17 @@
      <div class="container">
          <div class="row mb-4">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <div class="sub-title border-bot-light">Empresa orgullosamente mexicana</div>
+                 <div class="sub-title border-bot-light" style="text-transform: none;">Empresa orgullosamente mexicana</div>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title"><span>Nuestros productos</span></div>
+                 <div style="text-transform: none;" class="section-title"><span>Nuestros productos</span></div>
                  <br>
                  <br>
                  <br>
-                 <!-- <p>
-                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt totam ab repudiandae debitis,
-                     dicta ad quos consequuntur dolorem asperiores quo. Nihil sint possimus sequi molestiae aspernatur.
-                     Quisquam quas ipsam totam esse dolorum ullam at! Perferendis sit non dolores nihil assumenda.
-                 </p> -->
+                
              </div>
          </div>
-         <!-- <div class="row text-center animate-box" data-animate-effect="fadeInUp">
-             <ul class="projects2-filter">
-                 <li class="active" data-filter="*">All</li>
-                 <li data-filter=".ongoing">Ongoing Projects</li>
-                 <li data-filter=".completed">Completed Projects</li>
-             </ul>
-         </div> -->
+        
          <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
              <div class="col-md-6 single-item ongoing">
                  <div class="projects2-wrap">
@@ -214,8 +204,8 @@
                      </div>
                      <div class="projects2-con">
                          <p>02</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante-ventana">Pivotante</a></h3>
-                         <a href="/pivotante-ventana" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante">Pivotante</a></h3>
+                         <a href="/pivotante" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -233,8 +223,8 @@
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>04</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/abatible">Ventanas</a></h3>
-                         <a href="/abatible" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/ventanas">Ventanas</a></h3>
+                         <a href="/ventanas" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -249,8 +239,8 @@
                      </div>
                      <div class="projects2-con">
                          <p>03</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante">Puerta</a></h3>
-                         <a href="/pivotante" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/batiente">Puerta</a></h3>
+                         <a href="/batiente" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -281,9 +271,9 @@
                      </div>
                      <div class="projects2-con">
                          <p>05</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/proteccion">Hardware</a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/productos#hardware">Hardware</a>
                          </h3>
-                         <a href="/proteccion" class="project2-link"></a>
+                         <a href="/productos#hardware" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -315,54 +305,14 @@
  </div>
 
  <!-- Projects 3 -->
- <section hidden class="projects3 section-padding">
-     <div class="container">
-         <div class="row mb-5">
-             <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <h2 class="sub-title border-bot-light">CONSTISTENCIA, ELEGANCIA, PRECISION </h2>
-             </div>
-             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>
-
-             </div>
-         </div>
-         <div class="row">
-             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="vid-area mb-30">
-                     <div class="vid-icon"> <img src="/images/slider/6.jpg" alt="YouTube">
-                         <a class="video-gallery-button vid" href="https://youtu.be/StrMabUksTY"> <span
-                                 class="video-gallery-polygon">
-                                 <i class="ti-control-play"></i>
-                             </span> </a>
-                     </div>
-                 </div>
-             </div>
-             <div class="col-md-4 valign animate-box" data-animate-effect="fadeInUp">
-                 <div class="content">
-                     <div class="cont">
-                         <h2><strong>ForView</strong></h2>
-                         <p>
-
-                         </p>
-                         <!-- <h3>Ultra-Modern House Design</h3> -->
-                         <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </section>
-
- <!-- Projects 3 -->
  <section class="projects3 section-padding">
      <div class="container">
          <div class="row mb-5">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <h2 class="sub-title border-bot-light">CONSTISTENCIA, ELEGANCIA, PRECISION </h2>
+                 <h2 class="sub-title border-bot-light" style="text-transform: none;">Consistencia, elegancia, precisión </h2>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
-                 <div class="section-title"><span>La equilibrada combinación de estos elementos.</span></div>
+                 <div class="section-title" style="text-transform: none;"><span>La equilibrada combinación de estos elementos.</span></div>
 
              </div>
          </div>
@@ -392,7 +342,7 @@
                              <br><br>
                          </p>
                          <!-- <h3>Ultra-Modern House Design</h3> -->
-                         <div class="more"><a href="/descarga" class="link-btn" tabindex="0">Contactar</a>
+                         <div class="more"><a href="/contacto" class="link-btn" tabindex="0">Contactar</a>
                          </div>
                      </div>
                  </div>

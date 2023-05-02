@@ -8,7 +8,7 @@ include('includes/head.php');
     <div class="content-wrapper">
         <?php
          include('includes/header.php');
-         include('modules/descarga.php');
+         include('modules/contacto.php');
          include('includes/footer.php');
         ?>
     </div>
