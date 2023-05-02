@@ -116,7 +116,7 @@
                     </li>
                     <li><a href="/galeria">Galería</a></li>
                     <li><a href="/empresa">Empresa</a></li>
-                    <li><a style="padding: 0 8px 0 8px;" href="/descarga">Contacto</a></li>
+                    <li><a style="padding: 0 8px 0 8px;" href="/contacto">Contacto</a></li>
                 </ul>
             </nav>
         </div>
