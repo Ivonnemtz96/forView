@@ -29,7 +29,7 @@
                             <li><a style="color: white;" href="/galeria">Galería</a></li>
                             <li><a style="color: white;" href="/empresa">Empresa</a></li>
                             <!-- <li><a style="color: white;" href="/distribuidor">Distribuidor</a></li> -->
-                            <li><a style="color: white;" href="/descarga">Descarga</a></li>
+                            <li><a style="color: white;" href="/contacto">Contacto</a></li>
                         </ul>
                     </div>
                 </div>

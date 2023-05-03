@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="/image/png" href="/images/favicon.png">
+    <link rel="icon" type="/image/png" href="/images/favicon.png?=1">
     <title>ForView</title>
     <link rel="stylesheet" href="/css2?family=Barlow:ital,wght@0,300;0,400;1,300;1,400&family=Oswald:wght@300;400&display=swap">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
