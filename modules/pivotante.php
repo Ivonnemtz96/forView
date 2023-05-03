@@ -245,8 +245,8 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf"
-                    download="02-Puerta Pivotante.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Pivotante.pdf"
+                    download="Pivotante.pdf">
                     Descargar
                 </a>
             </div>
