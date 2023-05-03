@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$activo ="current-menu";
 include('includes/head.php');
 ?>
 
@@ -10,6 +11,7 @@ include('includes/head.php');
          include('includes/header.php');
          include('modules/contacto.php');
          include('includes/footer.php');
+         include('includes/redes.php');
         ?>
     </div>
     <?php

@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<div id="banner-productos" class="banner-header valign bg-img bg-fixed" data-background="/images/slider/3.jpg">
+<div id="banner-productos" class="banner-header valign bg-img bg-fixed" data-background="/images/slider/3.jpg" style="padding-top: 20rem;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">

@@ -1635,7 +1635,7 @@ input[type="checkbox"] {
 
 /* ======= Page Banner Header style ======= */
 .banner-header {
-  padding-top: 39rem;
+  padding-top: 10rem;
   padding-bottom: 160px;
 }
 .banner-header .title {

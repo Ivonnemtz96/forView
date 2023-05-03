@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$activo ="current-menu";
 include('includes/head.php');
 
 if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
@@ -26,6 +27,7 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
          include('includes/header.php');
          include('modules/batiente.php');
          include('includes/footer.php');
+         include('includes/redes.php');
         ?>
     </div>
     <?php

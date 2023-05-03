@@ -115,11 +115,15 @@
                         </ul>
                     </li>
                     <li><a href="/galeria">Galería</a></li>
-                    <li><a href="/empresa">Empresa</a></li>
-                    <li><a style="padding: 0 8px 0 8px;" href="/contacto">Contacto</a></li>
+                    <li><a href="/empresa">Empresa</a></li> 
+                    <li class=""><a  href="/contacto">Contacto</a></li>
+                    <li><a>&#8203;</a></li>
                 </ul>
             </nav>
         </div>
     </div>
 </div>
+
+
 <!-- Slider -->
+

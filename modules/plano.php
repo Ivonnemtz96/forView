@@ -14,11 +14,11 @@
     <div class="container">
 
         <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-6 single-item ongoing">
+            <div class="col-md-6 mt-3 mb-5 single-item " style="margin-top: 2rem; margin-bottom: 2rem;">
                 <div class="projects2-wrap">
-                        <div class="fotorama">
-                            <img style="width: 40%;" src="/images/projects/24.jpg" alt="">
-                        </div>
+                       
+                            <img  src="/images/projects/24.jpg" alt="">
+                       
                     <div class="projects2-con" style="z-index: 1;">
                         <p>01</p>
                         <h3 style="background: #fff;padding: 5px;"><a href="/piso">Piso Plano</a></h3>
@@ -26,11 +26,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 single-item completed">
+            <div class="col-md-6 mt-3 mb-5 single-item " style="margin-top: 2rem; margin-bottom: 2rem;">
                 <div class="projects2-wrap">
-                    <div class="fotorama">
+                   
                         <img src="/images/projects/26.jpg" alt="">
-                    </div>
+                   
                     <div class="projects2-con">
                         <p>02</p>
                         <h3 style="background: #fff;padding: 5px;"><a href="/plano">Full Plano</a></h3>

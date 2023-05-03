@@ -14,12 +14,11 @@
     <div class="container">
 
         <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-6 single-item ongoing">
+            <div class="col-md-6 mt-3 mb-5 single-item ongoing" style="margin-top: 2rem; margin-bottom: 2rem;">
                 <div class="projects2-wrap">
-                        <div class="fotorama" data-loop="true" data-width="100%" >
-                            <img style="width: 40%;" src="/images/projects/28.jpg" alt="">
-                            <img style="width: 40%;" src="/images/projects/29.jpg" alt="">
-                        </div>
+                <a href="/proyectante" >
+                            <img  src="/images/projects/28.jpg" alt="">
+                            </a>
                     <div class="projects2-con" style="z-index: 1;">
                         <p>01</p>
                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante-ventana">Batientes</a></h3>
@@ -27,14 +26,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 single-item completed">
+            <div class="col-md-6 mt-3 mb-5 single-item completed" style="margin-top: 2rem; margin-bottom: 2rem;">
                 <div class="projects2-wrap">
-                    <div class="fotorama" data-loop="true" data-width="100%" >
+                    <a href="/proyectante" >
                         <img src="/images/slider/piv-v2.jpg" alt="">
-                        <img src="/images/projects/35.jpg" alt="">
-                        <img src="/images/projects/36.jpg" alt="">
-                        <img src="/images/projects/37.jpg" alt="">
-                    </div>
+                        
+                    </a>
                     <div class="projects2-con">
                         <p>02</p>
                         <h3 style="background: #fff;padding: 5px;"><a href="/proyectante">Proyectante</a></h3>

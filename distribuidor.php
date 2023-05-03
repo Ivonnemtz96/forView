@@ -10,6 +10,7 @@ include('includes/head.php');
          include('includes/header.php');
          include('modules/distribuidor.php');
          include('includes/footer.php');
+         include('includes/redes.php');
         ?>
     </div>
     <?php

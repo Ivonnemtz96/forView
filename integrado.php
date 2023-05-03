@@ -38,6 +38,7 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
          include('includes/header.php');
          include('modules/integrado.php');
          include('includes/footer.php');
+         include('includes/redes.php');
         ?>
     </div>
     <?php

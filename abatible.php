@@ -2,6 +2,7 @@
 <html lang="en">
 <?php
 include('includes/head.php');
+$activo ="current-menu";
 ?>
 
 <body>
@@ -10,6 +11,7 @@ include('includes/head.php');
          include('includes/header.php');
          include('modules/abatible.php');
          include('includes/footer.php');
+         include('includes/redes.php');
         ?>
     </div>
     <?php
