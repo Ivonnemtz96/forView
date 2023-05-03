@@ -98,27 +98,28 @@
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <!-- <div class="section-title"><span>Titulo</span></div> -->
-                <h4>Manuales PDF</h4>
+                <h4>Catálogos PDF</h4>
                 <hr>
-                <button class="btn-descarga"><i class="fa fa-download"></i> IT</button>
-                <button class="btn-descarga"><i class="fa fa-download"></i> EN </button>
-                <button class="btn-descarga"><i class="fa fa-download"></i> ES</button>
+                <a style="text-decoration: none;" download="Corredizas.pdf" href="/pdf/Corredizas.pdf" class="btn-descarga"><i class="fa fa-download"></i> Corredizas</a>
+                <a style="text-decoration: none;" download="Integrado.pdf" href="/pdf/Integrado.pdf" class="btn-descarga"><i class="fa fa-download"></i> Integrado</a>
+                <a style="text-decoration: none;" download="Plano.pdf" href="/pdf/Plano.pdf" class="btn-descarga"><i class="fa fa-download"></i> Plano</a>
+                <a style="text-decoration: none;" download="Pivotante.pdf" href="/pdf/Pivotante.pdf" class="btn-descarga"><i class="fa fa-download"></i> Pivotante</a>
+                <a style="text-decoration: none;" download="Puerta-batiente.pdf" href="/pdf/Puerta-batiente.pdf" class="btn-descarga"><i class="fa fa-download"></i> Puerta</a>
+                <a style="text-decoration: none;" download="Ventanas.pdf" href="/pdf/Ventanas.pdf" class="btn-descarga"><i class="fa fa-download"></i> Ventanas</a>
             </div>
-            <div class="col-md-4"></div>
+            <!-- <div class="col-md-4"></div>
             <div class="col-md-8 animate-box mt-5" data-animate-effect="fadeInUp">
-                <!-- <div class="section-title"><span>Titulo</span></div> -->
                 <h4>Brochure PDF</h4>
                 <hr>
                 <button class="btn-descarga"><i class="fa fa-download"></i> IT</button>
                 <button class="btn-descarga"><i class="fa fa-download"></i> EN </button>
                 <button class="btn-descarga"><i class="fa fa-download"></i> ES</button>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
 <!-- Maps -->
 <div class="google-maps">
-
     <iframe
         src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1038.1306442662742!2d-109.70352166805918!3d23.04317024779318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1682621268084!5m2!1ses-419!2smx"
         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
