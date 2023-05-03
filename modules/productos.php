@@ -9,7 +9,6 @@
         </div>
     </div>
 </div>
-
 <div class="container-fluid overflow-hidden">
     <div class="row justify-content-center h-100 m-2">
         <div id="producto1" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
@@ -79,7 +78,6 @@
             </ul>
             </p>
         </div> -->
-
     </div>
 </div>
 <div id="hardware"></div>
@@ -92,7 +90,6 @@
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                 <div class="section-title" style="text-transform: none;">Hardware</div>
-
             </div>
         </div>
         <div class="row">
@@ -141,7 +138,7 @@
         <!-- project slider -->
         <div class="row mt-5">
             <div class="col-md-12">
-                <div class="section-title">Tiradores</div>
+                <div class="section-title" style="text-transform: none;">Tiradores</div>
                 <br>
             </div>
             <div class="col-12 col-md-6 col-lg-4 mt-4 mb-5">
@@ -194,7 +191,7 @@
 
         <div class="row mt-5">
             <div class="col-md-12">
-                <div class="section-title">Rodamientos</div>
+                <div class="section-title" style="text-transform: none;">Rodamientos</div>
                 <br>
             </div>
             <div class="col-6 col-md-6 mt-4 mb-5">
