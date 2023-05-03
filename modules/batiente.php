@@ -50,11 +50,12 @@
                     <strong>RE 28 Puerta Batiente</strong>
                 </h3>
                 <div class="fotorama" data-loop="true" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000">
-                    <img class="img-fluid" src="/images/projects/71.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/75.jpg" alt="">
                     
-                    <img class="img-fluid" src="/images/projects/72.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/76.jpg" alt="">
                     
-                    <img class="img-fluid" src="/images/projects/74.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/77.jpg" alt="">
+                    <img class="img-fluid" src="/images/projects/78.jpg" alt="">
                     
                 </div>
             </div>
