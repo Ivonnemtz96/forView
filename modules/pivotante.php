@@ -183,7 +183,7 @@
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var38_1;?>">
                         <div class="acc-btn <? echo $var38_2;?>">
-                            <h2>ForView 38 Puerta Pivotante</h2>
+                            <h2>Pivotante ForView 38</h2>
                         </div>
                         <div class="acc-content" style="<? echo $var38_3;?>">
                             <div class="content">
@@ -205,25 +205,24 @@
                                     <ol style="color: #000;">
                                         <li>Marco principal</li>
                                         <li>Zoclo</li>
+                                        <li>Cabezal</li>
                                         <li>Maneta</li>
                                         <li>Sistema cerradura</li>
-                                        <li>Cubre pijas</li>
                                         <li>Felpa</li>
-                                        <li>Vinil guarda polvo</li>
                                     </ol>
                                     </p>
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <span>ForView 38 / Puerta Pivotante</span> <br>
-                                                <img style="width: 20rem;" src="/images/pivotante28.png" alt="">
+                                                <span>Pivotante / ForView 38</span> <br>
+                                                <img style="width: 20rem;" src="/images/mapas/pivotante-38.png" alt="">
 
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <a type="button" class="btn btn-dark mt-3" href="/pdf/02-Puerta Pivotante.pdf"
-                                    download="02-Puerta Pivotante.pdf">
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/Pivotante-FV38.pdf"
+                                    download="Pivotante-FV38.pdf">
                                     Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                                 </a>
                             </div>
