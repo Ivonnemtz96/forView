@@ -116,7 +116,7 @@
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn <? echo $var38_2;?>">
-                        <h2>ForView 38</h2>
+                        <h2>Pivotante Corredera ForView 38</h2>
                     </div>
                     <div class="acc-content" style="<? echo $var38_3;?>;">
                         <div class="content">
@@ -151,15 +151,14 @@
                                     <li>Tirador fagal</li>
                                     <li>Chapa</li>
                                     <li>Tapcon hexagonal</li>
-                                    <li>Tapa Cubre pijas</li>
+                                    <li>Maneta</li>
                                 </ol>
                                 </p>
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <span>ForView 38 Integrado</span> <br>
-                                            <img style="width: 20rem;" src="/images/250.png" alt="">
-
+                                            <span>Pivotante Corredera ForView 38</span> <br>
+                                            <img style="width: 20rem;" src="/images/mapas/integrado-38.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -172,8 +171,8 @@
                                     <img src="/images/projects/65.jpg" alt="">
                                 </div> -->
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf"
-                                download="01-Corredizas.pdf">
+                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Integrado-FV38.pdf"
+                                download="Integrado-FV38.pdf">
                                 Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
                             </a>
                         </div>
