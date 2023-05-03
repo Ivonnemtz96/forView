@@ -258,7 +258,7 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/01-Corredizas.pdf" download="01-Corredizas.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Integrado.pdf" download="Integrado.pdf">
                     Descargar
                 </a>
             </div>
