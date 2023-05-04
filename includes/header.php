@@ -60,13 +60,13 @@
 
                             <!-- <li><a href="/pivotante">Pivotante</a></li> -->
                              <li>
-                                <a href="/pivotante">Pivotante</a>
+                                <a href="/pivotanteP">Pivotante</a>
                                 <ul>
                                     <li>
-                                        <a href="/pivotante?activo=28#28">ForView 28</a>
+                                        <a href="/pivotanteP?activo=28#28">ForView 28</a>
                                     </li>
                                     <li>
-                                        <a href="/pivotante?activo=38#38">ForView 38</a>
+                                        <a href="/pivotanteP?activo=38#38">ForView 38</a>
                                     </li>
                                 </ul>
                             </li>
