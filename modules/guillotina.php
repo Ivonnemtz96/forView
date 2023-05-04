@@ -1,14 +1,4 @@
-<!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/2.jpg">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 caption mt-60">
-                <div class="subtitle"><a href="/productos">Detalles</a></div>
-                <div style="background-color: #000; padding: 10px;" class="title">Guillotina</div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Project Page  -->
 <section class="project-page section-padding">
     <div class="container-fluid p-5">
