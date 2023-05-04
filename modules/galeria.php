@@ -4,9 +4,8 @@
      <div class="container">
          <div class="row">
              <div class="col-md-12 caption mt-60">
-                 <div style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;"
-                     class="subtitle">Galería</div>
-                 <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px;" class="title">Te
+                
+                 <div style="background-color: #ffffff85;color:#000; width: fit-content; padding: 7px;" class="title">Te
                      presentamos un poco de nosotros</div>
              </div>
          </div>

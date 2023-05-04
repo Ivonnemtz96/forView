@@ -70,7 +70,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="/batiente">Puerta</a></li>
+                            <li><a href="/batiente#batiente">Puerta</a></li>
                             <!-- <li>
                                 <a href="#">Puertas</a>
                                 <ul>

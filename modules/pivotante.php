@@ -1,14 +1,4 @@
-<!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-background="/images/slider/2.jpg">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 caption mt-60">
-                <div class="subtitle"><a href="/productos">Detalles</a></div>
-                <div style="background-color: #000; padding: 10px;" class="title">Puerta Pivotante</div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- Project Page  -->
 <section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
@@ -121,10 +111,10 @@
 
 <section class="section-padding" >
     <div class="container">
-        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
             <!-- Serie 28 -->
         <div id="28" class="mb-3"></div>
-            <div class="col-md-12" style="margin-top:7rem;">
+            <div class="col-md-12" style="margin-top:8rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?>">
                         <div class="acc-btn <? echo $var_2;?>">
@@ -179,7 +169,7 @@
 
             <!-- Serie 38 -->
             <div id="38" class="mb-3"></div>
-            <div class="col-md-12" style="margin-top:7rem;">
+            <div class="col-md-12" style="margin-top:8rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var38_1;?>">
                         <div class="acc-btn <? echo $var38_2;?>">
