@@ -1,5 +1,3 @@
-
-<!-- Project Page  -->
 <section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
         <div class="row align-items-center">
@@ -136,11 +134,11 @@
     </div>
 </section>
 
-<section class="section-padding">
+<section class="section-padding" style="padding-top: 0px;">
     <div class="container">
-        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
-        <div id="17"></div>
-        <div class="col-md-12" style="margin-top:7rem;">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+        <div id="17" style="margin-bottom:1rem;"></div>
+        <div class="col-md-12">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var17_1;?>">
                     <div class="acc-btn <? echo $var17_2;?>">
@@ -219,11 +217,9 @@
             </ul>
         </div>
         <!-- Siguiente serie 38 -->
-        <div id="38"></div>
-
+        <div id="38" style="margin-bottom:2rem;"></div>
         <div class="col-md-12">
-            <ul class="accordion-box clearfix" style="margin-top:7rem;">
-
+            <ul class="accordion-box clearfix" >
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn  <? echo $var38_2;?>">
                         <h2>ForView 38</h2>
@@ -278,8 +274,8 @@
             </ul>
         </div>
         <!-- Siguiente serie 54 -->
-        <div id="54"></div>
-        <div class="col-md-12" style="margin-top:7rem;">
+        <div id="54" style="margin-bottom:2rem;"></div>
+        <div class="col-md-12">
 
             <ul class="accordion-box clearfix">
 
@@ -337,8 +333,8 @@
         </div>
 
         <!-- Siguiente serie Esencia -->
-        <div id="Esencia"></div>
-        <div class="col-md-12" style="margin-top:7rem;">
+        <div id="Esencia" style="margin-bottom:2rem;"></div>
+        <div class="col-md-12">
 
             <ul class="accordion-box clearfix">
 
