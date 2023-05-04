@@ -204,7 +204,7 @@
                      </div>
                      <div class="projects2-con">
                          <p>02</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotante">Pivotante</a></h3>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/pivotanteP">Pivotante</a></h3>
                          <a href="/pivotante" class="project2-link"></a>
                      </div>
                  </div>
