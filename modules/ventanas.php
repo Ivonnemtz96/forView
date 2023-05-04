@@ -11,7 +11,7 @@
                             </a>
                     <div class="projects2-con" style="z-index: 1;">
                         <p>01</p>
-                        <h3 style="background: #fff;padding: 5px;"><a href="/pivotante-ventana">Batientes</a></h3>
+                        <h3 style="background: #fff;padding: 5px;"><a href="/ventana-batiente">Batientes</a></h3>
                         <a href="/proyectante" class="project2-link"></a>
                     </div>
                 </div>
