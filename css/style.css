@@ -38,6 +38,11 @@
 ------------------------------------------------------------------- */
 
 /* ======= General style ======= */
+* {
+  margin: 0;
+  padding: 0;
+  }
+  
 html,
 body {
   -moz-osx-font-smoothing: grayscale;

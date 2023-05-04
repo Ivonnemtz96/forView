@@ -137,7 +137,7 @@
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-        <div id="17" style="margin-bottom:1rem;"></div>
+        <div id="17" style="margin-bottom:5rem;"></div>
         <div class="col-md-12">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var17_1;?>">
@@ -217,7 +217,7 @@
             </ul>
         </div>
         <!-- Siguiente serie 38 -->
-        <div id="38" style="margin-bottom:2rem;"></div>
+        <div id="38" style="margin-bottom:5rem;"></div>
         <div class="col-md-12">
             <ul class="accordion-box clearfix" >
                 <li class="accordion block <? echo $var38_1;?>">
@@ -274,7 +274,7 @@
             </ul>
         </div>
         <!-- Siguiente serie 54 -->
-        <div id="54" style="margin-bottom:2rem;"></div>
+        <div id="54" style="margin-bottom:5rem;"></div>
         <div class="col-md-12">
 
             <ul class="accordion-box clearfix">
@@ -333,7 +333,7 @@
         </div>
 
         <!-- Siguiente serie Esencia -->
-        <div id="Esencia" style="margin-bottom:2rem;"></div>
+        <div id="Esencia" style="margin-bottom:5rem;"></div>
         <div class="col-md-12">
 
             <ul class="accordion-box clearfix">

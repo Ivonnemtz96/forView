@@ -1,7 +1,8 @@
+<!-- Project Page  -->
 <section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
         <div class="row align-items-center">
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <span>Producto</span>
                 <h2>Puerta Pivotante</h2>
                 <h2></h2>
@@ -14,13 +15,15 @@
                     integrada en correderas de más de 4 hojas representa una práctica solución que permite la transición
                     si necesidad de mover el sistema de correderas.
                 </p>
+
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4 justify-content-center align-items-center">
                 <div class="fotorama" data-width="100%" data-ratio="800/600" data-minwidth="400" data-maxwidth="1000"
                     data-minheight="300" data-maxheight="100%">
                     <img class="img-fluid" src="/images/projects/42.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/24.jpg" alt="">
                     <img class="img-fluid" src="/images/projects/26.jpg" alt="">
+
                 </div>
 
             </div>
@@ -63,7 +66,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 mt-4 mb-5">
+            <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>El Dorado / Villa 419. Los Cabos, México.</strong>
                 </h3>
@@ -104,21 +107,23 @@
     </div>
 </section>
 
+
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-            <div id="28" style="margin-bottom:7rem;"></div>
-            <div class="col-md-12">
+            <!-- Siguiente serie 54 -->
+            <div id="28"></div>
+            <div class="col-md-12" style="margin-top:10rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?>">
-                        <div class="acc-btn <? echo $var_2;?>">
+                        <div class="acc-btn  <? echo $var_2;?>">
                             <h2>ForView 28 Puerta Pivotante</h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>;">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
-                                    La puerta pivotante opera sobre su eje vertical normalmente posicionado en un
+                                        La puerta pivotante opera sobre su eje vertical normalmente posicionado en un
                                         lado, una forma
                                         elegante de transición para ambientes colocados en el mismo nivel gracias a las
                                         líneas esenciales de
@@ -131,22 +136,23 @@
                                         si necesidad de mover el sistema de correderas.
                                     </p>
                                     <p>
-                                    <h4>Configuración</h4>
-                                    <ol style="color: #000;">
-                                    <li>Marco principal</li>
+                                        <h4>Configuración</h4>
+                                        <ol style="color: #000;">
+                                            <li>Marco principal</li>
                                             <li>Zoclo</li>
                                             <li>Maneta</li>
                                             <li>Sistema cerradura</li>
                                             <li>Cubre pijas</li>
                                             <li>Felpa</li>
                                             <li>Vinil guarda polvo</li>
-                                    </ol>
+                                        </ol>
                                     </p>
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                            <span>Pivotante / ForView 28</span> <br>
+                                                <span>Pivotante / ForView 28</span> <br>
                                                 <img style="width: 20rem;" src="/images/mapas/pivotante-28.png" alt="">
+
                                             </div>
                                         </div>
                                     </div>
@@ -158,22 +164,22 @@
                             </div>
                         </div>
                     </li>
-
                 </ul>
             </div>
-            <!-- Siguiente serie 38 -->
-            <div id="38" style="margin-bottom:10rem;"></div>
-            <div class="col-md-12">
+
+            <!-- Serie 38 -->
+            <div id="38" class="mb-3"></div>
+            <div class="col-md-12" style="margin-top:10rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var38_1;?>">
                         <div class="acc-btn <? echo $var38_2;?>">
                             <h2>Pivotante ForView 38</h2>
                         </div>
-                        <div class="acc-content" style="<? echo $var38_3;?>;">
+                        <div class="acc-content" style="<? echo $var38_3;?>">
                             <div class="content">
                                 <div class="text">
                                     <p style="color: #000;">
-                                    La puerta pivotante opera sobre su eje vertical normalmente posicionado en un
+                                        La puerta pivotante opera sobre su eje vertical normalmente posicionado en un
                                         lado, una forma
                                         elegante de transición para ambientes colocados en el mismo nivel gracias a las
                                         líneas esenciales de
@@ -186,20 +192,20 @@
                                         si necesidad de mover el sistema de correderas. 
                                     </p>
                                     <p>
-                                    <h4>Configuración</h4>
-                                    <ol style="color: #000;">
-                                    <li>Marco principal</li>
+                                        <h4>Configuración</h4>
+                                        <ol style="color: #000;">
+                                            <li>Marco principal</li>
                                             <li>Zoclo</li>
                                             <li>Cabezal</li>
                                             <li>Maneta</li>
                                             <li>Sistema cerradura</li>
                                             <li>Felpa</li>
-                                    </ol>
+                                        </ol>
                                     </p>
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                            <span>Pivotante / ForView 38</span> <br>
+                                                <span>Pivotante / ForView 38</span> <br>
                                                 <img style="width: 20rem;" src="/images/mapas/pivotante-38.png" alt="">
 
                                             </div>
@@ -215,7 +221,6 @@
                     </li>
                 </ul>
             </div>
-
         </div>
     </div>
 </section>

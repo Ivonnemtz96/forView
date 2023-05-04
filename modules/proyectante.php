@@ -95,7 +95,7 @@
 
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
-        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
             <div id="28"></div>
             <div class="col-md-12" style="margin-top:7rem;">
                 <ul class="accordion-box clearfix" >
@@ -165,8 +165,8 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/Piso-plano-FV54.pdf"
-                    download="Piso-plano-FV54.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Ventana-proyectante.pdf"
+                    download="Ventana-proyectante.pdf">
                     Descargar
                 </a>
             </div>
