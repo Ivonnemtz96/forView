@@ -4,11 +4,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 caption mt-60">
-                <div style="background-color: #fff; width: fit-content; padding: 7px; margin-left: 0;" class="subtitle">
+                <div style="background-color: #ffffff85; width: fit-content; padding: 7px; margin-left: 0;" class="subtitle">
                     Solicitud de documentación
                 </div>
                 <br>
-                <div style="background-color: #fff;color:#000; width: fit-content; padding: 7px; text-transform:none;" class="title">
+                <div style="background-color: #ffffff85;color:#000; width: fit-content; padding: 7px; text-transform:none;" class="title">
                     <strong>Escríbenos</strong>
                 </div>
             </div>
