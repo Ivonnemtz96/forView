@@ -60,7 +60,7 @@
                 <ul class="accordion-box clearfix">
                     <li class="accordion block" id="puerta">
                         <div class="acc-btn">
-                            <h2>ForView 28 / Puerta batiente</h2>
+                            <h2>ForView 28  Puerta batiente</h2>
                         </div>
                         <div class="acc-content">
                             <div class="content">
@@ -113,7 +113,7 @@
                     </li>
                     <li class="accordion block" id="ventana">
                         <div class="acc-btn">
-                            <h2>ForView 28 / Ventana batiente</h2>
+                            <h2>ForView 28 Ventana batiente</h2>
                         </div>
                         <div class="acc-content">
                             <div class="content">

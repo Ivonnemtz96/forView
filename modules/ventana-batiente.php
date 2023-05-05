@@ -102,7 +102,7 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 28 -->
         <div id="batiente"></div>
-        <div class="col-md-12" style="margin-top:10rem;">
+        <div class="col-md-12" style="margin-top:8rem;">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var28_1;?>">
                     <div class="acc-btn <? echo $var28_2;?>">
@@ -137,7 +137,7 @@
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <span>ForView 28 / Ventana Batiente</span> <br>
+                                            <span>ForView 28 Ventana Batiente</span> <br>
                                             <img style="width: 20rem;" src="/images/mapas/ventana-batiente.png" alt="">
                                         </div>
                                     </div>

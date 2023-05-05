@@ -81,9 +81,9 @@
                  </div>
              </div>
 
-             <div class="col-md-4 single-item abatible">
+             <div  class="col-md-4 single-item abatible">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="/images/slider/batiente.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/28.jpg" alt=""></a>
                      <div class="projects2-con">
                          <!-- <p>Project P.05</p>
                          <h3><a href="#">Mountain House</a></h3> -->
@@ -98,6 +98,17 @@
                      <div class="projects2-con">
                          <!-- <p>Project P.03</p>
                          <h3><a href="#">Ultra BlackHome</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+             <div  class="col-md-4 single-item abatible">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/29.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
@@ -131,6 +142,17 @@
                      <div class="projects2-con">
                          <!-- <p>Project P.06</p>
                          <h3><a href="#">Modern Food Table</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+             <div  class="col-md-4 single-item abatible">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/30.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>

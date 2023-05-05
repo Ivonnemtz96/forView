@@ -108,7 +108,7 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 38 -->
         <div id="28" style="margin-bottom: 1rem;"></div>
-        <div class="col-md-12" style="margin-top:7rem;">
+        <div class="col-md-12" style="margin-top:8rem;">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var28_1;?>">
                     <div class="acc-btn <? echo $var28_2;?>">
@@ -145,7 +145,7 @@
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <span>Pivotante / ForView 28</span> <br>
+                                            <span>ForView 28 Pivotante </span> <br>
                                             <img style="width: 20rem;" src="/images/mapas/pivotante-28.png" alt="">
                                         </div>
                                     </div>
@@ -165,10 +165,10 @@
         <!-- Siguiente serie 54 -->
         <div id="38"></div>
         <div class="col-md-12">
-            <ul class="accordion-box clearfix" style="margin-top:7rem;">
+            <ul class="accordion-box clearfix" style="margin-top:6rem;">
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn  <? echo $var38_2;?>">
-                        <h2>Pivotante ForView 38</h2>
+                        <h2> ForView 38 Pivotante</h2>
                     </div>
                     <div class="acc-content" style="<? echo $var38_3;?>;">
                         <div class="content">
@@ -200,7 +200,7 @@
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <span>Pivotante / ForView 38</span> <br>
+                                            <span> ForView 38 Pivotante</span> <br>
                                             <img style="width: 20rem;" src="/images/mapas/pivotante-38.png" alt="">
 
                                         </div>

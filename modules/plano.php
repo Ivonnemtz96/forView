@@ -12,6 +12,7 @@
                     <div class="projects2-con" style="z-index: 1;">
                         <p>01</p>
                         <h3 style="background: #fff;padding: 5px;"><a href="/piso">Piso Plano</a></h3>
+                        <a href="/piso" class="project2-link"></a>
 
                     </div>
                 </div>
@@ -23,8 +24,8 @@
                    
                     <div class="projects2-con">
                         <p>02</p>
-                        <h3 style="background: #fff;padding: 5px;"><a href="/plano">Full Plano</a></h3>
-                        <a href="/plano" class="project2-link"></a>
+                        <h3 style="background: #fff;padding: 5px;"><a href="/full">Full Plano</a></h3>
+                        <a href="/full" class="project2-link"></a>
                     </div>
                 </div>
             </div>

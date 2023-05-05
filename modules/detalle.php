@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <span>Producto</span>
-                <h2>Corredera</h2>
+                <h2>Clásica</h2>
                 <h2></h2>
                 <p>
                     El sistema corredizo permite acceder a una amplia vista panorámica, con distintas configuraciones de
@@ -340,7 +340,7 @@
 
                 <li class="accordion block <? echo $varEs_1;?>">
                     <div class="acc-btn <? echo $varEs_2;?>">
-                        <h2>ForView Esencia 200</h2>
+                        <h2>Esencia 200</h2>
                     </div>
                     <div class="acc-content" style="<? echo $varEs_3;?>;">
                         <div class="content">
@@ -375,7 +375,7 @@
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <span>ForView Esencia</span> <br>
+                                            <span>Esencia 200</span> <br>
                                             <img style="width: 20rem;" src="/images/mapas/FvEsencia-200.png" alt="">
 
                                         </div>

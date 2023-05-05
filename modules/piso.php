@@ -111,11 +111,11 @@
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <div id="54"></div>
-            <div class="col-md-12" style="margin-top:10rem;">
+            <div class="col-md-12" style="margin-top:5rem;">
                 <ul class="accordion-box clearfix" >
                     <li class="accordion block <? echo $var54_1;?>">
                         <div class="acc-btn  <? echo $var54_2;?>">
-                            <h2>Piso Plano ForView 54</h2>
+                            <h2>ForView 54 Piso Plano </h2>
                         </div>
                         <div class="acc-content" style="<? echo $var54_3;?>;">
                             <div class="content">

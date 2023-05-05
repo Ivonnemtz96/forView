@@ -35,14 +35,13 @@
 </section>
 
 
-<div id="28"></div>
 <section class="section-padding" style="padding-top: 0px;">
 
     <div class="container">
 
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-
-            <div class="col-md-12" style="margin-top: 10rem;">
+        <div id="28"  style="margin-bottom: 0rem;"></div>
+            <div class="col-md-12">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?>">
 
@@ -78,7 +77,7 @@
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <span>ForView 28 / Ventana Batiente</span> <br>
+                                                <span>ForView 28 Ventana Batiente</span> <br>
                                                 <img style="width: 20rem;" src="/images/mapas/ventana-batiente.png"
                                                     alt="">
                                             </div>

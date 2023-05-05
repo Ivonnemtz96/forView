@@ -102,11 +102,11 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 38 -->
         <div id="38"></div>
-        <div class="col-md-12" style="margin-top:10rem;">
+        <div class="col-md-12" style="margin-top:8rem;">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn <? echo $var38_2;?>">
-                        <h2>Pivotante Corredera ForView 38</h2>
+                        <h2>ForView 38 Pivotante + Corredera</h2>
                     </div>
                     <div class="acc-content" style="<? echo $var38_3;?>;">
                         <div class="content">
@@ -147,7 +147,7 @@
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <span>Pivotante Corredera ForView 38</span> <br>
+                                            <span>Pivotante + Corredera ForView 38</span> <br>
                                             <img style="width: 20rem;" src="/images/mapas/integrado-38.png" alt="">
                                         </div>
                                     </div>
@@ -173,11 +173,11 @@
         </div>
         <!-- Siguiente serie 54 -->
         <div id="54"></div>
-        <div class="col-md-12">
-            <ul class="accordion-box clearfix" style="margin-top:10rem;">
+        <div class="col-md-12" style="margin-top:6rem;">
+            <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn  <? echo $var54_2;?>">
-                        <h2>ForView 54 Pivotante- Corredera</h2>
+                        <h2>ForView 54 Pivotante + Corredera</h2>
                     </div>
                     <div class="acc-content" style="<? echo $var54_3;?>;">
                         <div class="content">
@@ -216,7 +216,7 @@
                                 <div class="container mb-5">
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <span>ForView 54 Integrado</span> <br>
+                                            <span>ForView 54 Pivotante + Corredera</span> <br>
                                             <img style="width: 20rem;" src="/images/mapas/integrado-54.png" alt="">
 
                                         </div>

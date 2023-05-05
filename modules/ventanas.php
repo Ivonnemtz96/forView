@@ -6,13 +6,13 @@
         <div class="row projects2-items animate-box" data-animate-effect="fadeInUp">
             <div class="col-md-6 mt-3 mb-5 single-item ongoing" style="margin-top: 2rem; margin-bottom: 2rem;">
                 <div class="projects2-wrap">
-                <a href="/proyectante" >
+                <a href="/ventana-batiente" >
                             <img  src="/images/projects/28.jpg" alt="">
                             </a>
                     <div class="projects2-con" style="z-index: 1;">
                         <p>01</p>
                         <h3 style="background: #fff;padding: 5px;"><a href="/ventana-batiente">Batientes</a></h3>
-                        <a href="/proyectante" class="project2-link"></a>
+                        <a href="/ventana-batiente" class="project2-link"></a>
                     </div>
                 </div>
             </div>

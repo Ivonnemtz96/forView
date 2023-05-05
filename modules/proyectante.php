@@ -97,11 +97,11 @@
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
             <div id="28"></div>
-            <div class="col-md-12" style="margin-top:7rem;">
+            <div class="col-md-12" style="margin-top:8rem;">
                 <ul class="accordion-box clearfix" >
                     <li class="accordion block <? echo $var_1;?>">
                         <div class="acc-btn  <? echo $var_2;?>">
-                            <h2>Ventana Proyectante ForView 28</h2>
+                            <h2>ForView 28 Ventana Proyectante </h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>;">
                             <div class="content">
@@ -133,7 +133,7 @@
                                     <div class="container mb-5">
                                         <div class="row">
                                             <div class="col-md-12">
-                                            <span>ForView 28 / Ventana Proyectante</span> <br>
+                                            <span>ForView 28 Ventana Proyectante</span> <br>
                                                 <img style="width: 20rem;" src="/images/mapas/ventana-proyectante.png" alt="">
 
                                             </div>

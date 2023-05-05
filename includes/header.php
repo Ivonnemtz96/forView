@@ -5,11 +5,11 @@
     </div>
 </div>
 <!-- Navbar -->
-<div class="duru-header header-transparent" style="backdrop-filter: brightness(0.7);">
+<div class="duru-header header-transparent menu2 bg-color-2">
     <div class="container">
         <div class="duru-header-container">
             <!-- Logo -->
-            <div class="logo" data-mobile-logo="/images/logo.png" data-sticky-logo="/images/logo.png">
+            <div class="logo">
                 <a href="/index"><img src="/images/logo-white.png" alt=""></a>
             </div>
             <!-- Burger menu -->
@@ -70,7 +70,15 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="/batiente#batiente">Puerta</a></li>
+
+                            <li>
+                                <a href="/batiente">Puerta</a>
+                                <ul>
+                                    <li><a href="/batiente?activo=28#28">ForView 28</a></li>
+                                </ul>
+                            </li>
+
+                            <!-- <li><a href="/batiente#batiente">Puerta</a></li> -->
                             <!-- <li>
                                 <a href="#">Puertas</a>
                                 <ul>
@@ -124,6 +132,44 @@
     </div>
 </div>
 
+<style>
+.sticky2 {
+  position: fixed !important;
+  top: 0;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+    background-color: #fff !important;
+}
 
-<!-- Slider -->
+.bg-color-2 {
+    backdrop-filter: brightness(0.7);
+}
+
+
+.sticky2 .duru-menu > ul > li > a {
+    color: #000 !important;
+}
+
+.line-menu {
+    width: 100%;
+    height: 1px;
+    background-color: #000!important;
+    border-radius: 0px;
+}
+
+</style>
+<script>
+window.addEventListener("scroll", function() {
+  var menu = document.querySelector(".menu2");
+  var logo = document.querySelector(".logo img");
+  menu.classList.toggle("sticky2", window.scrollY > 0);
+  if (menu.classList.contains("sticky2")) {
+    logo.src = "/images/logo.png";
+  } else {
+    logo.src = "/images/logo-white.png";
+  }
+});
+
+</script>
+
+
 

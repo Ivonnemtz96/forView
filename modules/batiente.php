@@ -53,16 +53,17 @@
     </div>
 </section>
 
-<div id="28"></div>
+
 
 <section class="section-padding">
-    <div class="container" style="margin-top: 3rem;">
+    <div class="container" >
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-            <div class="col-md-12">
+        <div id="28"></div>
+            <div class="col-md-12" style="margin-top:5rem;">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?> ">
                         <div class="acc-btn <? echo $var_2;?> ">
-                            <h2>Puerta Batiente ForView 28</h2>
+                            <h2>ForView 28 Puerta Batiente</h2>
                         </div>
                         <div class="acc-content" style="<? echo $var_3;?>">
                             <div class="content">
@@ -112,6 +113,7 @@
             </div>
         </div>
     </div>
+
 </section>
 
 
