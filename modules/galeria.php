@@ -50,7 +50,7 @@
 
              <div class="col-md-4 single-item abatible">
                  <div class="projects2-wrap">
-                     <a href="#"><img src="/images/slider/batienteV.jpg" alt=""></a>
+                     <a href="#"><img src="/images/projects/32.jpg" alt=""></a>
                      <div class="projects2-con">
                          <!-- <p>Project P.05</p>
                          <h3><a href="#">Mountain House</a></h3> -->
@@ -65,6 +65,17 @@
                      <div class="projects2-con">
                          <!-- <p>Project P.02</p>
                          <h3><a href="#">Luxurious Villa</a></h3> -->
+                         <a href="#" class="project2-link"></a>
+                     </div>
+                 </div>
+             </div>
+
+             <div class="col-md-4 single-item corredera">
+                 <div class="projects2-wrap">
+                     <a href="#"><img src="/images/projects/43.jpg" alt=""></a>
+                     <div class="projects2-con">
+                         <!-- <p>Project P.05</p>
+                         <h3><a href="#">Mountain House</a></h3> -->
                          <a href="#" class="project2-link"></a>
                      </div>
                  </div>
