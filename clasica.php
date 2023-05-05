@@ -21,9 +21,9 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
     $var54_2='';
     $var54_3='';
 
-    $varEs_1='';
-    $varEs_2='';
-    $varEs_3='';
+    $var1_1='';
+    $var1_2='';
+    $var1_3='';
 
     if($activo==17){
         $var17_1="active-block";
@@ -41,9 +41,9 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
         $var54_3="display: block;";
     }
     if($activo==1){
-        $varEs_1="active-block";
-        $varEs_2="active";
-        $varEs_3="display: block;";
+        $var1_1="active-block";
+        $var1_2="active";
+        $var1_3="display: block;";
     }
 
 }
@@ -56,7 +56,7 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
     <div class="content-wrapper">
         <?php
          include('includes/header.php');
-         include('modules/detalle.php');
+         include('modules/clasica.php');
          include('includes/footer.php');
          include('includes/redes.php');
         ?>

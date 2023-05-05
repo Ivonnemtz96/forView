@@ -97,7 +97,7 @@
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
             <div id="28"></div>
-            <div class="col-md-12" style="margin-top:8rem;">
+            <div class="col-md-12" style="margin-top:128px;">
                 <ul class="accordion-box clearfix" >
                     <li class="accordion block <? echo $var_1;?>">
                         <div class="acc-btn  <? echo $var_2;?>">

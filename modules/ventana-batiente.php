@@ -102,7 +102,7 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 28 -->
         <div id="batiente"></div>
-        <div class="col-md-12" style="margin-top:8rem;">
+        <div class="col-md-12" style="margin-top:128px;">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var28_1;?>">
                     <div class="acc-btn <? echo $var28_2;?>">

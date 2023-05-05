@@ -40,7 +40,7 @@
     <div class="container">
 
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-        <div id="28"  style="margin-bottom: 0rem;"></div>
+        <div id="28"  style="margin-bottom: 0px;"></div>
             <div class="col-md-12">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var_1;?>">

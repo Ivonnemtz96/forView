@@ -1,4 +1,3 @@
-
 <!-- Project Page  -->
 <section class="project-page section-padding" style="padding-bottom: 0px;">
     <div class="container-fluid p-5">
@@ -126,74 +125,73 @@
 </section>
 
 <section class="section-padding" style="padding-top: 0px;">
+    <div id="54"></div>
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+            <!-- Siguiente serie 54 -->
+            <div class="col-md-12">
+                <ul class="accordion-box clearfix" style="margin-top:80px;">
+                    <li class="accordion block <? echo $var54_1;?>">
+                        <div class="acc-btn  <? echo $var54_2;?>">
+                            <h2>ForView 54 Full Plano </h2>
+                        </div>
+                        <div class="acc-content" style="<? echo $var54_3;?>;">
+                            <div class="content">
+                                <div class="text">
+                                    <p style="color: #000;">
+                                        El sistema full plano FV-54 diseñado para
+                                        elementos monumentales cuyas
+                                        dimensiones sobrepasan por mucho los
+                                        estándares comerciales.
+                                        Con perfilería robusta permitiendo una
+                                        vista limpia con un mínimo porcentaje de
+                                        obstrucción , contramarco perimetral y
+                                        guía de riel escondidos detrás del material
+                                        de acabado final , y gran sensación en su
+                                        operación.
+                                        Con la posibilidad de colocar distintas
+                                        configuraciones de cristal llegando a
+                                        ocupar un espesor máximo de 54mm, esto
+                                        en conjunto con la ruptura de puente
+                                        térmico lleva las prestaciones térmicas y
+                                        acústicas al más alto nivel.
+                                    </p>
+                                    <p>
+                                    <h4>Configuración</h4>
+                                    <ol style="color: #000;">
+                                        <li>Marco principal embutido</li>
+                                        <li>Cerco fijo</li>
+                                        <li>Cerco chapa</li>
+                                        <li>Cabezal minimalista</li>
+                                        <li>Zoclo minimalista</li>
+                                        <li>Traslape</li>
+                                        <li>Riel</li>
+                                        <li>Rodamiento</li>
+                                        <li>Tirador doble fagal</li>
+                                        <li>Tapcon hexagonal</li>
+                                    </ol>
+                                    </p>
+                                    <div class="container mb-5">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <span>ForView 54 Full Plano</span> <br>
+                                                <img style="width: 20rem;" src="/images/mapas/fullFV-54.png" alt="">
 
-        <!-- Siguiente serie 54 -->
-        <div id="54"></div>
-        <div class="col-md-12" style="margin-top:80px;">
-            <ul class="accordion-box clearfix" >
-                <li class="accordion block <? echo $var54_1;?>">
-                    <div class="acc-btn  <? echo $var54_2;?>">
-                        <h2>ForView 54 Full Plano </h2>
-                    </div>
-                    <div class="acc-content" style="<? echo $var54_3;?>;">
-                        <div class="content">
-                            <div class="text">
-                                <p style="color: #000;">
-                                    El sistema full plano FV-54 diseñado para
-                                    elementos monumentales cuyas
-                                    dimensiones sobrepasan por mucho los
-                                    estándares comerciales.
-                                    Con perfilería robusta permitiendo una
-                                    vista limpia con un mínimo porcentaje de
-                                    obstrucción , contramarco perimetral y
-                                    guía de riel escondidos detrás del material
-                                    de acabado final , y gran sensación en su
-                                    operación.
-                                    Con la posibilidad de colocar distintas
-                                    configuraciones de cristal llegando a
-                                    ocupar un espesor máximo de 54mm, esto
-                                    en conjunto con la ruptura de puente
-                                    térmico lleva las prestaciones térmicas y
-                                    acústicas al más alto nivel.
-                                </p>
-                                <p>
-                                <h4>Configuración</h4>
-                                <ol style="color: #000;">
-                                    <li>Marco principal embutido</li>
-                                    <li>Cerco fijo</li>
-                                    <li>Cerco chapa</li>
-                                    <li>Cabezal minimalista</li>
-                                    <li>Zoclo minimalista</li>
-                                    <li>Traslape</li>
-                                    <li>Riel</li>
-                                    <li>Rodamiento</li>
-                                    <li>Tirador doble fagal</li>
-                                    <li>Tapcon hexagonal</li>
-                                </ol>
-                                </p>
-                                <div class="container mb-5">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <span>ForView 54 Full Plano</span> <br>
-                                            <img style="width: 20rem;" src="/images/mapas/fullFV-54.png" alt="">
-
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
+                                <a type="button" class="btn btn-dark mt-3" href="/pdf/Full-plano-FV54.pdf"
+                                    download="Full-plano-FV54.pdf">
+                                    Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
+                                </a>
                             </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Full-plano-FV54.pdf"
-                                download="Full-plano-FV54.pdf">
-                                Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                            </a>
                         </div>
-                    </div>
-                </li>
-            </ul>
-        </div>
+                    </li>
+                </ul>
+            </div>
 
-    </div>
+        </div>
     </div>
 </section>
 
@@ -208,7 +206,8 @@
                 <span>Puede conocer sus características técnicas descargando el folleto técnico de ForView</span>
                 <br><br>
 
-                <a type="button" class="btn btn-dark mt-3" href="/pdf/Full-plano-FV54.pdf" download="Full-plano-FV54.pdf">
+                <a type="button" class="btn btn-dark mt-3" href="/pdf/Full-plano-FV54.pdf"
+                    download="Full-plano-FV54.pdf">
                     Descargar
                 </a>
             </div>

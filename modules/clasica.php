@@ -136,10 +136,11 @@
 
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
-        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
-        <div id="17" style="margin-bottom:5rem;"></div>
-        <div class="col-md-12">
-            <ul class="accordion-box clearfix">
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
+        <div id="17" ></div>
+        <div class="col-md-12 clasica">
+        
+            <ul class="accordion-box clearfix" >
                 <li class="accordion block <? echo $var17_1;?>">
                     <div class="acc-btn <? echo $var17_2;?>">
                         <h2>ForView 17</h2>
@@ -217,9 +218,9 @@
             </ul>
         </div>
         <!-- Siguiente serie 38 -->
-        <div id="38" style="margin-bottom:5rem;"></div>
-        <div class="col-md-12">
-            <ul class="accordion-box clearfix" >
+        <div id="38"></div>
+        <div class="col-md-12 clasica">
+            <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn  <? echo $var38_2;?>">
                         <h2>ForView 38</h2>
@@ -274,11 +275,9 @@
             </ul>
         </div>
         <!-- Siguiente serie 54 -->
-        <div id="54" style="margin-bottom:5rem;"></div>
-        <div class="col-md-12">
-
-            <ul class="accordion-box clearfix">
-
+        <div id="54"></div>
+        <div class="col-md-12 clasica" >
+            <ul class="accordion-box clearfix" style="margin-top: 80px;">
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn <? echo $var54_2;?>">
                         <h2>ForView 54</h2>
@@ -331,18 +330,15 @@
                 </li>
             </ul>
         </div>
-
         <!-- Siguiente serie Esencia -->
-        <div id="Esencia" style="margin-bottom:5rem;"></div>
-        <div class="col-md-12">
-
+        <div id="1"></div>
+        <div class="col-md-12 clasica" >
             <ul class="accordion-box clearfix">
-
-                <li class="accordion block <? echo $varEs_1;?>">
-                    <div class="acc-btn <? echo $varEs_2;?>">
+                <li class="accordion block <? echo $var1_1;?>">
+                    <div class="acc-btn <? echo $var1_2;?>">
                         <h2>Esencia 200</h2>
                     </div>
-                    <div class="acc-content" style="<? echo $varEs_3;?>;">
+                    <div class="acc-content" style="<? echo $var1_3;?>;">
                         <div class="content">
                             <div class="text">
                                 <p style="color: #000;">

@@ -38,10 +38,7 @@
 ------------------------------------------------------------------- */
 
 /* ======= General style ======= */
-* {
-  margin: 0;
-  padding: 0;
-  }
+
   
 html,
 body {
@@ -3827,4 +3824,23 @@ input[type="checkbox"] {
 .phone2:hover{
   color: #aa8453 !important;
   text-decoration: underline;
+}
+
+/* tamaños de margen */
+.clasica{
+  margin-top: 126px;
+}
+
+@media (width: 768px){
+  .clasica{
+    margin-top: 150px;
+  }
+
+}
+
+@media (min-width: 375px) and (max-width: 600px) {
+  .clasica{
+    margin-top: 142px;
+  }
+
 }

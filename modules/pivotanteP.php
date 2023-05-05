@@ -107,8 +107,8 @@
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 38 -->
-        <div id="28" style="margin-bottom: 1rem;"></div>
-        <div class="col-md-12" style="margin-top:8rem;">
+        <div id="28" style="margin-bottom: 16px;"></div>
+        <div class="col-md-12" style="margin-top:128px;">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var28_1;?>">
                     <div class="acc-btn <? echo $var28_2;?>">
@@ -165,7 +165,7 @@
         <!-- Siguiente serie 54 -->
         <div id="38"></div>
         <div class="col-md-12">
-            <ul class="accordion-box clearfix" style="margin-top:6rem;">
+            <ul class="accordion-box clearfix" style="margin-top:96px;">
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn  <? echo $var38_2;?>">
                         <h2> ForView 38 Pivotante</h2>

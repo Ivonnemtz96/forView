@@ -24,12 +24,12 @@
                     <li><a href="/productos">Productos</a>
                         <ul>
                             <li>
-                                <a href="/detalle">Clásica</a>
+                                <a href="/clasica">Clásica</a>
                                 <ul>
-                                    <li><a href="/detalle?activo=17#17">ForView 17</a></li>
-                                    <li><a href="/detalle?activo=38#38 ">ForView 38</a></li>
-                                    <li><a href="/detalle?activo=54#54">ForView 54</a></li>
-                                    <li><a href="/detalle?activo=1#Esencia">Esencia</a></li>
+                                    <li><a href="/clasica?activo=17#17">ForView 17</a></li>
+                                    <li><a href="/clasica?activo=38#38">ForView 38</a></li>
+                                    <li><a href="/clasica?activo=54#54">ForView 54</a></li>
+                                    <li><a href="/clasica?activo=1#1">Esencia</a></li>
                                 </ul>
                             </li>
                             <li>

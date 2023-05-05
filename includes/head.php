@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="/modules/magnific-popup/magnific-popup.css">
     <link rel="stylesheet" href="/modules/YouTubePopUp/YouTubePopUp.css">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/espacios.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- ForView -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
