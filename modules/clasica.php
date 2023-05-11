@@ -45,7 +45,7 @@
     <div class="container p-5">
         <!-- project slider -->
         <div class="row mt-5">
-            <h2><b>Proyectos</b></h2>
+            <h2><b>Proyectosssssss</b></h2>
             <div class="col-md-12">
                 <p>
                     Te mostramos los proyectos en los que hemos sido parte de cada detalle y profesionalismo.
@@ -65,7 +65,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 mt-4 mb-5">
+            <!-- <div hidden class="col-12 col-md-6 mt-4 mb-5">
                 <h3>
                     <strong>RE 28 Corredera Clásica 17 <br><br></strong>
                 </h3>
@@ -78,7 +78,7 @@
                     <img class="img-fluid" src="/images/projects/74.jpg" alt="">
 
                 </div>
-            </div>
+            </div> -->
 
             <!-- <div class="col-6 col-md-6 mt-4 mb-5">
                 <h3>
@@ -99,6 +99,22 @@
                 <div class="owl-carousel owl-theme">
                     <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/chilenoRe2.jpg" alt="">
                     </div>
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/71.jpg" alt="">
+                    </div>
+
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/72.jpg" alt="">
+                    </div>
+
+                    <div class="portfolio-item">
+                        <img class="img-fluid" src="/images/projects/74.jpg" alt="">
+                    </div>
+
+
+
+
+
                     <!-- <div class="portfolio-item"> <img class="img-fluid" src="/images/projects/ChilenoRe1.jpg" alt="">
                     </div> -->
                 </div>
@@ -137,10 +153,10 @@
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
-        
-       
+
+
         <div id="17" class="col-md-12 mt-30">
-            <ul class="accordion-box clearfix" >
+            <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var17_1;?>">
                     <div class="acc-btn <? echo $var17_2;?>">
                         <h2>ForView 17</h2>

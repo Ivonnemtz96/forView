@@ -66,7 +66,7 @@
         <h3>
           <strong>El Dorado / Villa 419. Los Cabos, México.</strong>
         </h3>
-        <span>ForView 17 / 500</span>
+        <span>ForView 28 / Pivotante</span>
         <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
           <img class="img-fluid" src="/images/projects/68.jpg" alt="">
           <img class="img-fluid" src="/images/projects/69.jpg" alt="">
