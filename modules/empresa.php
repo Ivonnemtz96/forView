@@ -32,10 +32,9 @@
 
                 <p>
                     La experiencia madurada en la empresa de familia de instalación de puertas y ventanas a lado de un
-                    padre ingeniero civil reconocido y estimado en el sector, la pasión por la mecánica de los autos ATR
-                    de carrera, fundamentada en la tecnología y la automatización de procesos para alcanzar la calidad y
+                    padre ingeniero civil reconocido y estimado en el sector, la pasión por la mecánica en los autos de competencia, fundamentada en la tecnología y la automatización de procesos para alcanzar la calidad y
                     precisión deseada, con su obsesión por mejorar constantemente como profesional, ser humano y
-                    empresario han llevado a Jose Humberto Armenta a fundar en 2022 For View Doors & Windows.
+                    empresario han llevado a Jose Humberto Armenta a fundar en 2022 ForView Doors & Windows.
                 </p>
             </div>
         </div>
@@ -80,7 +79,7 @@
                 </p>
                 <h4><span>Acciones que ejecuta la tecnología:</span></h4>
                 <p>
-                    Calcular, Dibujar, transportar, cortar, atornillar, barrenar, pintar, sellar, vidriar. <br><br>
+                    Calcular, Dibujar, transportar, cortar, atornillar, barrenar, pintar, sellar, acristalar. <br><br>
                     Cualquier acción implica esfuerzo físico y emocional en menor o mayor medida. Involucrarse no solo
                     físicamente si no emotivamente en lo que se hace y hacer que el resultado deseado sea por si mismo
                     una recompensa del esfuerzo hecho, por todo el equipo de ForView.

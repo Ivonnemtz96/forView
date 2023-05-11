@@ -38,7 +38,7 @@
     <div class="container animate-box" style="background-color: #000;  padding: 20px;" data-animate-effect="fadeInUp">
         <div class="row justify-content-center align-items-center">
             <div class="col-md-9">
-                <h2 style="color: #fff;">Contáctenos ahora mismo para obtener un diseño personalizado y de alta calidad.
+                <h2 style="color: #fff;">Contáctenos ahora mismo para obtener un diseño personalizado.
                 </h2>
             </div>
             <div class="col-md-3 ">

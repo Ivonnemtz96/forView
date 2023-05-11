@@ -79,7 +79,7 @@
         <h3>
           <strong>Palmilla / Villa 381 Los Cabos, <br> México.</strong>
         </h3>
-        <span>ForView 28 / Pivotante</span>
+        <span>Jansen / Pivotante</span>
         <div class="fotorama" data-loop="true" data-autoplay="true" data-autoplay="1000">
           <img class="img-fluid" src="/images/projects/palmilla1.jpg" alt="">
 

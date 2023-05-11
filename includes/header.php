@@ -6,7 +6,7 @@
         <div class="duru-header-container">
             <!-- Logo -->
             <div class="logo">
-                <a href="/index"><img src="/images/logo-white.png" alt=""></a>
+                <a href="/"><img src="/images/logo-white.png" alt=""></a>
             </div>
             <!-- Burger menu -->
             <div class="burger-menu">
