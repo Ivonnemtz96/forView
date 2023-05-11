@@ -17,41 +17,57 @@
 <!-- icons de redes sociales -->
 <script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
 
+<!-- NAVBAR -->
 <script>
-    let producto1 = document.getElementById('producto1');
-    let producto2 = document.getElementById('producto2');
-    let producto3 = document.getElementById('producto3');
-    let producto4 = document.getElementById('producto4');
+// Hide Navbar on scroll down
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+    if (prevScrollpos > currentScrollPos) {
+        document.getElementById("navbar").style.top = "0";
+    } else {
+        document.getElementById("navbar").style.top = "-80px";
+    }
+    prevScrollpos = currentScrollPos;
 
-    producto1.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/correderasQ.jpg)";
-    })
+}
+</script>
 
-    producto1.addEventListener("mouseout", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/3.jpg)";
-    })
+<script>
+let producto1 = document.getElementById('producto1');
+let producto2 = document.getElementById('producto2');
+let producto3 = document.getElementById('producto3');
+let producto4 = document.getElementById('producto4');
 
-    producto2.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/44.jpg)";
-    })
+producto1.addEventListener("mouseover", (e) => {
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/correderasQ.jpg)";
+})
 
-    producto2.addEventListener("mouseout", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/43.jpg)";
-    })
+producto1.addEventListener("mouseout", (e) => {
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/3.jpg)";
+})
 
-    // producto3.addEventListener("mouseover", (e) => {
-    //     document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
-    // })
+producto2.addEventListener("mouseover", (e) => {
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/44.jpg)";
+})
 
-    // producto3.addEventListener("mouseout", (e) => {
-    //     document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/13.jpg)";
-    // })
+producto2.addEventListener("mouseout", (e) => {
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/43.jpg)";
+})
 
-    producto3.addEventListener("mouseover", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/12.jpg)";
-    })
+// producto3.addEventListener("mouseover", (e) => {
+//     document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
+// })
 
-    producto3.addEventListener("mouseout", (e) => {
-        document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
-    })
+// producto3.addEventListener("mouseout", (e) => {
+//     document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/13.jpg)";
+// })
+
+producto3.addEventListener("mouseover", (e) => {
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/12.jpg)";
+})
+
+producto3.addEventListener("mouseout", (e) => {
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/2.jpg)";
+})
 </script>

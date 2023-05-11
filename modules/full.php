@@ -125,12 +125,15 @@
 </section>
 
 <section class="section-padding" style="padding-top: 0px;">
-    <div id="54"></div>
+    
     <div class="container">
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
             <!-- Siguiente serie 54 -->
+            <div id="54"></div>
+            <div class="d-md-block d-none" style="height:100px"></div>
+            <div class="d-md-none d-block" style="height:100px"></div>
             <div class="col-md-12">
-                <ul class="accordion-box clearfix" style="margin-top:80px;">
+                <ul class="accordion-box clearfix">
                     <li class="accordion block <? echo $var54_1;?>">
                         <div class="acc-btn  <? echo $var54_2;?>">
                             <h2>ForView 54 Full Plano </h2>
@@ -190,7 +193,6 @@
                     </li>
                 </ul>
             </div>
-
         </div>
     </div>
 </section>

@@ -56,7 +56,7 @@ if (isset($_REQUEST['activo'])and($_REQUEST['activo']!='')) {
     <div class="content-wrapper">
         <?php
          include('includes/header.php');
-         include('modules/correderas.php');
+         include('modules/detalle.php');
          include('includes/footer.php');
          include('includes/redes.php');
         ?>

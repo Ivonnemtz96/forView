@@ -53,30 +53,25 @@
                     No dude en trasladarnos su proyecto o enviarnos su solicitud de la forma más detallada posible; esto
                     nos ayudará a satisfacer sus necesidades de la mejor forma posible.
                 </p>
-                <form method="post" class="contact__form" action="">
+                <form method="post" action="/php/contact.php" class="" >
                     <!-- Form message -->
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="alert alert-success contact__msg" style="display: none" role="alert"> Mensaje
-                                enviado</div>
-                        </div>
-                    </div>
+                    
                     <!-- Form elements -->
                     <div class="row">
                         <div class="col-md-12 form-group">
-                            <input name="name" type="text" placeholder="Nombre *" required="">
+                            <input name="nombre" type="text" placeholder="Nombre *" required="">
                         </div>
                         <div class="col-md-12 form-group">
                             <input name="email" type="email" placeholder="Correo *" required="">
                         </div>
                         <div class="col-md-12 form-group">
-                            <input name="phone" type="text" placeholder="Teléfono *" required="">
+                            <input name="tel" type="text" placeholder="Teléfono *" required="">
                         </div>
                         <div class="col-md-12 form-group">
-                            <input name="subject" type="text" placeholder="Asunto *" required="">
+                            <input name="asunto" type="text" placeholder="Asunto *" required="">
                         </div>
                         <div class="col-md-12 form-group">
-                            <textarea name="message" id="message" cols="30" rows="4" placeholder="Mensaje *"
+                            <textarea name="msj" id="message" cols="30" rows="4" placeholder="Mensaje *"
                                 required=""></textarea>
                         </div>
                         <div class="col-md-12 mt-2">

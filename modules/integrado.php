@@ -101,7 +101,9 @@
         <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
         <!-- Serie 38 -->
         <div id="38"></div>
-        <div class="col-md-12" style="margin-top:128px;">
+        <div class="d-md-block d-none" style="height:100px"></div>
+        <div class="d-md-none d-block" style="height:100px"></div>
+        <div class="col-md-12">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn <? echo $var38_2;?>">
@@ -172,7 +174,9 @@
         </div>
         <!-- Siguiente serie 54 -->
         <div id="54"></div>
-        <div class="col-md-12" style="margin-top:96px;">
+        <div class="d-md-block d-none" style="height:100px"></div>
+        <div class="d-md-none d-block" style="height:100px"></div>
+        <div class="col-md-12">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn  <? echo $var54_2;?>">

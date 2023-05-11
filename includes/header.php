@@ -1,9 +1,5 @@
 <!-- Lines -->
-<div class="content-lines-wrapper">
-    <div class="content-lines-inner">
-        <div class="content-lines"></div>
-    </div>
-</div>
+
 <!-- Navbar -->
 <div class="duru-header header-transparent menu2 bg-color-2">
     <div class="container">

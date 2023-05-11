@@ -190,8 +190,8 @@
                      </div>
                      <div class="projects2-con" style="z-index: 1;">
                          <p>01</p>
-                         <h3 style="background: #fff;padding: 5px;"><a href="/detalle">Corredera</a></h3>
-                         <a href="/detalle" class="project2-link"></a>
+                         <h3 style="background: #fff;padding: 5px;"><a href="/clasica">Corredera</a></h3>
+                         <a href="/clasica" class="project2-link"></a>
                      </div>
                  </div>
              </div>
@@ -309,7 +309,7 @@
      <div class="container">
          <div class="row mb-5">
              <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
-                 <h2 class="sub-title border-bot-light" style="text-transform: none;">Consistencia, elegancia, precisión </h2>
+                 <h2 class="sub-title border-bot-light" style="text-transform: none;">Consistencia, Elegancia, Precisión </h2>
              </div>
              <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
                  <div class="section-title" style="text-transform: none;"><span>La equilibrada combinación de estos elementos.</span></div>

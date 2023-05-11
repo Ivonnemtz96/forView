@@ -136,11 +136,10 @@
 
 <section class="section-padding" style="padding-top: 0px;">
     <div class="container">
-        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp"></div>
-        
-       
-        <div id="17" class="col-md-12 mt-30">
-            <ul class="accordion-box clearfix" >
+        <div class="row mb-5 animate-box" data-animate-effect="fadeInUp">
+        <div id="17" style="margin-bottom:80px;"></div>
+        <div class="col-md-12">
+            <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var17_1;?>">
                     <div class="acc-btn <? echo $var17_2;?>">
                         <h2>ForView 17</h2>
@@ -215,169 +214,12 @@
                     </div>
                 </li>
 
-                <div id="38"></div>
-                <li class="accordion block <? echo $var38_1;?>" style="margin-top:100px">
-                    <div class="acc-btn  <? echo $var38_2;?>">
-                        <h2>ForView 38</h2>
-                    </div>
-                    <div class="acc-content" style="<? echo $var38_3;?>;">
-                        <div class="content">
-                            <div class="text">
-                                <p style="color: #000;">
-                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
-                                    configuraciones de
-                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
-                                    generar un cambio
-                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
-                                    al tacto, y a su
-                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
-                                    espacio.
-                                </p>
-                                <p>
-                                <h4>Configuración</h4>
-                                <ol style="color: #000;">
-                                    <li>Marco principal</li>
-                                    <li>Cerco chapa</li>
-                                    <li>Cabezal minimalista</li>
-                                    <li>Zoclo minimalista</li>
-                                    <li>Traslape</li>
-                                    <li>Riel</li>
-                                    <li>Tapa marco</li>
-                                    <li>Rodamiento</li>
-                                    <li>Tirador fagal</li>
-                                    <li>Chapa</li>
-                                    <li>Tapcon hexagonal</li>
-                                    <li>Tapa Cubre pijas</li>
-                                </ol>
-                                </p>
-                                <div class="container mb-5">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <span>ForView 38 / 38</span> <br>
-                                            <img style="width: 20rem;" src="/images/mapas/fv17-38.png" alt="">
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-FV38.pdf"
-                                download="Clásica-FV38.pdf">
-                                Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                            </a>
-                        </div>
-                    </div>
-                </li>
-                <div id="54"></div>
-                <li class="accordion block <? echo $var54_1;?>" style="margin-top:100px">
-                    <div class="acc-btn <? echo $var54_2;?>">
-                        <h2>ForView 54</h2>
-                    </div>
-                    <div class="acc-content" style="<? echo $var54_3;?>;">
-                        <div class="content">
-                            <div class="text">
-                                <p style="color: #000;">
-                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
-                                    configuraciones de
-                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
-                                    generar un cambio
-                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
-                                    al tacto, y a su
-                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
-                                    espacio.
-                                </p>
-                                <p>
-                                <h4>Configuración</h4>
-                                <ol style="color: #000;">
-                                    <li>Marco principal</li>
-                                    <li>Cerco chapa</li>
-                                    <li>Cabezal minimalista</li>
-                                    <li>Zoclo minimalista</li>
-                                    <li>Traslape</li>
-                                    <li>Riel</li>
-                                    <li>Tapa marco</li>
-                                    <li>Rodamiento</li>
-                                    <li>Tirador fagal</li>
-                                    <li>Chapa</li>
-                                    <li>Tapcon hexagonal</li>
-                                </ol>
-                                </p>
-                                <div class="container mb-5">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <span>ForView 54 / 250</span> <br>
-                                            <img style="width: 20rem;" src="/images/mapas/fv54.png" alt="">
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-FV54.pdf"
-                                download="Clásica-FV54.pdf">
-                                Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                            </a>
-                        </div>
-                    </div>
-                </li>
-                <div id="1"></div>
-                <li class="accordion block <? echo $var1_1;?>" style="margin-top:100px">
-                    <div class="acc-btn <? echo $var1_2;?>">
-                        <h2>Esencia 200</h2>
-                    </div>
-                    <div class="acc-content" style="<? echo $var1_3;?>;">
-                        <div class="content">
-                            <div class="text">
-                                <p style="color: #000;">
-                                    El sistema corredizo permite acceder a una amplia vista panorámica, con distintas
-                                    configuraciones de
-                                    hojas y aperturas. Su diseño minimalista permite embutir el marco en el piso sin
-                                    generar un cambio
-                                    de nivel, el cual al realizar una transición entre dos espacios pasa desapercibido
-                                    al tacto, y a su
-                                    vez, es posible almacenar las hojas en un cajón de muro, despejando completamente el
-                                    espacio.
-                                </p>
-                                <p>
-                                <h4>Configuración</h4>
-                                <ol style="color: #000;">
-                                    <li>Marco principal</li>
-                                    <li>Cerco chapa</li>
-                                    <li>Cabezal minimalista</li>
-                                    <li>Zoclo minimalista</li>
-                                    <li>Traslape</li>
-                                    <li>Riel</li>
-                                    <li>Tapa marco</li>
-                                    <li>Rodamiento</li>
-                                    <li>Maneta</li>
-                                    <li>Chapa</li>
-                                    <li>Tapcon hexagonal</li>
-                                    <li>Tapa Cubre pijas</li>
-                                </ol>
-                                </p>
-                                <div class="container mb-5">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <span>Esencia 200</span> <br>
-                                            <img style="width: 20rem;" src="/images/mapas/FvEsencia-200.png" alt="">
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <a type="button" class="btn btn-dark mt-3" href="/pdf/Clásica-Esencia.pdf"
-                                download="Clásica-Esencia.pdf">
-                                Descargar hoja de datos <i class="ti-arrow-circle-down"></i>
-                            </a>
-                        </div>
-                    </div>
-                </li>
-
             </ul>
         </div>
         <!-- Siguiente serie 38 -->
-        <!-- <div id="38"></div>
-        <div class="d-md-block d-none" style="height:100px"></div>
+        <div id="38" style="margin-bottom:80px;"></div>
         <div class="col-md-12">
-            <ul class="accordion-box clearfix">
+            <ul class="accordion-box clearfix" >
                 <li class="accordion block <? echo $var38_1;?>">
                     <div class="acc-btn  <? echo $var38_2;?>">
                         <h2>ForView 38</h2>
@@ -430,11 +272,10 @@
                     </div>
                 </li>
             </ul>
-        </div> -->
+        </div>
         <!-- Siguiente serie 54 -->
-        <!-- <div id="54"></div>
-        <div class="d-md-block d-none" style="height:100px"></div>
-        <div class="col-md-12" >
+        <div id="54" style="margin-bottom:80px;"></div>
+        <div class="col-md-12">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var54_1;?>">
                     <div class="acc-btn <? echo $var54_2;?>">
@@ -487,11 +328,11 @@
                     </div>
                 </li>
             </ul>
-        </div> -->
+        </div>
+
         <!-- Siguiente serie Esencia -->
-        <!-- <div id="1"></div>
-        <div class="d-md-block d-none" style="height:100px"></div>
-        <div class="col-md-12" >
+        <div id="1" ></div>
+        <div class="col-md-12" style="margin-top:80px;">
             <ul class="accordion-box clearfix">
                 <li class="accordion block <? echo $var1_1;?>">
                     <div class="acc-btn <? echo $var1_2;?>">
@@ -545,7 +386,7 @@
                     </div>
                 </li>
             </ul>
-        </div> -->
+        </div>
 
     </div>
     </div>

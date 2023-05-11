@@ -26,7 +26,7 @@
             </div>
             <div class="col-md-6"></div>
             <div class="col-md-4 animate-box" data-animatitulote-effect="fadeInUp">
-                <div class="sub-title border-bot-light" style="text-transform: none;">Somos una empresa mexicana</div>
+                <div class="sub-title border-bot-light" style="text-transform: none;">Somos una empresa Mexicana</div>
             </div>
             <div class="col-md-8 animate-box" data-animate-effect="fadeInUp">
 
@@ -78,7 +78,7 @@
                     Escuchar, Imaginar, Solucionar problemas, Conceptualizar, Medir, Cargar, Instalar
                     <br><br>
                 </p>
-                <h4><span>Y acciones que ejecuta la tecnología:</span></h4>
+                <h4><span>Acciones que ejecuta la tecnología:</span></h4>
                 <p>
                     Calcular, Dibujar, transportar, cortar, atornillar, barrenar, pintar, sellar, vidriar. <br><br>
                     Cualquier acción implica esfuerzo físico y emocional en menor o mayor medida. Involucrarse no solo
