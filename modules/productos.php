@@ -13,7 +13,7 @@
 <div class="container-fluid overflow-hidden">
     <div class="row justify-content-center h-100 m-2">
         <div id="producto1" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
-            <h3 style="text-center"><a href="/detalle" style="color: #000; font-size: 1.4rem;">Correderas</a></h3>
+            <h3 style="text-center"><a href="/clasica" style="color: #000; font-size:1.4rem;">Corredera</a></h3>
             <div class="container d-none d-md-block">
 
                 <p>
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div id="producto2" class="text-center col-4 col-md-4 py-5 px-4 productos-hover">
-            <h3><a href="/pivotante" style="color: #000; font-size: 1.4rem;">Pivotante</a></h3>
+            <h3><a href="/pivotanteP" style="color: #000; font-size: 1.4rem;">Pivotante</a></h3>
             <div class="container d-none d-md-block">
                 <p>
                 <ul class="detalles">

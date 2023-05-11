@@ -44,15 +44,15 @@ producto1.addEventListener("mouseover", (e) => {
 })
 
 producto1.addEventListener("mouseout", (e) => {
-    document.getElementById("banner-productos").style.backgroundImage = "url(/images/slider/3.jpg)";
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/43.jpg)";
 })
 
 producto2.addEventListener("mouseover", (e) => {
-    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/44.jpg)";
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/90.jpg)";
 })
 
 producto2.addEventListener("mouseout", (e) => {
-    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/43.jpg)";
+    document.getElementById("banner-productos").style.backgroundImage = "url(/images/projects/91.jpg)";
 })
 
 // producto3.addEventListener("mouseover", (e) => {
