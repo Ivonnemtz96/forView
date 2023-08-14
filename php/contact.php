@@ -21,6 +21,8 @@ Códigos de error
 // $captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
 // if (!$captcha_es_valido) {
 //   mandarError("3");
+
+//ebmeI5PZCIix       info@@forviewdoors.com 
 // }
 
 if (!validarVariable($nombre)|| !validarVariable($email)|| !validarVariable($tel)||!validarVariable($asunto)|| !validarVariable($msj)) {
